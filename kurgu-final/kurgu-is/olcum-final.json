@@ -1,0 +1,52 @@
+{
+ "B": "I -15.2 / TP -1.7 / LRA 6.7",
+ "B_probe": {
+  "programs": [],
+  "streams": [
+   {
+    "codec_name": "h264",
+    "profile": "High",
+    "width": 1280,
+    "height": 720,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "24/1"
+   },
+   {
+    "codec_name": "aac",
+    "profile": "LC",
+    "sample_rate": "48000",
+    "channels": 2,
+    "r_frame_rate": "0/0"
+   }
+  ],
+  "format": {
+   "duration": "251.416667",
+   "size": "79606434"
+  }
+ },
+ "A": "I -15.2 / TP -0.8 / LRA 6.8",
+ "A_probe": {
+  "programs": [],
+  "streams": [
+   {
+    "codec_name": "h264",
+    "profile": "High",
+    "width": 1280,
+    "height": 720,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "24/1"
+   },
+   {
+    "codec_name": "aac",
+    "profile": "LC",
+    "sample_rate": "48000",
+    "channels": 2,
+    "r_frame_rate": "0/0"
+   }
+  ],
+  "format": {
+   "duration": "251.416667",
+   "size": "79600516"
+  }
+ }
+}

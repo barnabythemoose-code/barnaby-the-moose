@@ -66,24 +66,25 @@ Son kart: koyu lacivert (0x0a1428) üstüne logo 420 px, 0,3–1,2 sn alfa giri�
 ## 4. Ses tasarımı
 - **Stemler:** `diyalog` (VC+TTS+ham Hmm), `muzik` (M1 S6–S7 64 sn, M2 S8–S9+kart 58 sn; ElevenLabs Music instrumental), `sfx` (yalnız B'de), `ortam` (Seedance konuşmasız ortamları + rüzgâr yatağı), ayrıca `hazir-miks-S5-D1-E1-B/A` (03'teki hazır miksler, +1,5 dB) ve `S1-S4-blok`. A = B − sfx, hazır A miksleriyle.
 - **Müzik:** M1 S5-3b bitiminden 1,5 sn önce (137,25) girer, S7-1-B sonunda 1,2 sn söner; M2 S8-1'den 1,0 sn önce (196,8) girer, son replikten sonra +5 dB yükselir, kartta 2,5 sn'de çözülür. Diyalog altında otomatik ducking: M1 −9 dB, M2 −8 dB (0,3 sn rampa), D1/E1 hazır miksleri altında ek −5 dB. Sonuç: müzik diyalog altında ≈ −35 LUFS, diyalog ≈ −17 → 18 dB fark.
-- **Seviye hedefleri:** replikler −17 LUFS (fısıltılar −20, 'Not pie?'/'Go.' −18,5, Anne S8-4 −18,5), Seedance ortamları 0 dB (≈ −26), rüzgâr −27, çanlar −8…−16, foley −12…−18. Miks: hafif bus kompresörü (−26 dB, 1,8:1) → −15 LUFS → limiter −1,7 dB.
+- **Seviye hedefleri:** replikler −17 LUFS (fısıltılar −20, 'Not pie?'/'Go.' −18,5, Anne S8-4 −18,5), Seedance ortamları 0 dB (≈ −26), rüzgâr −27, çanlar −8…−16, foley −12…−18. Miks: hafif bus kompresörü (−26 dB, 1,8:1) → −15 LUFS → limiter −2,9 dB (AAC kodlama sonrası TP ≤ −1 için).
 - **Duygu sesleri:** S6-4 kapalı ağız 'Hmm' (1,78–2,10, ham Seedance, −4 dB) korundu; başka efor sesi eklenmedi (fısıltı planları zaten sessiz).
 
 ## 5. Ölçüm tablosu
 | Ölçüm | Hedef | B (efektli) | A (efektsiz) |
 |---|---|---|---|
-| Integrated loudness | −16…−14 LUFS | -15,00 | -15,10 |
-| True peak | ≤ −1 dBTP | -0,80 | -0,90 |
-| LRA | ≤ 8 LU | 6,80 | 7,00 |
+| Integrated loudness | −16…−14 LUFS | -15,10 | -15,20 |
+| True peak | ≤ −1 dBTP | -1,50 | -2,00 |
+| LRA | ≤ 8 LU | 6,60 | 6,80 |
 | Tam sessizlik > 1,5 sn | yok | 0 | 0 |
 | Kesimde M−3s sıçraması > +6 dB | yok | 0 | 0 |
+| Final mp4 (AAC) I / TP / LRA | | I -15.2 / TP -1.7 / LRA 6.7 | I -15.2 / TP -0.8 / LRA 6.8 |
 | Donuk kare (freezedetect −60 dB, 0,4 sn) | elle bak | 8,4–9,1 ve 36,6–38,4 (blok, dokunulmadı); 155,4–155,8 (D2, Hazel repliği üstünde, kaynak); 164,9–165,3 (E2 dinleme tutuşu); 249,1→son (kart) | aynı |
 | Flaş (ΔY≥12, sn başına >3) | yok | 11. sn (blok) ve 229–230 (S8-4 Baba kesmesi) — ikisi de strob değil | aynı |
 | Kesimde ortalama Y sıçraması > 15 | yumuşat | 3 kesim, 0,5 sn pozlama rampası uygulandı | aynı |
 
 **Kesim parlaklık farkları (son kare → ilk kare, Y/255):** S1-S4 blok→S5-1a +0,7; S5-1a→S5-1b +23,6; S5-1b→S5-2a -0,9; S5-2a→S5-2b -2,3; S5-2b→S5-2c -2,3; S5-2c→S5-3a -2,2; S5-3a→S5-3b +6,2; S5-3b→S6-1 -0,3; S6-1→S6-2-D1 +0,3; S6-2-D1→S6-2-D2 +0,4; S6-2-D2→S6-3-E1 -1,7; S6-3-E1→S6-3-E2 -1,9; S6-3-E2→S6-4 +0,5; S6-4→S6-5 -2,2; S6-5→S7-1-B +0,8; S7-1-B→S8-1-B2 genis -27,0; S8-1-B2 genis→S8-1-B2 Anne punch-in +1,1; S8-1-B2 Anne punch-in→S8-2 +0,3; S8-2→S8-3 -3,4; S8-3→S8-4 -19,9; S8-4→S9-1 +0,4; S9-1→S9-2a +1,3; S9-2a→S9-2b +6,2; S9-2b→Son kart -3,3
 
-**Parça bazlı RMS (B, dBFS):** S1-S4 blok -18,2; S5-1a -18,2; S5-1b -24,9; S5-2a -24,1; S5-2b -23,7; S5-2c -22,8; S5-3a -26,7; S5-3b -19,7; S6-1 -19,4; S6-2-D1 -18,9; S6-2-D2 -19,5; S6-3-E1 -18,4; S6-3-E2 -20,6; S6-4 -18,7; S6-5 -18,7; S7-1-B -18,4; S8-1-B2 genis -17,3; S8-1-B2 Anne punch-in -20,3; S8-2 -20,2; S8-3 -22,0; S8-4 -17,8; S9-1 -19,1; S9-2a -19,9; S9-2b -20,3; Son kart -30,1
+**Parça bazlı RMS (B, dBFS):** S1-S4 blok -18,3; S5-1a -18,3; S5-1b -24,9; S5-2a -24,1; S5-2b -23,7; S5-2c -22,8; S5-3a -26,7; S5-3b -19,8; S6-1 -19,4; S6-2-D1 -18,9; S6-2-D2 -19,6; S6-3-E1 -18,4; S6-3-E2 -20,6; S6-4 -18,9; S6-5 -18,8; S7-1-B -18,5; S8-1-B2 genis -17,3; S8-1-B2 Anne punch-in -20,4; S8-2 -20,3; S8-3 -22,0; S8-4 -17,9; S9-1 -19,1; S9-2a -19,9; S9-2b -20,4; Son kart -30,1
 
 ## 6. STT ters test (replik bazlı)
 | Replik | Kaynak | Beklenen | STT sonucu | Durum |
