@@ -1,0 +1,33 @@
+{
+  "clip": "B090-TG-S6-5",
+  "credits_before": 33.0573361675,
+  "post_status": 200,
+  "post_response": "{\n  \"poll_url\": \"https://api.segmind.com/v1/requests/7fc48bb20fdcb2c8fb884c6c0fc2d6eb\",\n  \"request_id\": \"7fc48bb20fdcb2c8fb884c6c0fc2d6eb\",\n  \"response_url\": \"https://api.segmind.com/v2/requests/7fc48bb20fdcb2c8fb884c6c0fc2d6eb\",\n  \"status\": \"QUEUED\",\n  \"status_url\": \"https://api.segmind.com/v2/requests/7fc48bb20fdcb2c8fb884c6c0fc2d6eb/status\"\n}\n",
+  "request_id": "7fc48bb20fdcb2c8fb884c6c0fc2d6eb",
+  "final_status": "COMPLETED",
+  "status_response": {
+    "metrics": {
+      "cost": 2.8500913225,
+      "inference_time": 192.112207,
+      "queue_time": 0.036794,
+      "remaining_credits": 33.0573361675,
+      "total_time": 192.149001
+    },
+    "model": "seedance-2.5",
+    "request_id": "7fc48bb20fdcb2c8fb884c6c0fc2d6eb",
+    "response_url": "https://api.segmind.com/v2/requests/7fc48bb20fdcb2c8fb884c6c0fc2d6eb",
+    "status": "COMPLETED",
+    "status_url": "https://api.segmind.com/v2/requests/7fc48bb20fdcb2c8fb884c6c0fc2d6eb/status"
+  },
+  "elapsed_s": 192,
+  "result_status_code": 200,
+  "urls": [
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/tg-set/kare/S6-5-F0-s64kesim.png",
+    "https://images.segmind.com/generations/42ac4d07-bbd6-4ac1-9eef-8d8cf970a29e/7fc48bb20fdcb2c8fb884c6c0fc2d6eb.mp4",
+    "https://ark-acg-ap-southeast-1.tos-ap-southeast-1.volces.com/dreamina-seedance-2-5/3002286744/Image/sqnsx-71440041016202-tgc_ceb37123878a0cffff00000000000000000000079758909197120/cgt-20261014004417-xsnqs.jpeg  [imzali sorgu kaldirildi]",
+    "https://images.segmind.com/generations/42ac4d07-bbd6-4ac1-9eef-8d8cf970a29e/7fc48bb20fdcb2c8fb884c6c0fc2d6eb.mp4"
+  ],
+  "credits_after": 30.207244845,
+  "cost": 2.8501,
+  "result": "OK"
+}

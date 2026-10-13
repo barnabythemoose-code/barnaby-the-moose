@@ -1,0 +1,39 @@
+{
+  "clip": "TG-S9-1",
+  "credits_before": 24.255182595,
+  "post_status": 200,
+  "post_response": "{\n  \"poll_url\": \"https://api.segmind.com/v1/requests/abec4e4c0e376b2f3febf5ef929180c2\",\n  \"request_id\": \"abec4e4c0e376b2f3febf5ef929180c2\",\n  \"response_url\": \"https://api.segmind.com/v2/requests/abec4e4c0e376b2f3febf5ef929180c2\",\n  \"status\": \"QUEUED\",\n  \"status_url\": \"https://api.segmind.com/v2/requests/abec4e4c0e376b2f3febf5ef929180c2/status\"\n}\n",
+  "request_id": "abec4e4c0e376b2f3febf5ef929180c2",
+  "final_status": "COMPLETED",
+  "status_response": {
+    "metrics": {
+      "cost": 1.90505475,
+      "inference_time": 200.384802,
+      "queue_time": 0.045414,
+      "remaining_credits": 24.255182595,
+      "total_time": 200.430217
+    },
+    "model": "seedance-2.5",
+    "request_id": "abec4e4c0e376b2f3febf5ef929180c2",
+    "response_url": "https://api.segmind.com/v2/requests/abec4e4c0e376b2f3febf5ef929180c2",
+    "status": "COMPLETED",
+    "status_url": "https://api.segmind.com/v2/requests/abec4e4c0e376b2f3febf5ef929180c2/status"
+  },
+  "elapsed_s": 203,
+  "result_status_code": 200,
+  "urls": [
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/barnaby/barnaby-baslik-tam-boynuz-gri-ucretsiz-v2.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/hazel/hazel-on-temiz2.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/baba/baba-on-figur.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/anne/anne-on-figur.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/tg-set/can-direk-ref.jpg",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/tg-set/p-s9.jpg",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/barnaby/barnaby-02b-sag-profil-temiz2.png",
+    "https://images.segmind.com/generations/42ac4d07-bbd6-4ac1-9eef-8d8cf970a29e/abec4e4c0e376b2f3febf5ef929180c2.mp4",
+    "https://ark-acg-ap-southeast-1.tos-ap-southeast-1.volces.com/dreamina-seedance-2-5/3002286744/Image/wpmam-53001041016202-tgc_fa552f56bb8a0cffff00000000000000000000877048019197120/cgt-20261014010035-mampw.jpeg  [imzali sorgu kaldirildi]",
+    "https://images.segmind.com/generations/42ac4d07-bbd6-4ac1-9eef-8d8cf970a29e/abec4e4c0e376b2f3febf5ef929180c2.mp4"
+  ],
+  "credits_after": 22.350127845000003,
+  "cost": 1.9051,
+  "result": "OK"
+}

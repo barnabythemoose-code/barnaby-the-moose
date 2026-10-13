@@ -1,0 +1,38 @@
+{
+  "clip": "TG-S9-2b",
+  "credits_before": 21.392665095,
+  "post_status": 200,
+  "post_response": "{\n  \"poll_url\": \"https://api.segmind.com/v1/requests/3776aebd939c5fbf45ff5aac0c021d59\",\n  \"request_id\": \"3776aebd939c5fbf45ff5aac0c021d59\",\n  \"response_url\": \"https://api.segmind.com/v2/requests/3776aebd939c5fbf45ff5aac0c021d59\",\n  \"status\": \"QUEUED\",\n  \"status_url\": \"https://api.segmind.com/v2/requests/3776aebd939c5fbf45ff5aac0c021d59/status\"\n}\n",
+  "request_id": "3776aebd939c5fbf45ff5aac0c021d59",
+  "final_status": "COMPLETED",
+  "status_response": {
+    "metrics": {
+      "cost": 1.43125875,
+      "inference_time": 207.408995,
+      "queue_time": 0.033975,
+      "remaining_credits": 21.392665095,
+      "total_time": 207.442971
+    },
+    "model": "seedance-2.5",
+    "request_id": "3776aebd939c5fbf45ff5aac0c021d59",
+    "response_url": "https://api.segmind.com/v2/requests/3776aebd939c5fbf45ff5aac0c021d59",
+    "status": "COMPLETED",
+    "status_url": "https://api.segmind.com/v2/requests/3776aebd939c5fbf45ff5aac0c021d59/status"
+  },
+  "elapsed_s": 209,
+  "result_status_code": 200,
+  "urls": [
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/barnaby/barnaby-baslik-tam-boynuz-gri-ucretsiz-v2.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/hazel/hazel-on-temiz2.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/baba/baba-on-figur.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/anne/anne-on-figur.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/tg-set/p-s9.jpg",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/barnaby/barnaby-02b-sag-profil-temiz2.png",
+    "https://images.segmind.com/generations/42ac4d07-bbd6-4ac1-9eef-8d8cf970a29e/3776aebd939c5fbf45ff5aac0c021d59.mp4",
+    "https://ark-acg-ap-southeast-1.tos-ap-southeast-1.volces.com/dreamina-seedance-2-5/3002286744/Image/gnlv3-35701041016202-tgc_f5899906bb8a0cffff00000000000000000000246372119197120/cgt-20261014010753-3vlng.jpeg  [imzali sorgu kaldirildi]",
+    "https://images.segmind.com/generations/42ac4d07-bbd6-4ac1-9eef-8d8cf970a29e/3776aebd939c5fbf45ff5aac0c021d59.mp4"
+  ],
+  "credits_after": 19.961406345,
+  "cost": 1.4313,
+  "result": "OK"
+}

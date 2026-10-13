@@ -1,0 +1,37 @@
+{
+  "clip": "TG-S8-3",
+  "credits_before": 28.775986095,
+  "post_status": 200,
+  "post_response": "{\n  \"poll_url\": \"https://api.segmind.com/v1/requests/d832bef1fb2adfcba024ba866b783f0f\",\n  \"request_id\": \"d832bef1fb2adfcba024ba866b783f0f\",\n  \"response_url\": \"https://api.segmind.com/v2/requests/d832bef1fb2adfcba024ba866b783f0f\",\n  \"status\": \"QUEUED\",\n  \"status_url\": \"https://api.segmind.com/v2/requests/d832bef1fb2adfcba024ba866b783f0f/status\"\n}\n",
+  "request_id": "d832bef1fb2adfcba024ba866b783f0f",
+  "final_status": "COMPLETED",
+  "status_response": {
+    "metrics": {
+      "cost": 1.90505475,
+      "inference_time": 180.100325,
+      "queue_time": 0.02894,
+      "remaining_credits": 28.775986095,
+      "total_time": 180.129265
+    },
+    "model": "seedance-2.5",
+    "request_id": "d832bef1fb2adfcba024ba866b783f0f",
+    "response_url": "https://api.segmind.com/v2/requests/d832bef1fb2adfcba024ba866b783f0f",
+    "status": "COMPLETED",
+    "status_url": "https://api.segmind.com/v2/requests/d832bef1fb2adfcba024ba866b783f0f/status"
+  },
+  "elapsed_s": 181,
+  "result_status_code": 200,
+  "urls": [
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/barnaby/barnaby-baslik-tam-boynuz-gri-ucretsiz-v2.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/hazel/hazel-on-temiz2.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/anne/anne-on-figur.png",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/tg-set/p-s8.jpg",
+    "https://barnaby-ref.vercel.app/r/048c9e2098031ef3d2ca21ee/barnaby/barnaby-02b-sag-profil-temiz2.png",
+    "https://images.segmind.com/generations/42ac4d07-bbd6-4ac1-9eef-8d8cf970a29e/d832bef1fb2adfcba024ba866b783f0f.mp4",
+    "https://ark-acg-ap-southeast-1.tos-ap-southeast-1.volces.com/dreamina-seedance-2-5/3002286744/Image/m2mrm-85250041016202-tgc_2a6c6f8e648a0cffff00000000000000000000477873019197120/cgt-20261014005258-mrm2m.jpeg  [imzali sorgu kaldirildi]",
+    "https://images.segmind.com/generations/42ac4d07-bbd6-4ac1-9eef-8d8cf970a29e/d832bef1fb2adfcba024ba866b783f0f.mp4"
+  ],
+  "credits_after": 26.870931345000002,
+  "cost": 1.9051,
+  "result": "OK"
+}
