@@ -1,5 +1,5 @@
 {
- "B": "I -15.2 / TP -1.7 / LRA 6.7",
+ "B": "I -15.3 / TP -0.5 / LRA 7.9",
  "B_probe": {
   "programs": [],
   "streams": [
@@ -21,10 +21,10 @@
   ],
   "format": {
    "duration": "251.416667",
-   "size": "79606434"
+   "size": "79636786"
   }
  },
- "A": "I -15.4 / TP -2.7 / LRA 6.6",
+ "A": "I -15.3 / TP -1.5 / LRA 8.0",
  "A_probe": {
   "programs": [],
   "streams": [
@@ -46,7 +46,7 @@
   ],
   "format": {
    "duration": "251.416667",
-   "size": "79600516"
+   "size": "79624691"
   }
  }
 }

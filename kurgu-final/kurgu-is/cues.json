@@ -175,7 +175,7 @@
   "src_t1": 5.27,
   "fi": 0.02,
   "fo": 0.04,
-  "gain_db": 1.5
+  "gain_db": 0.0
  },
  {
   "stem": "hazirA",
@@ -185,7 +185,7 @@
   "src_t1": 5.27,
   "fi": 0.02,
   "fo": 0.04,
-  "gain_db": 1.5
+  "gain_db": 0.0
  },
  {
   "stem": "hazirB",
@@ -195,7 +195,7 @@
   "src_t1": 5.9366666666666665,
   "fi": 0.02,
   "fo": 0.04,
-  "gain_db": 1.5
+  "gain_db": 0.0
  },
  {
   "stem": "hazirA",
@@ -205,7 +205,7 @@
   "src_t1": 5.9366666666666665,
   "fi": 0.02,
   "fo": 0.04,
-  "gain_db": 1.5
+  "gain_db": 0.0
  },
  {
   "stem": "ortam",
@@ -213,7 +213,8 @@
   "t": 138.75,
   "src_t1": 5.8116666666666665,
   "fi": 0.02,
-  "fo": 0.04
+  "fo": 0.04,
+  "gain_db": 0
  },
  {
   "stem": "ortam",
@@ -221,7 +222,8 @@
   "t": 149.792,
   "src_t1": 6.0616666666666665,
   "fi": 0.02,
-  "fo": 0.04
+  "fo": 0.04,
+  "gain_db": 3
  },
  {
   "stem": "ortam",
@@ -229,7 +231,8 @@
   "t": 161.75,
   "src_t1": 4.1866666666666665,
   "fi": 0.02,
-  "fo": 0.04
+  "fo": 0.04,
+  "gain_db": 3
  },
  {
   "stem": "ortam",
@@ -237,7 +240,8 @@
   "t": 165.917,
   "src_t1": 7.853333333333333,
   "fi": 0.02,
-  "fo": 0.04
+  "fo": 0.04,
+  "gain_db": 0
  },
  {
   "stem": "ortam",
@@ -245,7 +249,8 @@
   "t": 173.75,
   "src_t1": 12.061666666666666,
   "fi": 0.02,
-  "fo": 0.04
+  "fo": 0.04,
+  "gain_db": 0
  },
  {
   "stem": "ortam",
@@ -253,7 +258,8 @@
   "t": 185.792,
   "src_t1": 12.061666666666666,
   "fi": 0.02,
-  "fo": 0.04
+  "fo": 0.04,
+  "gain_db": 0
  },
  {
   "stem": "ortam",
@@ -309,7 +315,7 @@
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-2-D2_B1.mp3",
   "t": 151.312,
-  "gain_db": 4.8,
+  "gain_db": 5.8,
   "tempo": 1.0,
   "fi": 0.01,
   "fo": 0.03,
@@ -319,7 +325,7 @@
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-2-D2_H1.mp3",
   "t": 153.292,
-  "gain_db": 4.3,
+  "gain_db": 5.3,
   "tempo": 1.0,
   "fi": 0.01,
   "fo": 0.03,
@@ -329,7 +335,7 @@
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-3-E2_B1.mp3",
   "t": 162.85,
-  "gain_db": 2.0,
+  "gain_db": 3.0,
   "tempo": 1.0,
   "fi": 0.01,
   "fo": 0.03,
@@ -477,10 +483,10 @@
  },
  {
   "stem": "ortam",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_soft-steady-night-breeze-moving-through-_67lgpK.mp3",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/breeze_sakin_lp.wav",
   "t": 204.767,
   "loop_to": 46.65,
-  "gain_db": 13.7,
+  "gain_db": 14.6,
   "fi": 0.4,
   "fo": 2.0
  },
@@ -528,7 +534,7 @@
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/they-kept-the-bell-for-you_v3_1s7eI1.mp3",
   "t": 207.897,
-  "gain_db": 0.3,
+  "gain_db": 2.8,
   "tempo": 1.0,
   "fi": 0.01,
   "fo": 0.03,
@@ -538,7 +544,7 @@
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/they-waited_v1_Ztspxu.mp3",
   "t": 209.677,
-  "gain_db": 6.4,
+  "gain_db": 8.4,
   "tempo": 1.0,
   "fi": 0.01,
   "fo": 0.03,
@@ -568,7 +574,7 @@
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts_kirp/anne73.wav",
   "t": 219.643,
-  "gain_db": -4.4,
+  "gain_db": -5.9,
   "tempo": 1.05,
   "fi": 0.01,
   "fo": 0.03,
@@ -627,9 +633,9 @@
  {
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/thank-you-hazel_v3_UfEuZr.mp3",
-  "t": 240.233,
+  "t": 240.0,
   "gain_db": -3.2,
-  "tempo": 1.0,
+  "tempo": 1.08,
   "fi": 0.01,
   "fo": 0.03,
   "id": "S9-2a_A79"
@@ -637,7 +643,7 @@
  {
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc_tts/soten_v4_anPTjy.mp3",
-  "t": 243.755,
+  "t": 243.705,
   "gain_db": 2.0,
   "tempo": 1.0,
   "fi": 0.01,
@@ -647,7 +653,7 @@
  {
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc_tts/tenoutof_v3_fk2qvo.mp3",
-  "t": 245.655,
+  "t": 246.775,
   "gain_db": -0.8,
   "tempo": 1.0,
   "fi": 0.01,
@@ -698,7 +704,7 @@
   "stem": "sfx",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/one-single-crisp-dry-leaf-crunching-unde_v1_mb30Fo.mp3",
   "t": 206.117,
-  "gain_db": 5.6,
+  "gain_db": 1.6,
   "fi": 0.01,
   "fo": 0.08
  },
@@ -720,41 +726,25 @@
  },
  {
   "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/a-soft-rustle-of-a-thick-knitted-wool-sh_v1_oOjrqs.mp3",
-  "t": 219.45,
-  "gain_db": 41.9,
-  "fi": 0.01,
-  "fo": 0.08
- },
- {
-  "stem": "sfx",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI.mp3",
   "t": 222.15,
-  "gain_db": 12.3,
+  "gain_db": 4.3,
   "fi": 0.01,
   "fo": 0.08
  },
  {
   "stem": "sfx",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_a-hand-pulled-small-brass-bell-on-a-wood_LcY6IM.mp3",
-  "t": 233.092,
+  "t": 233.442,
   "gain_db": -8.0,
   "fi": 0.01,
   "fo": 0.08
  },
  {
   "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_three-slow-soft-hoof-taps-on-grassy-grou_G7rDTM.mp3",
-  "t": 234.892,
-  "gain_db": 27.7,
-  "fi": 0.01,
-  "fo": 0.08
- },
- {
-  "stem": "sfx",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_a-small-hazelnut-set-down-gently-on-a-wo_sYd1oY.mp3",
-  "t": 239.233,
-  "gain_db": 3.3,
+  "t": 239.933,
+  "gain_db": -2.7,
   "fi": 0.01,
   "fo": 0.08
  },
@@ -762,9 +752,90 @@
   "stem": "sfx",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_three-gentle-soft-thumps-of-large-furry-_v3Vd38.mp3",
   "t": 247.825,
-  "gain_db": 12.4,
+  "gain_db": 8.4,
   "fi": 0.01,
   "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_Hq3Izf.mp3",
+  "t": 234.682,
+  "gain_db": 1.0,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_Hq3Izf.mp3",
+  "t": 235.322,
+  "gain_db": 1.0,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v3_cmWjYL.mp3",
+  "t": 236.212,
+  "gain_db": 9.5,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v2_y1obcw.mp3",
+  "t": 236.622,
+  "gain_db": 9.0,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v3_cmWjYL.mp3",
+  "t": 236.962,
+  "gain_db": 9.5,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v2_y1obcw.mp3",
+  "t": 237.212,
+  "gain_db": 9.0,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v3_cmWjYL.mp3",
+  "t": 237.332,
+  "gain_db": 6.0,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v2_y1obcw.mp3",
+  "t": 237.502,
+  "gain_db": 9.0,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v3_cmWjYL.mp3",
+  "t": 237.792,
+  "gain_db": 9.5,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
  },
  {
   "stem": "muzik",
@@ -1148,7 +1219,7 @@
   "src_t1": 54.584,
   "fi": 1.0,
   "fo": 2.5,
-  "gain_db": -8.6,
+  "gain_db": -10.1,
   "env": [
    [
     0,
@@ -1287,8 +1358,20 @@
     0
    ],
    [
+    21.667,
+    0
+   ],
+   [
+    22.017,
+    3.0
+   ],
+   [
     22.26,
     0
+   ],
+   [
+    22.267,
+    3.0
    ],
    [
     22.56,
@@ -1383,59 +1466,59 @@
     0
    ],
    [
-    42.85,
+    42.617,
     0
    ],
    [
-    43.15,
+    42.917,
     -8
    ],
    [
-    45.552,
+    45.186,
     -8
    ],
    [
-    46.152,
+    45.786,
     0
    ],
    [
-    46.372,
+    46.322,
     0
    ],
    [
-    46.672,
+    46.622,
     -8
    ],
    [
-    48.272,
-    0
-   ],
-   [
-    48.572,
+    48.972,
     -8
    ],
    [
-    49.022,
+    49.392,
+    0
+   ],
+   [
+    49.572,
+    0
+   ],
+   [
+    49.692,
     -8
    ],
    [
-    49.622,
-    0
-   ],
-   [
-    50.922,
+    52.042,
     -8
    ],
    [
-    51.522,
+    52.642,
     0
    ],
    [
-    51.172,
+    52.292,
     0
    ],
    [
-    52.572,
+    53.692,
     5
    ],
    [

@@ -1,0 +1,92 @@
+{
+ "bulgular": [
+  {
+   "parca": "S6-2-D1 (02-klipler-ham/B090-TG-S6-2-D1_d01.mp4 = 03-ses-hazir-AB/TG-S6-2-D1-B-efektli-v3.mp4, ayni resim 960x540)",
+   "t_cizelge": "144.542–149.792 s (2:24.5–2:29.8), seg i=9, kaynak kare 0–126",
+   "klip_ici_sn": "0.75–6.0 (0–0.6 gozler kapali)",
+   "sorun": "BONCUK GOZ. Hazel'in gozu kucuk, mat, duz siyah nokta; parlama (catchlight) neredeyse yok; goz/kafa orani ~%12-13. Kanon (S1 blok 3s, S4 blok 85s, S5-3b 5s): buyuk, parlak, koyu, beyaz parlamali goz (~%20-30). D1 spec'i zaten 'very big glossy round black beads' istemis, uretim 'kucuk mat boncuk' vermis. Klip icinde morph YOK: goz acildigi 0.75 s'den sona kadar ayni boncuk tasarim. Kullanicinin gordugu klip budur: on izlemede 2:25.3'ten itibaren (S6-1 genis -> D1 kesmesi 2:24.5'te, ses de S6-1 Seedance/VC'den hazir AB mikse gecer). Barnaby kimligi: KABUL (boynuz tam kadrajda, ust bosluk ~%37, burun antrasit kubbe, muzzle kisa, kazak kirmizi).",
+   "siddet": "buyuk",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/S6-2-D1-ham-hazel-goz-4x.jpg ; .../goz-ham/goz-bolgesi-8x-yanyana.jpg (D1 2.0s hucresi) ; .../goz-ham/kanon-ref-hazel-S1S4-S5-vs-D1-D2.jpg ; .../goz-ham/S6-2-D1-AB-hazel-goz-4x.jpg (AB surumu ayni resim) ; .../goz-ham/S6-2-D1-ham-tile4fps.jpg"
+  },
+  {
+   "parca": "Kesme S6-2-D1 -> S6-2-D2 (ayni kadraj, ayni poz; D2 ff = D1 kesim karesi + KT goz PIL duzeltmesi)",
+   "t_cizelge": "149.792 s (2:29.8), seg 9 -> seg 10",
+   "klip_ici_sn": "D1 kare125 -> D2 kare0",
+   "sorun": "Goz SICRAMASI: iki kare poz/olcek/isik olarak birebir, yalniz Hazel'in gozu kucuk mat boncuktan (D1) buyuk parlak goze (D2) atlar; izleyici bunu 'sincapin gozu birden degisti / goruntu degisti' diye okur (kullanicinin tarifi). Hazel'in D1 repligi 3.3–5.3 s'de (147.8–149.8) biter bitmez kesme geldigi icin 'konusurken degisiyor' hissi. On izleme 4x zoom'da 149.5 (boncuk) -> 150.0 (buyuk parlak) acikca gorunuyor.",
+   "siddet": "buyuk",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/sinir-ciftleri-hazel-goz-4x.jpg (D1 kare125 SON / D2 kare0 ILK) ; .../goz-ham/onizleme-139-166s-hazel-goz-4x.jpg (10.5 s vs 11.0 s hucreleri = 149.5/150.0) ; .../goz-ham/onizleme-136-166s-2fps.jpg"
+  },
+  {
+   "parca": "S6-2-D2 (02-klipler-ham/B090-TG-S6-2-D2_d01.mp4)",
+   "t_cizelge": "149.792–155.833 s (2:29.8–2:35.8), seg i=10, kaynak kare 0–145",
+   "klip_ici_sn": "0–6.0",
+   "sorun": "KANONA UYGUN goz: buyuk, parlak, koyu, belirgin beyaz parlama; goz/kafa ~%22-25 (S5-3b kanon karesine en yakin genis plan). Klip icinde morph yok (1.5–2.0 s gulumseyerek kisilir, 3.25 s donus bulanik, 3.5–5.75 s frontal iki buyuk goz). Chibi yuz + alin cizgisi + krem yanak = kanon cipmunk yuzu. Barnaby kimligi KABUL (boynuz tam, burun antrasit; yuz tonu D1'e gore biraz daha sicak). Bu parca kalabilir.",
+   "siddet": "yok",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/S6-2-D2-hazel-goz-4x.jpg ; .../goz-ham/goz-karsilastirma-yanyana.jpg ; .../goz-ham/goz-bolgesi-8x-yanyana.jpg (D2 4.5s) ; .../goz-ham/S6-2-D2-tile4fps.jpg"
+  },
+  {
+   "parca": "S6-3-E1 (02-klipler-ham/B090-TG-S6-3-E1_d01.mp4 = 03-ses-hazir-AB/TG-S6-3-E1-B-efektli-v2-dinleme.mp4, ayni resim)",
+   "t_cizelge": "155.833–161.75 s (2:35.8–2:41.8), seg i=11, kaynak kare 0–142",
+   "klip_ici_sn": "0–1.0 frontal (en kotu), 1.25–6.0 profil",
+   "sorun": "YARI BONCUK: gozler kucuk (goz/kafa ~%13) ama kucuk bir parlama var; 0–1.0 s'de Hazel kameraya/one bakar ve iki kucuk koyu nokta 'boncuk' okunur (E2 notu da 0–0.8 kamera bakisini kaydetmis). 1.25 s'den sonra profilde tek kucuk koyu goz + parlama; D1 kadar mat degil, D2 kadar buyuk degil. Klip icinde morph yok. D2 (buyuk goz) -> E1 (kucuk goz) kesmesinde 155.83'te ikinci bir goz boyutu sicramasi var (arada S6-3 yakin plan olmadigi icin dogrudan gorunur). Barnaby kimligi KABUL (boynuz tam, burun antrasit, yaprak+damla duvarda).",
+   "siddet": "orta",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/S6-3-E1-ham-hazel-goz-4x.jpg ; .../goz-ham/goz-bolgesi-8x-yanyana.jpg (E1 0.5s) ; .../goz-ham/sinir-ciftleri-hazel-goz-4x.jpg (D2 kare144 SON / E1 kare0 ILK) ; .../goz-ham/S6-3-E1-AB-hazel-goz-4x.jpg"
+  },
+  {
+   "parca": "S6-3-E2 (02-klipler-ham/B090-TG-S6-3-E2_d01.mp4)",
+   "t_cizelge": "161.75–165.917 s (2:41.8–2:45.9), seg i=12, kaynak kare 0–100",
+   "klip_ici_sn": "0–6.0",
+   "sorun": "E1 ile ayni tasarim (ff = E1 5.92 s karesi): kucuk koyu goz + kucuk parlama, profil; boncuk kadar mat degil ama kanon buyuklugunde degil (goz/kafa ~%13). Klip icinde morph yok; E1->E2 sinirinda sicrama yok. Barnaby kimligi KABUL (boynuz tam, burun antrasit; 5.5–6.0 s sol kulak sivrilesir, sureklilik notunda var).",
+   "siddet": "kucuk",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/S6-3-E2-hazel-goz-4x.jpg ; .../goz-ham/goz-bolgesi-8x-yanyana.jpg (E2 2.0s) ; .../goz-ham/S6-3-E2-tile4fps.jpg"
+  },
+  {
+   "parca": "S6-2-B (02-klipler-ham/B090-TG-S6-2-B_d01.mp4, 11.04 s, MCU, kurguda KULLANILMADI)",
+   "t_cizelge": "— (aday: 144.542'den itibaren D1 yerine)",
+   "klip_ici_sn": "gozler kapali 0–0.25; 0.5–10.75 acik; 7.25 goz kirpma",
+   "sorun": "GOZ KANONA EN YAKIN: cok buyuk, parlak, koyu, iki belirgin parlama (goz/kafa ~%30-33), klip boyunca sabit, morph yok. Fark: bu Hazel'in alin cizgisi/krem yanak yok (tamamen turuncu yuz) -> D2/E ile yan yana kucuk bir yuz-tasarim farki (goz ayni dilde). Eylem D1+D2 icerigini kapsar: 0–0.5 uyku, 0.5–1.5 kuyruk gidik, 1.0 Barnaby gozleri acar, ~1.75–3.0 Barnaby replik, 3.5–3.75 findik cikar, 4.75–5.0 ve 9.25–9.75 Hazel konusur, 8.5 sicak gulumseme. Barnaby kimligi: yuz/burun kabul edilebilir (burun koyu gri kubbe, muzzle sicak kahve) AMA resim-sag boynuz tum klip, sol boynuz 1.6 s'den itibaren ust kenardan KESIK, figur >%100 (H-26 KALDI; notlar 'sartli yakin plan, Owner gozu'). S6-1 genis -> B kesmesi ~4.5x cut-in: sert kesme olmali, capraz 'zoom morph' okunur.",
+   "siddet": "orta",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/S6-2-B-hazel-crop4fps.jpg ; .../goz-ham/ref-S6-2-B-2.0s-hazel.jpg ; .../goz-ham/goz-bolgesi-8x-yanyana.jpg (S6-2-B 2.0s) ; .../goz-ham/S6-2-B-tile4fps.jpg ; .../goz-ham/barnaby-kimlik-yanyana.jpg"
+  },
+  {
+   "parca": "S6-3-B (02-klipler-ham/B090-TG-S6-3-B_d01.mp4, 11.04 s, MCU, kullanilmadi)",
+   "t_cizelge": "— (aday: S6-3 yuvasi 155.833'ten itibaren)",
+   "klip_ici_sn": "0–11.0",
+   "sorun": "Goz kanon-benzeri: orta-buyuk, koyu kahve, parlamali, ust kapak cizgili (S4 blok 85 s kanon karesine cok yakin), alin cizgisi + krem yanak var; klip boyunca sabit, morph yok. Barnaby kimligi: boynuzlar hemen hemen tam (resim-sag kol ust kenara deger, not 265/265 kesik der), burun koyu gri kubbe, ama muzzle uzun/geyik-benzeri ve kurk soluk -> Sureklilik 'burun/muzzle/kurk kanondan uzak, KALDI'. Yaprak omuzda (E1/E2'de duvarda) -> S6-4/S6-5 yaprak surekliligiyle celisir.",
+   "siddet": "orta",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/S6-3-B-hazel-crop4fps.jpg ; .../goz-ham/ref-S6-3-B-3.0s-hazel.jpg ; .../goz-ham/goz-bolgesi-8x-yanyana.jpg (S6-3-B 3.0s) ; .../goz-ham/S6-3-B-tile4fps.jpg ; .../goz-ham/barnaby-kimlik-yanyana.jpg"
+  },
+  {
+   "parca": "S6-3-C (02-klipler-ham/B090-TG-S6-3-C_d01.mp4, 11.04 s, kullanilmadi)",
+   "t_cizelge": "—",
+   "klip_ici_sn": "0–0.9 genis; 0.917 s sert ic kesme; 0.917–11.0 MCU",
+   "sorun": "Goz S6-3-B ile ayni (PIL kanon yuz ff): orta-buyuk koyu parlamali, kapakli; MCU boyunca sabit, 1.75 s goz kirpma, 2.0 s saskin acilis; morph yok. 0–0.9 genis planda goz okunmuyor. Klip icinde 0.917 s'de genis->MCU atlama kesmesi var (sureklilik KIRMIZI). Barnaby: amber gozler, burun koyu, yuz sicak = kimlik makul; boynuz MCU'da ustten kesik, figur >%100 (KALDI). Yaprak 2.0–3.8 s'de dusup kaybolur.",
+   "siddet": "orta",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/S6-3-C-hazel-crop4fps.jpg ; .../goz-ham/ref-S6-3-C-2.5s-hazel.jpg ; .../goz-ham/S6-3-C-tile4fps.jpg ; .../goz-ham/barnaby-kimlik-yanyana.jpg"
+  },
+  {
+   "parca": "S6-1 (02-klipler-ham/TG-S6-1_d01.mp4)",
+   "t_cizelge": "138.75–144.542 s (2:18.8–2:24.5), seg i=8, kare 0–139",
+   "klip_ici_sn": "0–5.8",
+   "sorun": "Hazel kafasi ~23 px; goz tasarimi bu olcekte okunmuyor (10x zoomda bile belirsiz; 5.0–5.75 s uyku/goz kapali). Goz celiskisi yaratmaz. Barnaby: boynuz tam, burun koyu; sureklilik notu 'boynuz ince/acik ton' demis, kabul edilmis.",
+   "siddet": "yok",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/S6-1-hazel-goz-4x.jpg ; .../goz-ham/S6-1-tile4fps.jpg ; .../goz-ham/sinir-ciftleri-hazel-goz-4x.jpg (S6-1 kare138 / D1 kare0)"
+  },
+  {
+   "parca": "S6-3-D",
+   "t_cizelge": "—",
+   "sorun": "Klip YOK: 02-klipler-ham'da S6-3-D mp4 bulunmuyor; yalniz 05-kayitlar/spec-tam-S6-3-D.json taslagi var ('uretti YOK'). Alternatif olarak kullanilamaz.",
+   "siddet": "yok",
+   "kanit": "ls /tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/02-klipler-ham/ (26 mp4, S6-3-D yok)"
+  },
+  {
+   "parca": "Kanon referansi (Hazel gozu)",
+   "t_cizelge": "S1-S4 kilitli blok 3 s ve 85 s; S5-3b 5 s",
+   "sorun": "Kanon goz = buyuk, parlak, koyu (siyah/koyu kahve), belirgin beyaz parlama, ust kapak/kas cizgisi, alin cizgisi + krem yanak. Siralama (kanona yakinlik): S6-2-B (goz) ≈ S6-2-D2 > S6-3-B ≈ S6-3-C > S6-3-E1 ≈ S6-3-E2 > S6-2-D1 (en uzak, boncuk).",
+   "siddet": "yok",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/kanon-ref-hazel-S1S4-S5-vs-D1-D2.jpg ; .../goz-ham/goz-karsilastirma-yanyana.jpg ; .../goz-ham/S1-S4-blok-1fps-kontakt.jpg"
+  }
+ ],
+ "degisim_noktasi": "Boncuk gozlu parca = seg i=9 S6-2-D1, zaman cizelgesi 144.542–149.792 s (2:24.5–2:29.8; kaynak B090-TG-S6-2-D1_d01.mp4 kare 0–126; sesi 03/TG-S6-2-D1-B-efektli-v3.mp4). En gorunur sicrama 149.792 s'de (D1 kare125 -> D2 kare0: ayni poz, yalniz goz degisir). Onerilen degisim: D1'i S6-2-B d01 ile degistir — S6-1 kare138'den SERT kesme ile S6-2-B 0.0–~5.3 s (kare 0–127: uyku 0–0.5, kuyruk gidik 0.5–1.5, Barnaby goz acma 1.0, Barnaby replik ~1.75–3.0, findik 3.5–3.75) sonra S6-2-D2 kare0'a sert kesme (MCU->genis, olcek farki >=%25 OK; Hazel gozu iki tarafta da buyuk/parlak). D1'in hazir AB diyalog stem'i B'nin agiz pencerelerine yeniden yerlestirilmeli (Barnaby agzi B'de 1.75–3.0, D1'de 0.9–2.87; Hazel D1'de 3.3–5.3, B'de ~4.75–5.0). Bedel: S6-2-B'de Barnaby'nin boynuzu ustten kesik (H-26, Owner bilincli kabulu gerekir) ve S6-1->B ~4.5x cut-in (capraz gecis koyma). Alternatif C: S6-2-B 0–10.5 s ile D1+D2'nin ikisini birden degistir (tek tutarli Hazel yuzu, ama kesik-boynuzlu yakin plan 10.5 s surer). Ikinci (orta) nokta: seg i=11 S6-3-E1 0–1.0 s (155.833–156.8 s) frontal kucuk 'boncuk' gozler + kamera bakisi; cozum E1 0–0.9'u S6-3-B/C MCU ile ortmek ya da Owner kabulu.",
+ "ozet": "Ham klipler 4 fps tile + Hazel'e 4x/8x crop ile incelendi; kanon referansi S1-S4 kilitli bloktan ve S5-3b'den alindi (buyuk, parlak, parlamali koyu goz). 'Siyah boncuk' goz yalniz S6-2-D1'de (kurguda 144.542–149.792 s = 2:24.5–2:29.8): kucuk, mat, parlamasiz siyah nokta; klip icinde morph yok ama 149.792'de D2'ye kesmede ayni pozda goz birden buyuk/parlak olur (kullanicinin gordugu degisim). S6-2-D2 kanona uygun (buyuk parlak), S6-2-B kanona en yakin goz (cok buyuk, parlak; alin cizgisi yok), S6-3-B/C kanon-benzeri orta-buyuk parlamali goz, S6-3-E1/E2 kucuk-parlamali 'yari boncuk' (E1 0–1.0 s frontal en kotu), S6-1'de goz okunmuyor, S6-3-D klibi yok. Barnaby kimligi: D1/D2/E1/E2/S6-1 kabul (boynuz tam, burun antrasit); S6-2-B yuz kabul ama boynuz kesik (H-26); S6-3-B muzzle/kurk kanondan uzak + yaprak omuzda; S6-3-C boynuz kesik + 0.917 s ic kesme. Oneri: D1 yerine S6-2-B 0–5.3 s (sert kesmeler, diyalog stem'i yeniden yerlesir), D2 kalir; Owner kesik boynuzu kabul etmeli. Kanitlar: /tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-ham/ (goz-karsilastirma-yanyana.jpg, goz-bolgesi-8x-yanyana.jpg, kanon-ref-hazel-S1S4-S5-vs-D1-D2.jpg, sinir-ciftleri-hazel-goz-4x.jpg, barnaby-kimlik-yanyana.jpg, onizleme-139-166s-hazel-goz-4x.jpg, klip basina *-tile4fps.jpg ve *-hazel-goz-4x.jpg). Kaynak dosyalar degistirilmedi."
+}

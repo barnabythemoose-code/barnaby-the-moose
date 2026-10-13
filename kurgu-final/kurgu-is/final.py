@@ -10,7 +10,7 @@ for a,b,t,d in rows:
         cmds.append(f"{t+k/12:.4f} eq brightness {amp*(1-k/5):.4f};")
     cmds.append(f"{t+0.5:.4f} eq brightness 0;")
 open(IS+'/out/eq_cmd.txt','w').write('\n'.join(cmds)+'\n')
-vf=f"sendcmd=f={IS}/out/eq_cmd.txt,eq=brightness=0,format=yuv420p"
+vf="format=yuv420p"   # parlaklik rampalari kaldirildi (Owner: kayma hissi)
 for ad,name in (('B','B090-TG-FINAL-B-efektli.mp4'),('A','B090-TG-FINAL-A-efektsiz.mp4')):
     subprocess.run(['ffmpeg','-v','error','-y','-i',IS+'/out/video_raw.mp4','-i',IS+f'/out/mix{ad}.wav','-map','0:v','-map','1:a','-vf',vf,'-r','24','-c:v','libx264','-preset','medium','-crf','17','-profile:v','high','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-ar','48000','-ac','2','-movflags','+faststart','-shortest',T+'/'+name],check=True)
     print('ok',name)

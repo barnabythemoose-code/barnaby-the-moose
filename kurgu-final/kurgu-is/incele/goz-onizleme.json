@@ -1,0 +1,62 @@
+{
+ "bulgular": [
+  {
+   "parca": "S5-3b (timeline i=7)",
+   "t_cizelge": "128.250–139.250 sn (2:08.3–2:19.3); kullanicinin dedigi 2:15 = 135 sn bu parcanin ortasi",
+   "sorun": "Goz degisimi YOK. Alacakaranlik plan, Hazel Barnaby'nin omzunda; tek ham klip (TG-S5-3b_d01) oldugu icin icinde tasarim sicramasi yok. Hazel gozu: buyuk, parlak, koyu iris agirlikli, beyaz parilti noktali 'parlak buyuk goz' (kanonik tasarim), turkuaz fular. Kullanicinin '2:15' zamani ~15 sn kayik; gercek kirilma 2:29.8'de.",
+   "siddet": "yok",
+   "klip_ici_sn": "0–11.0",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-onizleme/hazel-crop-S5-3b-01.jpg, hazel-crop-S5-3b-02.jpg, hazel-crop-S5-3b-03.jpg, ham-TG-S5-3b-hazel.jpg, full-135.0.png, tile-05.jpg..tile-10.jpg (ayni klasor)"
+  },
+  {
+   "parca": "S6-1 (timeline i=8, xfade 12 kare)",
+   "t_cizelge": "138.750–144.542 sn (2:18.8–2:24.5)",
+   "sorun": "Genis gece plani; Hazel onizlemede cok kucuk, goz tipi 480p'de okunamiyor ('gorunmuyor'). Ham klipte (TG-S6-1_d01) kanonik tasarim: beyaz sklera + koyu gozbebegi, buyuk goz; sonlara dogru (n~130) gozleri kapali Barnaby'ye sokulmus. S6-2-D1'in acilisiyla (gozler kapali) tutarli.",
+   "siddet": "yok",
+   "klip_ici_sn": "0–5.8",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-onizleme/hazel-crop-S6-1-01.jpg, hazel-crop-S6-1-02.jpg, ham-TG-S6-1-hazel.jpg, full-141.0.png, sinir-S6-1_to_D1.jpg (kare 3464–3475)"
+  },
+  {
+   "parca": "S6-2-D1 (timeline i=9)",
+   "t_cizelge": "144.542–149.792 sn (2:24.5–2:29.8); kesim karesi 3469",
+   "sorun": "Kanonik Hazel. 144.54–~145.3 sn gozler KAPALI (Barnaby'ye sokulmus), ~145.4'ten itibaren 'parlak buyuk goz': beyaz sklera, koyu kahve iris, parilti; mimik ve agiz hareketi var, replik senkronu uyumlu. Bu parcada sorun yok; referans tasarim budur.",
+   "siddet": "yok",
+   "klip_ici_sn": "0–5.25 (ham a=0,b=126; hamda 19 kare kullanilmamis kaldi)",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-onizleme/hazel-crop-144-01.jpg, hazel-crop-144-02.jpg, hazel-crop-144-03.jpg, ham-B090-TG-S6-2-D1_d01-hazel.jpg, full-146.0.png, full-149.5.png"
+  },
+  {
+   "parca": "S6-2-D1 → S6-2-D2 kesme siniri (timeline i=9→10)",
+   "t_cizelge": "149.792 sn = 2:29.8, kare 3594 (D1 son) → 3595 (D2 ilk)",
+   "sorun": "KULLANICININ GORDUGU HATA BURASI. Tek karede Hazel'in modeli degisiyor: D1'de beyaz skleral, parlak buyuk goz + konusan agiz; D2'de sklerasiz, tamamen SIYAH BONCUK goz (tek parilti), daha tombul pelus kafa, krem yanak lekesi, alinda koyu cizgi. Ayni kesmede ses kaynagi da degisiyor (D1 = 03-ses-hazir-AB/TG-S6-2-D1-B-efektli-v3 hazir miks; D2 = Seedance/VC sesi): butunlesik ses siddeti -15.6 → -17.6 LUFS, tepe -3.2 → -5.0 dBFS, yani kesmede ~2 LU dusus + tini degisimi.",
+   "siddet": "buyuk",
+   "klip_ici_sn": "D1 5.25 → D2 0.00",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-onizleme/kesim-149.79-D1-son-vs-D2-ilk.jpg, sinir-D1_to_D2.jpg (kare 3590–3601, 24 fps), hazel-crop-144-03.jpg (5.625→5.750), full-149.5.png, full-150.0.png"
+  },
+  {
+   "parca": "S6-2-D2 (timeline i=10) klip ici morf",
+   "t_cizelge": "149.792–155.833 sn (2:29.8–2:35.8); morf ~153.1–153.3 sn (kare ~3675–3678)",
+   "sorun": "D2'nin kendi icinde de Hazel tutarsiz: 149.8–~153.1 profilden SIYAH BONCUK goz; ~153.2'de kameraya donerken yuz morflanip ucuncu bir gorunume geciyor: beyaz skleral yuvarlak goz, siyah gozbebegi, krem yuz, elinde palamut. Seedance uretim morfu; Hazel bu parcada iki farkli tasarim gosteriyor.",
+   "siddet": "orta",
+   "klip_ici_sn": "~3.3–3.5",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-onizleme/hazel-crop-144-05.jpg (9.000–9.375), hazel-crop-144-04.jpg, hazel-crop-144-06.jpg, ham-B090-TG-S6-2-D2_d01-hazel.jpg (n=12 ve n=72 boncuk, n=132 beyaz goz), full-152.0.png, full-155.5.png"
+  },
+  {
+   "parca": "S6-2-D2 → S6-3-E1 kesme siniri (timeline i=10→11)",
+   "t_cizelge": "155.833 sn = 2:35.8, kare 3739 (D2 son) → 3740 (E1 ilk)",
+   "sorun": "Ikinci model sicramasi: D2 sonunda krem yuzlu, yuvarlak beyaz gozlu, kucuk kafali Hazel; E1 basinda alninda koyu sincap cizgileri, krem burun, daha dar beyaz skleral goz, daha buyuk/yakin kafa. Iki parca da beyaz goz gosterdigi icin 149.79'daki kadar sert degil ama ayri bir karakter modeli. E1/E2 Hazel'i de (cizgili alin) S5/D1'deki duz kafali kanonik Hazel'den farkli.",
+   "siddet": "orta",
+   "klip_ici_sn": "D2 6.04 → E1 0.00",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-onizleme/sinir-D2_to_E1.jpg (kare 3735–3746), hazel-crop-144-06.jpg (11.750→11.875), ham-B090-TG-S6-3-E1_d01-hazel.jpg, full-156.0.png, full-158.0.png"
+  },
+  {
+   "parca": "S6-3-E1 → S6-3-E2 (timeline i=11→12)",
+   "t_cizelge": "161.750 sn = 2:41.75, kare 3881 → 3882; E2 161.750–165.917",
+   "sorun": "Ayni cizgili-alin tasarim iki parcada da korunuyor (beyaz sklera + koyu gozbebegi, palamut elinde). Yalniz kafa olcegi/pozu bir tik atliyor; goz tasarimi degismiyor.",
+   "siddet": "kucuk",
+   "klip_ici_sn": "E1 5.9 → E2 0.00",
+   "kanit": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-onizleme/sinir-E1_to_E2.jpg (kare 3877–3888), hazel-crop-144-09.jpg, hazel-crop-144-10.jpg, ham-B090-TG-S6-3-E2_d01-hazel.jpg, full-161.5.png, full-162.0.png, full-164.0.png"
+  }
+ ],
+ "degisim_noktasi": "Kare 3595 = 149.792 sn (2:29.8), S6-2-D1 → S6-2-D2 kesme siniri (timeline.json segs i=10 'S6-2-D2' t0). Kullanicinin '2:15' dedigi an budur; 2:15 (135 sn) ise S5-3b alacakaranlik planinin ortasidir ve orada goz degisimi yoktur. Ikincil kirilmalar: D2 klip ici morf ~153.2 sn (kare ~3676) ve D2→E1 siniri 155.833 sn (kare 3740).",
+ "ozet": "Onizlemede 120–165 sn 8 fps tarandi, Hazel'in yuzu 4x kirpilip bakildi, sinirlar 24 fps kare-kare dogrulandi. Hazel'in 'siyah boncuk goz' hatasi tek karede, 149.792 sn'de (2:29.8, kare 3595) S6-2-D1'den S6-2-D2'ye kesmede basliyor: D1'de kanonik Hazel (beyaz skleral parlak buyuk goz, S5-3b ve S6-1 ile ayni), D2'nin ilk ~3.3 sn'sinde sklerasiz siyah boncuk gozlu, tombul pelus kafali farkli bir model; D2 ~153.2'de kameraya donerken yuz bir daha morflanip beyaz gozlu krem yuzlu ucuncu gorunume geciyor; 155.833'te E1'e gecince alni cizgili dorduncu gorunum basliyor (E1→E2 tutarli). Ayni 149.79 kesmesinde ses de hazir B miksinden Seedance/VC sesine atliyor (-15.6→-17.6 LUFS, tepe -3.2→-5.0 dBFS), kullanicinin 'ses de degisiyor' dedigi bu. Oncelik: D2 (149.79–155.83, 145 kare, tamami kullanilmis) gorunutu olarak Hazel kanonundan en uzak parca; D1'in hamda sadece 19 kullanilmamis karesi var, uzatarak kapatilamaz. Duzeltme secenekleri: D2'yi tamamen cikarip repliklerini (#41–48 itiraf) D1 kuyrugu/E1 uzerine tasimak, D2'yi Hazel'in kadraj disinda kaldigi bir yeniden-cerceveleme (Barnaby'ye punch-in) ile kullanmak ya da D2'yi kanonik Hazel ile yeniden uretmek; D2→E1 model sicramasi (cizgili alin) de ayni turda ele alinmali. Tum kanit kareleri: /tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/goz-onizleme/ (tile-01..23 genel, hazel-crop-144-01..11 yuz kirpimi, sinir-*.jpg 24 fps sinirlar, kesim-149.79-D1-son-vs-D2-ilk.jpg yan yana, ham-*.jpg ham klip dogrulamasi). Kaynak dosyalara dokunulmadi."
+}

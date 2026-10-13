@@ -11,7 +11,7 @@ EDL=[
  ('S5-3a', RAW+'TG-S5-3a_d01.mp4', 0, 87, 'kes', AB+'TG-S5-3a_B-efektli.mp4', 0.0),
  ('S5-3b', RAW+'TG-S5-3b_d01.mp4', 0, 264, 'kes', AB+'TG-S5-3b_B-efektli.mp4', 0.0),
  ('S6-1', RAW+'TG-S6-1_d01.mp4', 0, 139, ('xfade',12), RAW+'TG-S6-1_d01.mp4', 0.0),
- ('S6-2-D1', RAW+'B090-TG-S6-2-D1_d01.mp4', 0, 126, 'kes', AB+'TG-S6-2-D1-B-efektli-v3.mp4', 0.0),
+ ('S6-2-D1', 'vfx/B-yama/B090-TG-S6-2-D1_goz.mp4', 0, 126, 'kes', AB+'TG-S6-2-D1-B-efektli-v3.mp4', 0.0),
  ('S6-2-D2', RAW+'B090-TG-S6-2-D2_d01.mp4', 0, 145, 'kes', RAW+'B090-TG-S6-2-D2_d01.mp4', 0.0),
  ('S6-3-E1', RAW+'B090-TG-S6-3-E1_d01.mp4', 0, 142, 'kes', AB+'TG-S6-3-E1-B-efektli-v2-dinleme.mp4', 0.0),
  ('S6-3-E2', RAW+'B090-TG-S6-3-E2_d01.mp4', 0, 100, 'kes', RAW+'B090-TG-S6-3-E2_d01.mp4', 0.0),

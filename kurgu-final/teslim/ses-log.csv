@@ -38,3 +38,5 @@ sira,zaman,islem,aciklama,varyant,kredi_sonuc(price.credits),not
 37,2026-10-13T19:10,STT,"S7-1_H3 TTS v1 ters test",1,9.7,
 38,2026-10-13T19:14,STT,"tam B miksi (251 sn) ters test; kelime zamanli",1,1382.8,beklenenden pahali: scribe sure bazli
 39,2026-10-13T19:20,STT,"S6-S8-1 bolgesi (69 sn) ters test; ortam duzeltmesi sonrasi",1,379.5,
+40,2026-10-13T21:38,SFX,"cizgi film toynak tepik (S9-1) x4 varyant",4,12.0,
+41,2026-10-13T22:30,NOT,"Revizyon 2: ucretli islem yalniz #40 (tepik SFX 12 kredi); VFX/ses duzeltmeleri ucretsiz",0,0,

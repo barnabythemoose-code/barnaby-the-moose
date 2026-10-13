@@ -30,13 +30,13 @@ for ad,b,a in HZ:
     n=L(ad); 
     # S5-1a EDL 24. kareden basliyor -> kaynak ofseti
     s0=(T[ad].get('src_in',0))/24
-    ek={'S5-3b':dict(env=[[0,-5],[2.5,0]]),'S5-3a':dict(gain_db=HZ_GAIN+2.5)}.get(ad,{})
+    ek={'S5-3b':dict(env=[[0,-5],[2.5,0]]),'S5-3a':dict(gain_db=HZ_GAIN+2.5),'S6-2-D1':dict(gain_db=0.0),'S6-3-E1':dict(gain_db=0.0)}.get(ad,{})
     kw=dict(src_t0=s0, src_t1=s0+n+0.02, fi=0.02, fo=0.04, gain_db=HZ_GAIN); kw.update(ek)
     cue('hazirB', SES+b, T[ad]['t0'], **kw)
     cue('hazirA', SES+a, T[ad]['t0'], **kw)
 # 3) Seedance sesli klipler: ortam (konusmasiz) + VC replikler
 for ad in ['S6-1','S6-2-D2','S6-3-E2','S6-4','S6-5','S7-1-B']:
-    cue('ortam', ORT+ad+'_ortam.wav', T[ad]['t0'], src_t1=L(ad)+0.02, fi=0.02, fo=0.04)
+    cue('ortam', ORT+ad+'_ortam.wav', T[ad]['t0'], src_t1=L(ad)+0.02, fi=0.02, fo=0.04, gain_db=(3 if ad in ('S6-2-D2','S6-3-E2') else 0))
 n=L('S8-1-B2 genis')+L('S8-1-B2 Anne punch-in'); s0=17/24
 cue('ortam', ORT+'S8-1-B2_ortam.wav', T['S8-1-B2 genis']['t0'], src_t0=s0, src_t1=s0+n+0.02, fi=0.02, fo=0.04)
 # E2 can kuyrugu S6-4 basina L-cut (E2 ortaminin son 0,6 sn'si)
@@ -52,44 +52,50 @@ for r in rep:
     f=RETAKE.get(r['id'], VC+r['id']+'.mp3'); loc=max(0,r['t0']-0.08)
     if r['klip']=='S8-1-B2': loc-=17/24
     hedef=-17.0 if r['kim'] in ('barnaby','hazel') else -17.5
+    if r['klip'] in ('S6-2-D2','S6-3-E2'): hedef=-16.0
     if r['id'] in ('S6-5_H2','S6-5_H1'): hedef=-18.5   # kisa fisilti/soru
     dlg(f, g(KLIP[r['klip']],loc), hedef=hedef, id=r['id'])
 # 4) Sessiz klipler: ruzgar yatagi + TTS/TTS->VC dublaj
-breeze=SFX+'v2_soft-steady-night-breeze-moving-through-_67lgpK.mp3'
+breeze=SFX+'breeze_sakin_lp.wav'
 t0=T['S8-2']['t0']; t1=T['Son kart']['t1']
-cue('ortam', breeze, t0-0.4, loop_to=t1-t0+0.4, gain_db=round(-27-lufs(breeze),1), fi=0.4, fo=2.0)
+cue('ortam', breeze, t0-0.4, loop_to=t1-t0+0.4, gain_db=round(-38-lufs(breeze),1), fi=0.4, fo=2.0)
 # (dosya, klip, konusma baslangic hedefi (klip ici), onset, hedef LUFS, tempo)
 T2=IS+'/el/tts2/'
 DUB=[('S7-1_H2',T2+'S7-1_H2_v2_iCYXuH.mp3','S7-1-B',6.95,0.12,-17.0,1.05),
      ('S7-1_H3',T2+'S7-1_H3_v1_TQN10N.mp3','S7-1-B',10.85,0.32,-17.0,1.0),
      ('S6-5_B2',T2+'S6-5_B2_v2_xcKGmI.mp3','S6-5',6.15,0.14,-17.0,1.05),
      ('S8-2_A68',TTS+'who-s-there_v1_vrl0xM.mp3','S8-2',1.55,0.20,-17.5,1.0),
-     ('S8-2_H69',TTS+'they-kept-the-bell-for-you_v3_1s7eI1.mp3','S8-2',2.85,0.12,-20.0,1.0),
-     ('S8-2_B70',TTS+'they-waited_v1_Ztspxu.mp3','S8-2',4.65,0.14,-20.0,1.0),
+     ('S8-2_H69',TTS+'they-kept-the-bell-for-you_v3_1s7eI1.mp3','S8-2',2.85,0.12,-17.5,1.0),
+     ('S8-2_B70',TTS+'they-waited_v1_Ztspxu.mp3','S8-2',4.65,0.14,-18.0,1.0),
      ('S8-3_A71',TTS+'barnaby_v2_xNZJzx.mp3','S8-3',1.75,0.16,-17.5,1.0),
      ('S8-3_B72',VT+'mama_v3_ULpeZl.mp3','S8-3',4.70,0.10,-17.0,1.0),
-     ('S8-4_A73',KR+'anne73.wav','S8-4',0.45,0.06,-18.5,1.05),
+     ('S8-4_A73',KR+'anne73.wav','S8-4',0.45,0.06,-20.0,1.05),
      ('S8-4_B74',VT+'ifollowed_v2_NtsFQk.mp3','S8-4',3.45,0.18,-17.0,1.05),
      ('S8-4_A75',TTS+'papa-s-pie-has-a-tree-in-it_v1_Ntrjo9.mp3','S8-4',6.80,0.16,-17.5,1.05),
      ('S8-4_P76',KR+'baba76.wav','S8-4',9.45,0.14,-17.5,1.0),
      ('S9-1_A77',TTS+'now-we-can-ring-it-papa_v1_w5EF7A.mp3','S9-1',0.30,0.06,-17.5,1.0),
      ('S9-1_P78',TTS+'hm_v2_FBgUJb.mp3','S9-1',2.45,0.12,-18.0,1.0),
-     ('S9-2a_A79',TTS+'thank-you-hazel_v3_UfEuZr.mp3','S9-2a',2.00,0.10,-17.5,1.0),
-     ('S9-2b_B81',VT+'soten_v4_anPTjy.mp3','S9-2b',1.40,0.02,-17.0,1.0),
-     ('S9-2b_H82',VT+'tenoutof_v3_fk2qvo.mp3','S9-2b',3.50,0.22,-17.0,1.0)]
+     ('S9-2a_A79',TTS+'thank-you-hazel_v3_UfEuZr.mp3','S9-2a',1.76,0.10,-17.5,1.08),
+     ('S9-2b_B81',VT+'soten_v4_anPTjy.mp3','S9-2b',1.35,0.02,-17.0,1.0),
+     ('S9-2b_H82',VT+'tenoutof_v3_fk2qvo.mp3','S9-2b',4.62,0.22,-17.0,1.0)]
 for id_,f,ad,hedef_t,on,hedef,tempo in DUB:
     dlg(f, g(ad, hedef_t-on/tempo), hedef=hedef, tempo=tempo, id=id_)
 # 5) SFX (klip ici saniye, dosya, dB)
 SF=[('S6-4',0.05,'v2_a-hand-pulled-small-brass-bell-on-a-wood_LcY6IM.mp3',-16),
     ('S7-1-B',6.2,'one-single-distant-canada-goose-honk-hig_v1_2Wv0AU.mp3',-10),('S7-1-B',6.7,'one-single-distant-canada-goose-honk-hig_v1_2Wv0AU.mp3',-13),('S7-1-B',7.1,'one-single-distant-canada-goose-honk-hig_v1_2Wv0AU.mp3',-15),
-    ('S8-2',0.3,'v2_two-soft-slow-hoof-steps-on-dry-autumn-l_1byJJW.mp3',-12),('S8-2',0.95,'one-single-crisp-dry-leaf-crunching-unde_v1_mb30Fo.mp3',-16),
+    ('S8-2',0.3,'v2_two-soft-slow-hoof-steps-on-dry-autumn-l_1byJJW.mp3',-12),('S8-2',0.95,'one-single-crisp-dry-leaf-crunching-unde_v1_mb30Fo.mp3',-20),
     ('S8-3',3.3,'two-quick-deep-sniffs-through-a-big-soft_v1_9F8l2L.mp3',-14),('S8-3',6.55,'a-tiny-soft-touch-of-two-furry-noses-a-v_v1_7QywER.mp3',-16),
-    ('S8-4',0.2,'a-soft-rustle-of-a-thick-knitted-wool-sh_v1_oOjrqs.mp3',-14),('S8-4',2.9,'a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI.mp3',-18),
-    ('S9-1',2.8,'v2_a-hand-pulled-small-brass-bell-on-a-wood_LcY6IM.mp3',-8),('S9-1',4.6,'v2_three-slow-soft-hoof-taps-on-grassy-grou_G7rDTM.mp3',-14),
-    ('S9-2a',0.9,'v2_a-small-hazelnut-set-down-gently-on-a-wo_sYd1oY.mp3',-14),
-    ('S9-2b',5.45,'v2_three-gentle-soft-thumps-of-large-furry-_v3Vd38.mp3',-14)]
+    ('S8-4',2.9,'a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI.mp3',-26),
+    ('S9-1',3.15,'v2_a-hand-pulled-small-brass-bell-on-a-wood_LcY6IM.mp3',-8),
+    ('S9-2a',1.60,'v2_a-small-hazelnut-set-down-gently-on-a-wo_sYd1oY.mp3',-20),
+    ('S9-2b',5.45,'v2_three-gentle-soft-thumps-of-large-furry-_v3Vd38.mp3',-18)]
 for ad,t,f,db in SF:
     cue('sfx', SFX+f, g(ad,t), gain_db=round(db-13-lufs(SFX+f),1), fi=0.01, fo=0.08)   # referans: -13 LUFS'lik can = db
+# 5b) Cizgi film tepik (S9-1): Baba 2 agir, Barnaby 7 hafif; tepe hedefi Baba -9 dBFS, Barnaby -14 dBFS
+SF2=IS+'/el/sfx2/'
+for t,kim in [(4.42,'baba'),(5.06,'baba'),(5.95,'b'),(6.36,'b2'),(6.70,'b'),(6.95,'b2'),(7.07,'b3'),(7.24,'b2'),(7.53,'b')]:
+    f,gdb={'baba':('tepik_v1_Hq3Izf.mp3',1.0),'b':('tepik_v3_cmWjYL.mp3',9.5),'b2':('tepik_v2_y1obcw.mp3',9.0),'b3':('tepik_v3_cmWjYL.mp3',6.0)}[kim]
+    cue('sfx', SF2+f, g('S9-1',t-0.03), gain_db=gdb, fi=0.0, fo=0.05, id='tepik')
 # 6) Muzik: ducking zarfi diyalog cue'larindan
 def dlg_windows():
     w=[]
@@ -117,9 +123,12 @@ m1base=round(-26.0-lufs(m1),1)
 hz_extra=[(T['S6-2-D1']['t0'],T['S6-2-D1']['t1'],-5),(T['S6-3-E1']['t0'],T['S6-3-E1']['t1'],-5)]
 cue('muzik', m1, m1t, src_t1=m1end-m1t, fi=1.5, fo=1.2, gain_db=m1base, env=env_for(m1t,m1end,0,-9,hz_extra))
 m2t=T['S8-1-B2 genis']['t0']-1.0; m2end=T['Son kart']['t1']
-m2base=round(-24.5-lufs(m2),1)
+m2base=round(-26.0-lufs(m2),1)
 e=env_for(m2t,m2end,0,-8); 
 # final yukselisi: son replikten sonra +5 dB, kartta cozulme
+# S8-3 kuyrugunda kucuk muzik kabarmasi (+3 dB) -> S8-4 girisindeki seviye sicramasini yumusatir
+tb=T['S8-4']['t0']; e+= [[round(tb-0.75-m2t,3),0],[round(tb-0.40-m2t,3),3.0],[round(tb-0.15-m2t,3),3.0]]
+e=sorted(e); e=[[x,y] for i,(x,y) in enumerate(e) if i==0 or x>e[i-1][0]]
 lastd=max(b for a,b in dlg_windows()); e+= [[round(lastd+0.6-m2t,3),0],[round(lastd+2.0-m2t,3),5],[round(T['Son kart']['t0']+1.5-m2t,3),5],[round(m2end-m2t,3),-6]]
 cue('muzik', m2, m2t, src_t1=m2end-m2t, fi=1.0, fo=2.5, gain_db=m2base, env=e)
 json.dump(cache,open(cache_p,'w')); json.dump(C,open(IS+'/out/cues.json','w'),ensure_ascii=False,indent=1)

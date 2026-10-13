@@ -1,0 +1,64 @@
+{
+ "kaynak": "Hisirtinin ana kaynagi ortam stemindeki ruzgar yatagi (cue: v2_soft-steady-night-breeze-moving-through-_67lgpK.mp3, t=204.767, +13.7 dB, loop). Yatak neredeyse saf yuksek-frekans gurultu (agirlik merkezi 8.8 kHz; enerjinin %98'i 2 kHz ustu, %57'si 8 kHz ustu) ve sabit degil: 12 sn'lik kaynak dosyanin 3.0-3.5 ve 4.5-5.5 sn'sindeki iki 'gust' her 11.75 sn dongude tekrarliyor ve stemde -18 LUFS-M'e cikiyor (medyan -31.6). Ilk cift tam fisilti repliklerinin altina dusuyor (207.9 ve 209.6 sn): S8-2_H69 ortamin yalnizca +1.4 dB, S8-2_B70 +0.6 dB ustunde; diger replikler ortamin +4.4..+14.6 dB ustunde. Mikste fisilti sirasinda ruzgar fisiltinin kendisinden ~2 dB daha yuksek. Fisilti TTS dosyalari kendileri hisirtili degil (2-8 kHz orani H69 %3.5, B70 %14) ama gomulu. Ikincil kaynaklar: sal hisirtisi SFX (t=219.45, +41.9 dB; kaynak tepe -50.5 dBFS -> 2 sn boyunca -25 dBFS RMS dusuk frekansli ugultu/gurultu tabani, S8-4 kesmesindeki +5.6 dB sicramayi da bu yapiyor) ve cimen toynak SFX (t=234.892, +27.7 dB; 2 sn boyunca -40 dBFS tabanli 8 kHz hisirtisi). Bus kompresoru (-4.7 dB kisma + 7.9 dB makeup) bosluklari +6 dB, konusmayi +2.7 dB kaldirarak replik/bosluk ayrimini 6.3'ten 3.0 dB'ye dusuruyor ve hisirtiyi one cikariyor. Dongu dikislerinde tikirti bulunmadi.",
+ "olcumler": [
+  "Zincir (205-248 sn): mixB_raw = stem toplami (fark -240 dBFS, birebir); mixB_comp = raw -4.7 dB RMS; mixB = comp +7.9 dB. Bosluk LUFS raw -23.4 -> mixB -17.4 (+6.0 dB), konusma raw -17.1 -> mixB -14.4 (+2.7 dB): kompresor bosluklari replige 3 dB yaklastiriyor (ayrim 6.3 -> 3.0 dB).",
+  "mixB segment I/LRA/TP: S8-2 -15.5 LUFS / 1.1 LU / -1.9; S8-3 -17.6 / 1.2 / -3.1; S8-4 -14.6 / 1.0 / -2.6; S9-1 -14.8 / 2.3 / -2.7; S9-2a -16.0 / 0.7 / -2.5; S9-2b -15.6 / 2.7 / -2.5; 204.8-251.4 toplam -15.7 LUFS, LRA 3.8 LU. Segment ici LRA 1 LU civari: replikle bosluk arasinda neredeyse seviye farki yok.",
+  "Ortam stemi, yalniz ruzgar yatagi (205-248 sn icinde replik ve SFX disi 13.0 sn): RMS -34.7 dBFS, -28.3 LUFS, tepe -9.6 dBFS; spektral agirlik merkezi 8813 Hz; enerji dagilimi <500 Hz %0.6, 500-2k %1.0, 2-8 kHz %41.8, >8 kHz %56.6. Replik bosluklarinda (19.1 sn) ortam RMS -35.3 dBFS / -29.0 LUFS; konusma sirasinda -32.1 dBFS / -25.7 LUFS.",
+  "Yatak sabit degil: LUFS-M (400 ms) medyan -31.6, min -48.9, max -18.0 (stem). Gust tepeleri (t, LUFS-M): 207.9 -18.0; 209.6 -18.7; 219.6 -18.2; 221.4 -18.8; 231.4 -18.0; 233.1 -18.7; 243.1 -18.2; 244.9 -18.8. Dongu periyodu (zarf otokorelasyonu) 11.75 sn. Kaynak dosya 0.5 sn LUFS profili: 3.0 sn -32.6, 5.0 sn -34.0, 6.0-11.5 sn arasi -44..-52 (sakin). Dikislerde (216.5/228.3/240.0) RMS once/sonra -30.3/-31.5 dB, ornek adimi -14.7 dBFS: tikirti yok.",
+  "Fisilti replikleri (diyalog stemi, LUFS): S8-2_H69 (t=207.897, +0.3 dB) -21.2, tepe -6.3; ayni anda ortam -22.6, muzik -33.4 -> diyalog-ortam farki +1.4 dB. S8-2_B70 (t=209.677, +6.4 dB) -22.4, tepe -6.9; ortam -23.0 -> fark +0.6 dB. Diger replikler: A68 +5.0, A71 +11.1, B72 +8.4, A73 +4.4, B74 +14.6, A75 +12.0, P76 +9.5, A77 +5.8, P78 +2.1, A79 +11.3, B81 +6.0, H82 +14.6 dB ortam ustunde. Normal replik LUFS -17.7..-20.6.",
+  "Fisilti TTS dosyalari hisirtili degil: H69 agirlik merkezi 748 Hz, 2-8 kHz orani %3.5, >8k %0.2; B70 1327 Hz, 2-8k %14, >8k %4.3. Kaynak dosya: they-kept-the-bell-for-you_v3 mean -21.2 / peak -3.6 dBFS; they-waited_v1 mean -28.8 / peak -10.3 dBFS.",
+  "Mikste fisilti penceresi: H69 207.9-209.78: ortam stemi >2 kHz bandi -28.9 dBFS -> mixB >2 kHz -22.9 dBFS (+6.0 dB), mixB toplam -18.7 dBFS; B70: -29.4 -> -23.2. Mix seviyesinde ortam ~-16.6 LUFS, fisilti ~-18.5 LUFS: ruzgar fisiltidan ~2 dB yuksek. Zoom spektrogramda 207.9-208.5 ve 209.6-210.1'de 12 kHz'e kadar genisbant patlamalar fisilti harmoniklerinin tam ustunde.",
+  "Bosluklarda mixB >2 kHz bandi: 210.7-212.8 -32.7; 213.8-214.4 -31.1; 216.5-217.6 -27.4; 237.2-239.1 -30.2; 241.6-243.6 -24.6; 247.1-247.9 -32.0 dBFS (ortam stemi ayni pencerelerde -40.4/-37.6/-34.7/-38.8/-30.3/-40.1 -> yataga mikste +5.7..+8.6 dB). Bu bandin kaynagi ortam: muzik boslukta -28.0 dBFS ama <500 Hz %86, >8k %0; diyalog boslukta -74.5 dBFS; sfx bu pencerelerde sessiz. mixB bosluk spektrumu: 2-8k %12, >8k %11 (ortam steminde %42/%57).",
+  "SFX cue'lari (stem; tepe / RMS / 20. yuzdelik taban dBFS, sure, 2-8k|>8k orani): 205.467 hoof-steps -0.9 dB: -10.8 / -34.6 / -70.1, 2.04 s, 53|44. 206.117 leaf-crunch +5.6: -11.0 / -36.7 / -55.6, 1.04 s, 31|69 (cok parlak). 214.508 sniffs -17.1: -16.8 / -35.8 / -71.4, OK. 217.758 nose-touch +16.5: -18.9 / -36.1 / -50.2, 1.04 s, OK. 219.45 wool-shawl-rustle +41.9: -8.7 / -24.9 / -32.1 taban, 2.04 s, enerji %95 <500 Hz (hisirti degil, 42 dB kaldirilmis gurultu tabani/ugultu); 1.82 s boyunca yatagin ustunde; mix tepe -2.9. 222.15 hoof-tip-tap +12.3: tepe -2.2 (klik), taban -54.9, 0.06 s yatak ustu. 233.092 bell -8.0: -11.1 / -31.0, OK. 234.892 hoof-taps-grassy +27.7: -11.1 / -33.3 / -39.8 taban, 2.04 s, >8k %57 (2 sn hisirti tabani, yatakla ayni seviyede). 239.233 hazelnut +3.3: tepe -0.6 dBFS (klik), taban -80.9. 247.825 thumps +12.4: -11.7 / -34.4, <500 Hz %98, OK.",
+  "Kaynak SFX seviyeleri (tepe / 20. yuzdelik taban dBFS -> taban + gain): wool-shawl -50.5 / -73.9 -> -32.0; hoof-taps-grassy -37.9 / -67.4 -> -39.7; nose-touch -35.5 / -65.5 -> -49.0; hoof-tip-tap -14.6 / -65.0 -> -52.7; leaf-crunch -15.0 / -61.6 -> -56.0; hazelnut -3.4 / -84.0 -> -80.7; ruzgar yatagi mean -47.1 / max -23.3 dBFS (24 dB crest, 'steady' degil).",
+  "S8-4 kesmesindeki +5.6 dB sicrama (219.25, olcum-ses.json): 219.45 sal hisirtisi (-24.9 dBFS RMS, 2 s) + 219.6 gust (-18.2 LUFS-M) birlikte.",
+  "Simulasyon (stem toplami, kompresorsuz): onerilerle fisilti satirlari diyalog -18.6 vs ortam -47.6 LUFS (fark 1.1 -> 29 dB); bosluk >2 kHz RMS -33.4 -> -38.6 dBFS (kalan HF: 233-236.6 cani); ortam LUFS-M medyan/max -31.6/-18.0 -> -50.1/-37.0; sfx tepe -0.6 -> -6.6 dBFS. Yatak secenekleri (kaynak dosya, LUFS-M medyan/max/min): mevcut tam dosya +13.7 -> -31.5/-18.1/-38.7; A) tam dosya +3.0 + LP 6 kHz -> -47.9/-35.1/-53.6 (gust kalir, -17 dB zayif); B) 6.0-11.5 s dongu +9.0 + LP 6 kHz -> ~-42.8/-40.2/-47.6 (gust yok, +-3.7 dB sabit; mikste ~-36 LUFS, replikten ~21 dB asagida). LP 6k sonrasi agirlik merkezi 5115 Hz, >8k %12.",
+  "Kanit dosyalari: /tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/ses-hisirti/ (olcum.json, analiz.py, gust.py, seam_sim.py; spec-mixB/ortam/sfx/diyalog/muzik-204-252.png; zoom-mixB-205.5-212-fisilti.png, zoom-ortam-205.5-212-fisilti.png, zoom-sfx-218.5-223.5-sal.png, zoom-sfx-233-241-toynak.png; wave-ortam-204-252.png, wave-mixB-204-252.png)."
+ ],
+ "oneriler": [
+  {
+   "cue": "ortam: v2_soft-steady-night-breeze-moving-through-_67lgpK.mp3 (t=204.767, loop_to 46.65, gain +13.7)",
+   "db": -4.7,
+   "islem": "Gain 13.7 -> 9.0 dB VE yalniz kaynak dosyanin sakin 6.0-11.5 sn'sini dongule (src_t0=6.0, src_t1=11.5, kisa crossfade ile loop): gust'lar tamamen kalkar, yatak +-3.7 dB sabitlenir (stem ~-43 LUFS-M, mikste ~-36 LUFS, replikten ~21 dB asagi). Ustune lowpass 6 kHz (veya high-shelf -10 dB @4 kHz): agirlik merkezi 8.8 -> 5.1 kHz, >8 kHz payi %57 -> %12. Alt-dongu yapilamiyorsa alternatif: tam dosya ile gain 13.7 -> 3.0 (-10.7 dB) + LP 6 kHz + env 207.6-211.2 sn -6 dB (0.3 s rampa); gust'lar -35 LUFS-M'e iner ama kalir."
+  },
+  {
+   "cue": "sfx: a-soft-rustle-of-a-thick-knitted-wool-sh_v1_oOjrqs.mp3 (t=219.45, gain +41.9)",
+   "islem": "KALDIR. Kaynak tepe -50.5 dBFS, kullanilamaz; +41.9 dB ile 2 sn boyunca -25 dBFS RMS, %95'i <500 Hz gurultu tabani giriyor ve S8-4 girisindeki +5.6 dB sicramayi yapiyor. Sal hisirtisi istenirse yeniden uret (hedef kaynak tepe -12..-6 dBFS) ve en fazla -6..-10 dB gain ile, stem tepe <= -20 dBFS olacak sekilde koy."
+  },
+  {
+   "cue": "sfx: v2_three-slow-soft-hoof-taps-on-grassy-grou_G7rDTM.mp3 (t=234.892, gain +27.7)",
+   "db": -12,
+   "islem": "Gain 27.7 -> 15.7 dB; hisirti tabani -39.8 -> -51.8 dBFS (yeni yatagin altina iner). Ek olarak LP 6 kHz veya yeniden uret (kaynak tepe -37.9 dBFS, 28 dB kaldirilmis dosya 2 sn 8 kHz hisirtisi tasiyor)."
+  },
+  {
+   "cue": "sfx: a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI.mp3 (t=222.15, gain +12.3)",
+   "db": -8,
+   "islem": "Gain 12.3 -> 4.3 dB; stem tepe -2.2 -> -10.2 dBFS (limitere carpan tek klik)."
+  },
+  {
+   "cue": "sfx: v2_a-small-hazelnut-set-down-gently-on-a-wo_sYd1oY.mp3 (t=239.233, gain +3.3)",
+   "db": -6,
+   "islem": "Gain 3.3 -> -2.7 dB; stem tepe -0.6 -> -6.6 dBFS (klip sinirinda klik)."
+  },
+  {
+   "cue": "sfx: one-single-crisp-dry-leaf-crunching-unde_v1_mb30Fo.mp3 (t=206.117, gain +5.6)",
+   "db": -4,
+   "islem": "Gain 5.6 -> 1.6 dB; enerjinin %69'u >8 kHz, 'Who's there' hemen oncesinde S8-2 girisini parlak/hisirtili acmasin. Istege bagli LP 10 kHz."
+  },
+  {
+   "cue": "diyalog: S8-2_H69 they-kept-the-bell-for-you_v3 (t=207.897, gain +0.3)",
+   "db": 3,
+   "islem": "Gain 0.3 -> 3.3 dB; stem -21.2 -> -18.2 LUFS (diger repliklerle hizalanir), tepe -3.3 dBFS. Yatak duzeltmesiyle birlikte ortam ustundeki fark +1.4 -> ~+25 dB."
+  },
+  {
+   "cue": "diyalog: S8-2_B70 they-waited_v1 (t=209.677, gain +6.4)",
+   "db": 3,
+   "islem": "Gain 6.4 -> 9.4 dB; stem -22.4 -> -19.4 LUFS, tepe -3.9 dBFS. Fisilti olarak diger repliklerin ~1.5 dB altinda kalir."
+  },
+  {
+   "cue": "miks bus kompresoru (mixB_raw -> mixB_comp -> +7.9 dB)",
+   "db": 0,
+   "islem": "Yatak/SFX indirimlerinden sonra yeniden olc; replik/bosluk ayrimi (raw 6.3 dB -> mix 3.0 dB) 5 dB'nin altinda kalirsa esigi yukselt / orani dusur (makeup gain bosluklara +6 dB, replige +2.7 dB biniyor) ya da makeup'in bir kismini kompresorden once statik gain olarak uygula. Hedef: 205-248 bosluklari mixte <= -24 LUFS, >2 kHz bandi <= -35 dBFS."
+  }
+ ]
+}

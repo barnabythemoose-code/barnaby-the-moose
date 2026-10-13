@@ -19,7 +19,7 @@ res={}
 for ad,names in [('B',['blok','hazirB','diyalog','ortam','sfx','muzik']),('A',['blok','hazirA','diyalog','ortam','muzik'])]:
     m=mixof(names); raw=OUT+f'mix{ad}_raw.wav'; sf.write(raw,m,SR,subtype='FLOAT')
     comp=OUT+f'mix{ad}_comp.wav'
-    subprocess.run(['ffmpeg','-v','error','-y','-i',raw,'-af','acompressor=threshold=-26dB:ratio=1.8:attack=40:release=700:knee=4','-c:a','pcm_f32le',comp],check=True)
+    subprocess.run(['ffmpeg','-v','error','-y','-i',raw,'-af','acompressor=threshold=-30dB:ratio=1.35:attack=40:release=700:knee=4','-c:a','pcm_f32le',comp],check=True)
     I,LRA,TP=ebur(comp); g=-15.0-I
     fin=OUT+f'mix{ad}.wav'
     subprocess.run(['ffmpeg','-v','error','-y','-i',comp,'-af',f'volume={g:.2f}dB,alimiter=limit=0.72:attack=5:release=80:level=false','-c:a','pcm_s24le',fin],check=True)

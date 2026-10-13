@@ -8,7 +8,16 @@
 5. Tüm replikler tek tek ve miks içinde STT ile doğrulandı (41 satır). Mikste tek sapma: S6-4 Hazel 'last bell' → 'west bell' (tek başına birebir); 'Mama's shawl' mikste doğru çıktı.
 6. S7-2 üretilmediği için 'You were right / I always am' çıkarıldı (S7-1-B kuyruğunda ikisinin de ağzı kadrajda ve kapalı; S8-1 açılışı Anne/Baba).
 7. Donuk kare taraması: S5-3a, D1 ve E2 kuyrukları kısaltıldı; bloktaki 2 donuk an ve D2 içindeki 0,4 sn (replik üstünde) olduğu gibi kaldı.
-8. ElevenLabs toplam ≈ 7.631 kredi; en pahalı kalem tam miks STT (1.383) ve 6 TTS→VC düğümünün varsayılan 4 varyantla koşması (720). Seedance/Segmind çağrısı yapılmadı.
+8. ElevenLabs toplam ≈ 7.643 kredi; en pahalı kalem tam miks STT (1.383) ve 6 TTS→VC düğümünün varsayılan 4 varyantla koşması (720). Seedance/Segmind çağrısı yapılmadı.
+
+## 0. Revizyon 2 (Owner izleme notlarına göre)
+Owner'ın 480p önizlemeye verdiği 6 not ve yapılanlar:
+1. **Hazel'in gözü 2:29.8'de değişiyor (S6-2-D1 → D2 kesmesi).** İnceleme: iki bağımsız kare analizi + teyit; değişim tek karede, D1'in son karesinden D2'nin ilk karesine. Kanon (S1–S4 bloğu, S5-3b, tüm spec'ler: 'büyük parlak yuvarlak siyah göz, beyaz parıltı, sklera yok') D2 tarafında; D1'de göz küçük/mat/badem (üretim ekibi de D2'nin ilk karesini D1 karesine PIL ile göz düzelterek yapmış). Yapılan: D1 parçası, Hazel'in gözü D2'deki düzeltilmiş göz yamasıyla (üretim ekibinin PIL düzeltmesi) kare kare izlenerek değiştirilmiş sürümle (vfx/B-yama, 145 kare, izleme adımı ort. 0,4 px, titreme yok; hakem puanı 4/5) değiştirildi. İki bağımsız VFX denemesi yapıldı, hakem ajan B-yama'yı seçti. Kaynak klip değişmedi; göz artık D2 ile aynı dilde (büyük parlak siyah, tek parıltı).
+2. **S8-2'den sonra hışırtı.** Kaynak: rüzgâr yatağı (saf yüksek frekans gürültü, her 11,75 sn'de 'gust' tepeleri −18 LUFS-M) ve +42 dB kaldırılmış şal hışırtısı SFX'i. Yapılan: yatak kaynağın sakin 6,0–11,5 sn'siyle döngülendi, 5,5 kHz alçak geçiren, −38 LUFS hedef (eski −27); şal hışırtısı kaldırıldı; yaprak/tık/fındık SFX'leri 4–12 dB düşürüldü; fısıltılar +2,5…+3 dB; bus kompresörü hafifletildi (1,35:1). Boşluk/replik ayrımı 3,0 → 4,8 dB.
+3. **S9-1 tepikleme sesi eksik.** Kare analizi: Baba 4,42 ve 5,06 sn'de iki ağır tepik; Barnaby 5,95–7,53 arasında 7 toynak vuruşu (yaprak-toprak zemin). Yapılan: ElevenLabs'tan çizgi film toynak tepiği (4 varyant, 12 kredi); Baba'ya ağır (tepe ≈ −8 dBFS), Barnaby'ye hafif/çeşitli varyantlar; eski 'çim toynak' SFX'i kaldırıldı; çan 3,15 sn'ye alındı (Baba'nın ip çekişi).
+4. **S9-2b 'Ten out of ten' dudakla uyuşmuyor (ses önce).** Kare analizi: Hazel'in ağzı 4,63–5,04 ve 5,21–5,50 sn'de açılıyor; ses 3,5'teydi. Yapılan: 4,62'ye alındı (ikinci 'ten' 5,22'de). Barnaby 'So... ten?' 1,35'e (ağız 1,13–1,75 / 2,38–2,63). S9-2a Anne 'Thank you, Hazel.' 1,76'ya ve %8 hız (ağız 1,92–2,88).
+5. **'Kazlardan sonra geniş açı; Barnaby yaprakların arasından çıkıyor, zıplama görünmüyor, kayma var.'** Kare analizi: Barnaby'nin sekerek gelişi S7-1-B'nin ilk 2 sn'sinde; ham klip zıplamanın ORTASINDAN başlıyor (kalkış karesi üretimde yok), kurgu klibi 0. kareden kullanıyor, kırpılan kare yok; projede daha uzun kopya yok. 'Kayma' hissinin olası kaynakları: S8-1 girişindeki 0,5 sn parlaklık rampası ve S8-1'deki 6 karelik dijital zoom. Yapılan: tüm parlaklık rampaları kaldırıldı; S8-1 punch-in sabit kesmeye çevrildi. Zıplamanın başı ancak S7 açılışı yeniden üretilirse görünür (Seedance, ~$1,4; bu turda yapılmadı).
+6. **Genel ses oturmaları.** D1→D2 kesmesinde hazır miks → VC geçişinde 6 LU düşüş vardı; D2/E2 replikleri +1 dB, ortamları +3 dB, hazır D1/E1 miksleri −1,5 dB ile eşitlendi. S8-4 girişinde +3 dB müzik kabarması eklendi (kesim sıçraması ≤ +6 dB).
 
 ## 1. Önce sorunlar ve riskler
 - **Tam sessizlik yok, ama S8-2/S8-3 fısıltıları** (Hazel 'They kept the bell for you.', Barnaby 'They waited...') −20 LUFS'ta; telefonda hoparlörde zayıf duyulabilir. İsterseniz −18'e çekilir (tek sayı, yeniden render 2 dk).
@@ -34,7 +43,7 @@
 | 7 | S5-3a | TG-S5-3a_d01.mp4 | 0–87 | 124,62 | 3,62 sn | kes | 03 B/A (+2,5 dB) |
 | 8 | S5-3b | TG-S5-3b_d01.mp4 | 0–264 | 128,25 | 11,00 sn | kes | 03 B/A (ilk 2,5 sn −5→0 dB) |
 | 9 | S6-1 | TG-S6-1_d01.mp4 | 0–139 | 138,75 | 5,79 sn | ['xfade', 12] | ortam + VC |
-| 10 | S6-2-D1 | B090-TG-S6-2-D1_d01.mp4 | 0–126 | 144,54 | 5,25 sn | kes | 03 D1-B v3 / A |
+| 10 | S6-2-D1 | B090-TG-S6-2-D1_goz.mp4 | 0–126 | 144,54 | 5,25 sn | kes | 03 D1-B v3 / A |
 | 11 | S6-2-D2 | B090-TG-S6-2-D2_d01.mp4 | 0–145 | 149,79 | 6,04 sn | kes | ortam + VC |
 | 12 | S6-3-E1 | B090-TG-S6-3-E1_d01.mp4 | 0–142 | 155,83 | 5,92 sn | kes | 03 E1-B v2 / A |
 | 13 | S6-3-E2 | B090-TG-S6-3-E2_d01.mp4 | 0–100 | 161,75 | 4,17 sn | kes | ortam + VC |
@@ -72,19 +81,19 @@ Son kart: koyu lacivert (0x0a1428) üstüne logo 420 px, 0,3–1,2 sn alfa giri�
 ## 5. Ölçüm tablosu
 | Ölçüm | Hedef | B (efektli) | A (efektsiz) |
 |---|---|---|---|
-| Integrated loudness | −16…−14 LUFS | -15,10 | -15,20 |
-| True peak | ≤ −1 dBTP | -1,50 | -2,00 |
-| LRA | ≤ 8 LU | 6,60 | 6,80 |
+| Integrated loudness | −16…−14 LUFS | -15,30 | -15,30 |
+| True peak | ≤ −1 dBTP | -1,50 | -1,50 |
+| LRA | ≤ 8 LU | 7,90 | 8,00 |
 | Tam sessizlik > 1,5 sn | yok | 0 | 0 |
 | Kesimde M−3s sıçraması > +6 dB | yok | 0 | 0 |
-| Final mp4 (AAC) I / TP / LRA | | I -15.2 / TP -1.7 / LRA 6.7 | I -15.4 / TP -2.7 / LRA 6.6 |
+| Final mp4 (AAC) I / TP / LRA | | I -15.3 / TP -0.5 / LRA 7.9 | I -15.3 / TP -1.5 / LRA 8.0 |
 | Donuk kare (freezedetect −60 dB, 0,4 sn) | elle bak | 8,4–9,1 ve 36,6–38,4 (blok, dokunulmadı); 155,4–155,8 (D2, Hazel repliği üstünde, kaynak); 164,9–165,3 (E2 dinleme tutuşu); 249,1→son (kart) | aynı |
 | Flaş (ΔY≥12, sn başına >3) | yok | 11. sn (blok) ve 229–230 (S8-4 Baba kesmesi) — ikisi de strob değil | aynı |
 | Kesimde ortalama Y sıçraması > 15 | yumuşat | 3 kesim, 0,5 sn pozlama rampası uygulandı | aynı |
 
-**Kesim parlaklık farkları (son kare → ilk kare, Y/255):** S1-S4 blok→S5-1a +0,7; S5-1a→S5-1b +23,6; S5-1b→S5-2a -0,9; S5-2a→S5-2b -2,3; S5-2b→S5-2c -2,3; S5-2c→S5-3a -2,2; S5-3a→S5-3b +6,2; S5-3b→S6-1 -0,3; S6-1→S6-2-D1 +0,3; S6-2-D1→S6-2-D2 +0,4; S6-2-D2→S6-3-E1 -1,7; S6-3-E1→S6-3-E2 -1,9; S6-3-E2→S6-4 +0,5; S6-4→S6-5 -2,2; S6-5→S7-1-B +0,8; S7-1-B→S8-1-B2 genis -27,0; S8-1-B2 genis→S8-1-B2 Anne punch-in +1,1; S8-1-B2 Anne punch-in→S8-2 +0,3; S8-2→S8-3 -3,4; S8-3→S8-4 -19,9; S8-4→S9-1 +0,4; S9-1→S9-2a +1,3; S9-2a→S9-2b +6,2; S9-2b→Son kart -3,3
+**Kesim parlaklık farkları (son kare → ilk kare, Y/255):** S1-S4 blok→S5-1a +0,7; S5-1a→S5-1b +23,6; S5-1b→S5-2a -0,9; S5-2a→S5-2b -2,3; S5-2b→S5-2c -2,3; S5-2c→S5-3a -2,2; S5-3a→S5-3b +6,2; S5-3b→S6-1 -0,3; S6-1→S6-2-D1 +0,3; S6-2-D1→S6-2-D2 +0,5; S6-2-D2→S6-3-E1 -1,7; S6-3-E1→S6-3-E2 -1,9; S6-3-E2→S6-4 +0,5; S6-4→S6-5 -2,2; S6-5→S7-1-B +0,8; S7-1-B→S8-1-B2 genis -27,0; S8-1-B2 genis→S8-1-B2 Anne punch-in +0,2; S8-1-B2 Anne punch-in→S8-2 +0,3; S8-2→S8-3 -3,4; S8-3→S8-4 -19,9; S8-4→S9-1 +0,4; S9-1→S9-2a +1,3; S9-2a→S9-2b +6,2; S9-2b→Son kart -3,3
 
-**Parça bazlı RMS (B, dBFS):** S1-S4 blok -18,3; S5-1a -18,3; S5-1b -24,9; S5-2a -24,1; S5-2b -23,7; S5-2c -22,8; S5-3a -26,7; S5-3b -19,8; S6-1 -19,4; S6-2-D1 -18,9; S6-2-D2 -19,6; S6-3-E1 -18,4; S6-3-E2 -20,6; S6-4 -18,9; S6-5 -18,8; S7-1-B -18,5; S8-1-B2 genis -17,3; S8-1-B2 Anne punch-in -20,4; S8-2 -20,3; S8-3 -22,0; S8-4 -17,9; S9-1 -19,1; S9-2a -19,9; S9-2b -20,4; Son kart -30,1
+**Parça bazlı RMS (B, dBFS):** S1-S4 blok -18,2; S5-1a -18,2; S5-1b -26,1; S5-2a -25,4; S5-2b -24,8; S5-2c -24,1; S5-3a -28,4; S5-3b -19,9; S6-1 -19,6; S6-2-D1 -20,3; S6-2-D2 -19,1; S6-3-E1 -19,4; S6-3-E2 -20,3; S6-4 -18,9; S6-5 -18,9; S7-1-B -18,6; S8-1-B2 genis -17,3; S8-1-B2 Anne punch-in -20,7; S8-2 -20,6; S8-3 -23,1; S8-4 -18,6; S9-1 -19,6; S9-2a -21,1; S9-2b -21,2; Son kart -35,1
 
 ## 6. STT ters test (replik bazlı)
 | Replik | Kaynak | Beklenen | STT sonucu | Durum |
@@ -207,7 +216,7 @@ Son kart: koyu lacivert (0x0a1428) üstüne logo 420 px, 0,3–1,2 sn alfa giri�
 TTS→VC kararı: 'Mama.' (0,839→0,623), 'I followed...' (0,299→0,190), 'So... ten?' (0,185→0,033), 'Ten out of ten.' (0,171→0,062) VC ile yaklaştı ve STT'yi geçti; 'They waited...' (0,383→0,625) ve 'They kept the bell' (STT 'I kept') düz TTS'te kaldı. Yüksek cos çıkan VC satırları (S6-1_B1 1,06; S6-4_B2 1,32; S6-2-D2_B1 0,76) 1 sn'den kısa, ünlem/nefesli kesitler; dinlemede Barnaby tınısında.
 
 ## 8. Krediler
-- Toplam ElevenLabs harcaması (ses-log.csv, `price.credits` toplamı): **≈ 7.631 kredi**. Üst sınırlar: 25.000 ve kalan bakiyenin %35'i — connector bakiye döndürmediği için %35 kontrolü yapılamadı; toplam 25.000'in çok altında.
+- Toplam ElevenLabs harcaması (ses-log.csv, `price.credits` toplamı): **≈ 7.643 kredi**. Üst sınırlar: 25.000 ve kalan bakiyenin %35'i — connector bakiye döndürmediği için %35 kontrolü yapılamadı; toplam 25.000'in çok altında.
 - Kalemler: STT 7 klip 320; TTS 14 replik 1.563; SFX 233+86; VC 23 replik 612 (+3 retake 93); müzik 960+870; 6 TTS→VC × 4 varyant 720; 3 yeniden TTS × 2 varyant 280; ters STT'ler ≈ 350; tam miks STT 1.383.
 - Yeni video üretimi yok; Seedance/Segmind çağrısı yok; ElevenLabs dışında ücretli servis yok; yeni ses (voice) oluşturulmadı.
 

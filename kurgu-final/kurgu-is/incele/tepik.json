@@ -1,0 +1,61 @@
+{
+ "vuruslar": [
+  {
+   "sn": 4.42,
+   "kim": "Baba",
+   "tarif": "Tabla arkasinda, ekrana gore sol (kutuge yakin) bacagini dizden yukari kaldiriyor: diz 4.08'de gorunmeye basliyor, 4.21-4.29'da tepe (diz, soldaki kutugun ustune kadar cikiyor), 4.33-4.38'de hizla iniyor; toynak 4.42'de (kare 106) ayakta duran bacagin toynaginin yanina yere basiyor ve 4.67'ye kadar orada kaliyor. Ust govdesi hareketsiz, sadece tabla altinda gorunuyor. Zemin: gölgede, yaprak serpili toprak (kutuklerin arasi).",
+   "siddet": "sert/agir (iri govde, yuksek diz, 2 karelik inis) - kalin, tok cizgi film tepik"
+  },
+  {
+   "sn": 5.06,
+   "kim": "Baba",
+   "tarif": "Ayni bacak ikinci tepik: toynak 4.70-4.75'te yerden kalkiyor, diz 4.79'dan itibaren yukselip 4.92-4.96'da tepe, 5.00-5.04'te iniyor; toynak 5.06'da (kare 121-122) yere basiyor, 5.25'e kadar yerde kaliyor. 5.29-5.33'te bacak sessizce eski (kutuk arkasindaki) yerine cekiliyor - bu son hareket vurus degil, hafif agirlik aktarimi (ses gerekmez). Bundan sonra Baba klip sonuna kadar hareketsiz.",
+   "siddet": "sert/agir - ilkiyle ayni; iki vurus 0,64 sn arayla 'tak-tak'"
+  },
+  {
+   "sn": 5.95,
+   "kim": "Barnaby",
+   "tarif": "On (ekrana gore sol) toynak 5.54'te kalkiyor, 5.58-5.88 arasi yapraklarin birkac cm ustunde ucu asagi bakar sekilde ASILI DURUYOR (0,3 sn bekleme; govde yuksekligi degismiyor, ziplama yok, tek bacak), 5.92'de iniyor, 5.96'da (kare 143) iki toynak da yerde. Yapraklar savrulmuyor.",
+   "siddet": "orta-sert (bekletip vurma)"
+  },
+  {
+   "sn": 6.36,
+   "kim": "Barnaby",
+   "tarif": "Ayni on/sol toynak tekrar: 6.04'te kalkiyor, 6.08-6.33 arasi tekrar asili bekliyor, 6.33-6.375'te hizla iniyor (butun seride en yuksek hareket enerjisi bu karede), 6.42'de iki toynak yerde.",
+   "siddet": "sert - serinin en sert vurusu"
+  },
+  {
+   "sn": 6.7,
+   "kim": "Barnaby",
+   "tarif": "Arka (ekrana gore sag) toynak: 6.42-6.46'da hizla kalkiyor, 6.46-6.63 arasi diz hizasina yakin yukseklikte duruyor, 6.67'de iniyor, 6.71'de (kare 161) yerde. Bundan sonra sol-sag hizli donusumlu seri basliyor.",
+   "siddet": "sert"
+  },
+  {
+   "sn": 6.95,
+   "kim": "Barnaby",
+   "tarif": "On/sol toynak: 6.83 kalkis, 6.88 tepe, 6.92 inis, 6.96'da (kare 167) yerde. Hizli, beklemesiz vurus.",
+   "siddet": "orta-sert"
+  },
+  {
+   "sn": 7.07,
+   "kim": "Barnaby",
+   "tarif": "Arka/sag toynak cok kisa 'tak': 7.04'te kalkiyor, 7.08'de (kare 170) yerde - sadece 2 kare havada, alcak kalkis.",
+   "siddet": "hafif-orta (kisa tik/tak)"
+  },
+  {
+   "sn": 7.24,
+   "kim": "Barnaby",
+   "tarif": "On/sol toynak: 7.13 kalkis, 7.17-7.21 yuksekte, 7.25'te (kare 174) yerde.",
+   "siddet": "orta-sert"
+  },
+  {
+   "sn": 7.53,
+   "kim": "Barnaby",
+   "tarif": "Arka/sag toynak, seriyi kapatan vurus: 7.33 kalkis, 7.38-7.46 diz hizasinda yuksekte, 7.50 inis, 7.54'te (kare 181) yerde. 7.58'den klip sonuna (8.04) kadar iki toynak hareketsiz.",
+   "siddet": "sert (kapanis vurusu)"
+  }
+ ],
+ "zemin": "Kuru sonbahar yapraklariyla (kirmizi/turuncu akcaagac) kapli toprak-cim. Barnaby'nin altinda yogun yaprak ortusu + kizil cim; vuruslarda yapraklar gorunur sekilde savrulmuyor, toynak yapragin ustune oturuyor -> cizgi film 'tok/thud' + hafif kuru yaprak citirtisi uygun. Baba'nin altinda (tabla arkasi, kutuklerin arasi) golgede, yaprak serpili toprak; daha kalin/agir tok. Not: Ham klipte (B090-TG-S9-1_d01.mp4) ses kanali YOK (yalniz video), zamanlar tamamen goruntuden. Zaman cizelgesi: S9-1 t0=230.292 sn (3:50.29) -> klip ici +230.29: Baba 234.71 / 235.35 (3:54.7 / 3:55.4 - kullanicinin '3.55'i tam Baba'nin tepikleri), Barnaby 236.24, 236.65, 236.99, 237.24, 237.36, 237.53, 237.82 (3:56.2-3:57.8), can 233.50 (3:53.5). Ilk 0-3.8 sn'de tum karede yavaslayan surekli hareket var: kamera yavas ilerleyip duruyor, tepik degil. Anne hic tepiklemiyor.",
+ "kanit": "Klasor: /tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/incele/tepik/ . Tum klip 12 fps tam kare: full12-1..7.jpg. Barnaby bacak: barnaby-bacak12-1..7.jpg (12 fps), barnaby-24fps-1..5.jpg (24 fps, 5.25-7.96), barnaby-toynak-24fps-1..4.jpg (toynak seridi), barnaby-buyuk-1..3.jpg (24 fps buyuk crop, kare 130-189; etiketteki n=130'dan baslayan indeks, pts gercek zaman), barnaby-govde-24fps.jpg (govde yuksekligi, ziplama yok). Baba: baba-can12-1..7.jpg (Baba+can 12 fps), baba-bacak-24fps-1..3.jpg, baba-bacak-parlak-24fps-1..3.jpg (parlatilmis tabla alti 3.875-5.25), baba-bacak-parlak-12fps-1..4.jpg (parlatilmis, tum klip). Can: can-bas-24fps-1..3.jpg (0-1.4), can-orta-24fps-1..2.jpg (1.3-2.8), can-24fps-1..3.jpg (2.75-4.33: cekis 3.17-3.25, ipi birakma 3.79-3.88). Tam kare vurus anlari: kare-3.208.jpg (can egik), kare-4.083/4.250.jpg (Baba diz yukarida), kare-4.417/4.458.jpg (Baba 1. inis), kare-4.958.jpg (2. diz), kare-5.083.jpg (2. inis), kare-5.625.jpg (Barnaby toynak asili, ziplama yok), kare-5.958.jpg, kare-6.375.jpg, kare-6.708.jpg, kare-6.958.jpg, kare-7.083.jpg, kare-7.250.jpg, kare-7.542.jpg (Barnaby vuruslari). Sayisal dogrulama: toynak bolgesinde kare-kare hareket enerjisi ve referansa gore fark olcumu (numpy) - inis tepeleri 5.917, 6.375, 6.708, 6.958, 7.083, 7.250, 7.542 karelerinde; 5.58-5.88 ve 6.08-6.33 araliklari tamamen durgun (asili toynak). Baba icin diz bolgesi fark tepeleri 4.21-4.29 ve 4.92-4.96, toynak bolgesine inis 4.417 ve 5.083.",
+ "can_ani_sn": 3.21
+}

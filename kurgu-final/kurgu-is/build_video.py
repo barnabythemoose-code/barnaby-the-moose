@@ -16,7 +16,7 @@ for i,(ad,src,a,b,gecis,_,_) in enumerate(EDL):
     else:
         vf=f"trim=start_frame={a}:end_frame={b},setpts=PTS-STARTPTS,scale=1280:720:flags=lanczos"
         if gecis=='punch':   # Anne punch-in: 0,25 sn'de 1,00 -> 1,18, Anne (x~%40, y~%55) merkezli
-            vf+=",zoompan=z='1+0.18*min(1,on/6)':x='max(0,min(iw-iw/zoom,512-iw/zoom/2))':y='max(0,min(ih-ih/zoom,396-ih/zoom/2))':d=1:s=1280x720:fps=24"
+            vf+=",zoompan=z='1.18':x='max(0,min(iw-iw/zoom,512-iw/zoom/2))':y='max(0,min(ih-ih/zoom,396-ih/zoom/2))':d=1:s=1280x720:fps=24"
         run(['ffmpeg','-v','error','-y','-i',IS+'/'+src,'-vf',vf,*ENC,out])
     n=int(subprocess.run(['ffprobe','-v','error','-count_frames','-select_streams','v','-show_entries','stream=nb_read_frames','-of','csv=p=0',out],capture_output=True,text=True).stdout.strip())
     segs.append(dict(i=i,ad=ad,src=src,a=a,b=b,gecis=gecis,dosya=out,kare=n)); print(i,ad,n,'kare',flush=True)
