@@ -1,0 +1,282 @@
+[
+ {
+  "t": "138,8",
+  "id": "S6-1_H1",
+  "beklenen": "We stop here until morning.",
+  "stt": "We stop here until morning",
+  "durum": "✓"
+ },
+ {
+  "t": "142,0",
+  "id": "S6-1_B1",
+  "beklenen": "But Mama's table...",
+  "stt": "But Mama's table.",
+  "durum": "✓"
+ },
+ {
+  "t": "143,0",
+  "id": "S6-1_H2",
+  "beklenen": "Morning, Barnaby.",
+  "stt": "Morning, Barnaby.",
+  "durum": "✓"
+ },
+ {
+  "t": "145,5",
+  "id": "S6-2-D1 (hazır miks)",
+  "beklenen": "My antlers grew. Mama won't know me. / Your nose found a pie three valleys away.",
+  "stt": "My antlers grew. Mama won't know me. Your nose found a pie three valleys away.",
+  "durum": "✓"
+ },
+ {
+  "t": "151,4",
+  "id": "S6-2-D2_B1",
+  "beklenen": "It found a tree.",
+  "stt": "It found a tree.",
+  "durum": "✓"
+ },
+ {
+  "t": "153,4",
+  "id": "S6-2-D2_H1",
+  "beklenen": "Barnaby. You are very hard to not know.",
+  "stt": "Barnaby, you are very hard to not know.",
+  "durum": "✓"
+ },
+ {
+  "t": "156,2",
+  "id": "S6-3-E1 (hazır miks)",
+  "beklenen": "Sound travels at night. Call. / Mama. Papa.",
+  "stt": "Sound travels at night. Call. Mama, Papa.",
+  "durum": "✓"
+ },
+ {
+  "t": "163,0",
+  "id": "S6-3-E2_B1",
+  "beklenen": "Mama... It's Barnaby!",
+  "stt": "Mama, it's Barnaby.",
+  "durum": "✓"
+ },
+ {
+  "t": "166,2",
+  "id": "S6-4_H1",
+  "beklenen": "That's not the last bell.",
+  "stt": "That's not the west bell.",
+  "durum": "≈ (tek başına STT birebir; mikste 'last'→'west')"
+ },
+ {
+  "t": "167,8",
+  "id": "S6-4_Hmm",
+  "beklenen": "(kapalı ağız Hmm)",
+  "stt": "— (ilk tam STT'de 'Hmm.')",
+  "durum": "✓"
+ },
+ {
+  "t": "168,5",
+  "id": "S6-4_B1",
+  "beklenen": "A soft bell... like a lamp left on.",
+  "stt": "A soft bell, like a lamp left on.",
+  "durum": "✓"
+ },
+ {
+  "t": "170,9",
+  "id": "S6-4_H2",
+  "beklenen": "Somebody's still waiting.",
+  "stt": "Somebody's still waiting.",
+  "durum": "✓"
+ },
+ {
+  "t": "172,8",
+  "id": "S6-4_B2",
+  "beklenen": "For... me?",
+  "stt": "For me?",
+  "durum": "✓"
+ },
+ {
+  "t": "175,3",
+  "id": "S6-5_B1",
+  "beklenen": "Nose, I know you love pie. But today, please... find Mama.",
+  "stt": "Nose, I know you love pie, but today please find Mama.",
+  "durum": "✓"
+ },
+ {
+  "t": "180,0",
+  "id": "S6-5_B2",
+  "beklenen": "Warm wool. Mama's shawl! This way!",
+  "stt": "Warm wool, Mama's shawl. This way.",
+  "durum": "✓"
+ },
+ {
+  "t": "182,6",
+  "id": "S6-5_H1",
+  "beklenen": "Not pie?",
+  "stt": "Not pie.",
+  "durum": "✓"
+ },
+ {
+  "t": "183,5",
+  "id": "S6-5_B3",
+  "beklenen": "Not pie. Mama.",
+  "stt": "Not pie, Mama.",
+  "durum": "✓"
+ },
+ {
+  "t": "184,9",
+  "id": "S6-5_H2",
+  "beklenen": "Go.",
+  "stt": "Go.",
+  "durum": "✓"
+ },
+ {
+  "t": "188,0",
+  "id": "S7-1_B1",
+  "beklenen": "The fog ate Mama's smell. I can't smell anything!",
+  "stt": "The fog ate Mama's smell. I can't smell anything.",
+  "durum": "✓"
+ },
+ {
+  "t": "190,4",
+  "id": "S7-1_H1",
+  "beklenen": "Then don't smell. Look. The geese.",
+  "stt": "Then don't smell. Look, the geese.",
+  "durum": "✓"
+ },
+ {
+  "t": "192,7",
+  "id": "S7-1_H2",
+  "beklenen": "They eat Mama's corn at the lights. They know the way.",
+  "stt": "They eat Mama's corn at the lights. They know the way.",
+  "durum": "✓"
+ },
+ {
+  "t": "195,6",
+  "id": "S7-1_B2",
+  "beklenen": "Dinner before me?!",
+  "stt": "Dinner before me?",
+  "durum": "✓"
+ },
+ {
+  "t": "196,6",
+  "id": "S7-1_H3",
+  "beklenen": "Geese are punctual.",
+  "stt": "Geese are punctual.",
+  "durum": "✓"
+ },
+ {
+  "t": "197,6",
+  "id": "S8-1_A1",
+  "beklenen": "Papa, the sun went down a long time ago.",
+  "stt": "Papa, the sun went down a long time ago.",
+  "durum": "✓"
+ },
+ {
+  "t": "200,4",
+  "id": "S8-1_P1",
+  "beklenen": "The table isn't full yet.",
+  "stt": "The table isn't full yet.",
+  "durum": "✓"
+ },
+ {
+  "t": "202,6",
+  "id": "S8-1_A2",
+  "beklenen": "No. It isn't.",
+  "stt": "No, it isn't.",
+  "durum": "✓"
+ },
+ {
+  "t": "206,7",
+  "id": "S8-2_A68",
+  "beklenen": "Who's there?",
+  "stt": "Who's there?",
+  "durum": "✓"
+ },
+ {
+  "t": "208,0",
+  "id": "S8-2_H69",
+  "beklenen": "They kept the bell for you.",
+  "stt": "They kept the bell for you.",
+  "durum": "✓"
+ },
+ {
+  "t": "209,8",
+  "id": "S8-2_B70",
+  "beklenen": "They waited...",
+  "stt": "They waited.",
+  "durum": "✓"
+ },
+ {
+  "t": "213,0",
+  "id": "S8-3_A71",
+  "beklenen": "...Barnaby?",
+  "stt": "Barnaby?",
+  "durum": "✓"
+ },
+ {
+  "t": "216,0",
+  "id": "S8-3_B72",
+  "beklenen": "Mama.",
+  "stt": "Mama.",
+  "durum": "✓"
+ },
+ {
+  "t": "219,8",
+  "id": "S8-4_A73",
+  "beklenen": "Look how big you are! Is that maple?",
+  "stt": "Look how big you are. Is that maple?",
+  "durum": "✓"
+ },
+ {
+  "t": "222,8",
+  "id": "S8-4_B74",
+  "beklenen": "I followed Papa's pie. It was a tree.",
+  "stt": "I followed Papa's pie. It was a tree.",
+  "durum": "✓"
+ },
+ {
+  "t": "226,1",
+  "id": "S8-4_A75",
+  "beklenen": "Papa's pie has a tree in it.",
+  "stt": "Papa's pie has a tree in it.",
+  "durum": "✓"
+ },
+ {
+  "t": "228,7",
+  "id": "S8-4_P76",
+  "beklenen": "...Hm. Maple.",
+  "stt": "Hmm, maple.",
+  "durum": "✓"
+ },
+ {
+  "t": "230,7",
+  "id": "S9-1_A77",
+  "beklenen": "Now we can ring it, Papa.",
+  "stt": "Now we can ring it, Papa.",
+  "durum": "✓"
+ },
+ {
+  "t": "232,8",
+  "id": "S9-1_P78",
+  "beklenen": "Hm.",
+  "stt": "Hmm.",
+  "durum": "✓"
+ },
+ {
+  "t": "240,4",
+  "id": "S9-2a_A79",
+  "beklenen": "Thank you, Hazel.",
+  "stt": "Thank you, Hazel.",
+  "durum": "✓"
+ },
+ {
+  "t": "243,9",
+  "id": "S9-2b_B81",
+  "beklenen": "So... ten?",
+  "stt": "So, 10?",
+  "durum": "✓ (rakam)"
+ },
+ {
+  "t": "245,9",
+  "id": "S9-2b_H82",
+  "beklenen": "Ten out of ten.",
+  "stt": "10 out of 10.",
+  "durum": "✓ (rakam)"
+ }
+]

@@ -1,0 +1,1451 @@
+[
+ {
+  "stem": "blok",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-ARA-KURGU-S1-S4-mobil-v2.wav",
+  "t": 0.0,
+  "src_t1": 104.042,
+  "fi": 0,
+  "fo": 0.04
+ },
+ {
+  "stem": "hazirB",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-1a-B-efektli-r3.wav",
+  "t": 104.042,
+  "src_t0": 0.0,
+  "src_t1": 4.9366666666666665,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirA",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-1a-A-efektsiz-r3.wav",
+  "t": 104.042,
+  "src_t0": 0.0,
+  "src_t1": 4.9366666666666665,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirB",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-1b-B-efektli-r2.wav",
+  "t": 108.958,
+  "src_t0": 0.0,
+  "src_t1": 3.6866666666666665,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirA",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-1b-A-efektsiz-r2.wav",
+  "t": 108.958,
+  "src_t0": 0.0,
+  "src_t1": 3.6866666666666665,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirB",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-2a_B-efektli.wav",
+  "t": 112.625,
+  "src_t0": 0.0,
+  "src_t1": 4.02,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirA",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-2a_A-efektsiz.wav",
+  "t": 112.625,
+  "src_t0": 0.0,
+  "src_t1": 4.02,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirB",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-2b_B-efektli.wav",
+  "t": 116.625,
+  "src_t0": 0.0,
+  "src_t1": 4.02,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirA",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-2b_A-efektsiz.wav",
+  "t": 116.625,
+  "src_t0": 0.0,
+  "src_t1": 4.02,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirB",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-2c_B-efektli.wav",
+  "t": 120.625,
+  "src_t0": 0.0,
+  "src_t1": 4.02,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirA",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-2c_A-efektsiz.wav",
+  "t": 120.625,
+  "src_t0": 0.0,
+  "src_t1": 4.02,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirB",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-3a_B-efektli.wav",
+  "t": 124.625,
+  "src_t0": 0.0,
+  "src_t1": 3.645,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 4.0
+ },
+ {
+  "stem": "hazirA",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-3a_A-efektsiz.wav",
+  "t": 124.625,
+  "src_t0": 0.0,
+  "src_t1": 3.645,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 4.0
+ },
+ {
+  "stem": "hazirB",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-3b_B-efektli.wav",
+  "t": 128.25,
+  "src_t0": 0.0,
+  "src_t1": 11.02,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5,
+  "env": [
+   [
+    0,
+    -5
+   ],
+   [
+    2.5,
+    0
+   ]
+  ]
+ },
+ {
+  "stem": "hazirA",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-3b_A-efektsiz.wav",
+  "t": 128.25,
+  "src_t0": 0.0,
+  "src_t1": 11.02,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5,
+  "env": [
+   [
+    0,
+    -5
+   ],
+   [
+    2.5,
+    0
+   ]
+  ]
+ },
+ {
+  "stem": "hazirB",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S6-2-D1-B-efektli-v3.wav",
+  "t": 144.542,
+  "src_t0": 0.0,
+  "src_t1": 5.27,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirA",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S6-2-D1-A-efektsiz-v3.wav",
+  "t": 144.542,
+  "src_t0": 0.0,
+  "src_t1": 5.27,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirB",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S6-3-E1-B-efektli-v2-dinleme.wav",
+  "t": 155.833,
+  "src_t0": 0.0,
+  "src_t1": 5.9366666666666665,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "hazirA",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S6-3-E1-A-efektsiz-v2-dinleme.wav",
+  "t": 155.833,
+  "src_t0": 0.0,
+  "src_t1": 5.9366666666666665,
+  "fi": 0.02,
+  "fo": 0.04,
+  "gain_db": 1.5
+ },
+ {
+  "stem": "ortam",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ortam/S6-1_ortam.wav",
+  "t": 138.75,
+  "src_t1": 5.8116666666666665,
+  "fi": 0.02,
+  "fo": 0.04
+ },
+ {
+  "stem": "ortam",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ortam/S6-2-D2_ortam.wav",
+  "t": 149.792,
+  "src_t1": 6.0616666666666665,
+  "fi": 0.02,
+  "fo": 0.04
+ },
+ {
+  "stem": "ortam",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ortam/S6-3-E2_ortam.wav",
+  "t": 161.75,
+  "src_t1": 4.1866666666666665,
+  "fi": 0.02,
+  "fo": 0.04
+ },
+ {
+  "stem": "ortam",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ortam/S6-4_ortam.wav",
+  "t": 165.917,
+  "src_t1": 7.853333333333333,
+  "fi": 0.02,
+  "fo": 0.04
+ },
+ {
+  "stem": "ortam",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ortam/S6-5_ortam.wav",
+  "t": 173.75,
+  "src_t1": 12.061666666666666,
+  "fi": 0.02,
+  "fo": 0.04
+ },
+ {
+  "stem": "ortam",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ortam/S7-1-B_ortam.wav",
+  "t": 185.792,
+  "src_t1": 12.061666666666666,
+  "fi": 0.02,
+  "fo": 0.04
+ },
+ {
+  "stem": "ortam",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ortam/S8-1-B2_ortam.wav",
+  "t": 197.833,
+  "src_t0": 0.7083333333333334,
+  "src_t1": 8.061666666666667,
+  "fi": 0.02,
+  "fo": 0.04
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/B090-TG-S6-4_d01.wav",
+  "t": 167.697,
+  "gain_db": -4,
+  "src_t0": 1.78,
+  "src_t1": 2.1,
+  "fi": 0.02,
+  "fo": 0.03,
+  "id": "S6-4_Hmm"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-1_H1.mp3",
+  "t": 138.75,
+  "gain_db": 0.6,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-1_H1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-1_B1.mp3",
+  "t": 141.93,
+  "gain_db": 1.7,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-1_B1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-1_H2.mp3",
+  "t": 142.93,
+  "gain_db": 2.7,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-1_H2"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-2-D2_B1.mp3",
+  "t": 151.312,
+  "gain_db": 4.8,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-2-D2_B1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-2-D2_H1.mp3",
+  "t": 153.292,
+  "gain_db": 4.3,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-2-D2_H1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-3-E2_B1.mp3",
+  "t": 162.85,
+  "gain_db": 2.0,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-3-E2_B1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-4_H1.mp3",
+  "t": 166.137,
+  "gain_db": 1.7,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-4_H1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-4_B1.mp3",
+  "t": 168.457,
+  "gain_db": 4.1,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-4_B1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-4_H2.mp3",
+  "t": 170.837,
+  "gain_db": -1.2,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-4_H2"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-4_B2.mp3",
+  "t": 172.757,
+  "gain_db": 3.7,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-4_B2"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-5_B1.mp3",
+  "t": 175.23,
+  "gain_db": 3.8,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-5_B1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-5_H1.mp3",
+  "t": 182.51,
+  "gain_db": -9.2,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-5_H1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-5_B3.mp3",
+  "t": 183.39,
+  "gain_db": 2.3,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-5_B3"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S6-5_H2.mp3",
+  "t": 184.77,
+  "gain_db": -8.5,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-5_H2"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S7-1_B1.mp3",
+  "t": 187.912,
+  "gain_db": 0.0,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S7-1_B1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S7-1_H1.mp3",
+  "t": 190.312,
+  "gain_db": -0.3,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S7-1_H1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S7-1_B2.mp3",
+  "t": 195.472,
+  "gain_db": -0.6,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S7-1_B2"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S8-1_A1.mp3",
+  "t": 197.465,
+  "gain_db": -0.1,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-1_A1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S8-1_P1.mp3",
+  "t": 200.345,
+  "gain_db": 0.4,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-1_P1"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc/S8-1_A2.mp3",
+  "t": 202.525,
+  "gain_db": 0.0,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-1_A2"
+ },
+ {
+  "stem": "ortam",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_soft-steady-night-breeze-moving-through-_67lgpK.mp3",
+  "t": 204.767,
+  "loop_to": 46.65,
+  "gain_db": 13.7,
+  "fi": 0.4,
+  "fo": 2.0
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts2/S7-1_H2_v2_iCYXuH.mp3",
+  "t": 192.628,
+  "gain_db": 1.2,
+  "tempo": 1.05,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S7-1_H2"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts2/S7-1_H3_v1_TQN10N.mp3",
+  "t": 196.322,
+  "gain_db": 2.3,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S7-1_H3"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts2/S6-5_B2_v2_xcKGmI.mp3",
+  "t": 179.767,
+  "gain_db": -0.5,
+  "tempo": 1.05,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S6-5_B2"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/who-s-there_v1_vrl0xM.mp3",
+  "t": 206.517,
+  "gain_db": -0.4,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-2_A68"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/they-kept-the-bell-for-you_v3_1s7eI1.mp3",
+  "t": 207.897,
+  "gain_db": 0.3,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-2_H69"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/they-waited_v1_Ztspxu.mp3",
+  "t": 209.677,
+  "gain_db": 6.4,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-2_B70"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/barnaby_v2_xNZJzx.mp3",
+  "t": 212.798,
+  "gain_db": -3.5,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-3_A71"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc_tts/mama_v3_ULpeZl.mp3",
+  "t": 215.808,
+  "gain_db": -1.5,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-3_B72"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts_kirp/anne73.wav",
+  "t": 219.643,
+  "gain_db": -4.4,
+  "tempo": 1.05,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-4_A73"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc_tts/ifollowed_v2_NtsFQk.mp3",
+  "t": 222.529,
+  "gain_db": 1.8,
+  "tempo": 1.05,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-4_B74"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/papa-s-pie-has-a-tree-in-it_v1_Ntrjo9.mp3",
+  "t": 225.898,
+  "gain_db": -3.9,
+  "tempo": 1.05,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-4_A75"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts_kirp/baba76.wav",
+  "t": 228.56,
+  "gain_db": -1.9,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-4_P76"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/now-we-can-ring-it-papa_v1_w5EF7A.mp3",
+  "t": 230.532,
+  "gain_db": -5.0,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S9-1_A77"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/hm_v2_FBgUJb.mp3",
+  "t": 232.622,
+  "gain_db": 6.2,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S9-1_P78"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/thank-you-hazel_v3_UfEuZr.mp3",
+  "t": 240.233,
+  "gain_db": -3.2,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S9-2a_A79"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc_tts/soten_v4_anPTjy.mp3",
+  "t": 243.755,
+  "gain_db": 2.0,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S9-2b_B81"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc_tts/tenoutof_v3_fk2qvo.mp3",
+  "t": 245.655,
+  "gain_db": -0.8,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S9-2b_H82"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_a-hand-pulled-small-brass-bell-on-a-wood_LcY6IM.mp3",
+  "t": 165.967,
+  "gain_db": -16.0,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/one-single-distant-canada-goose-honk-hig_v1_2Wv0AU.mp3",
+  "t": 191.992,
+  "gain_db": -12.0,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/one-single-distant-canada-goose-honk-hig_v1_2Wv0AU.mp3",
+  "t": 192.492,
+  "gain_db": -15.0,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/one-single-distant-canada-goose-honk-hig_v1_2Wv0AU.mp3",
+  "t": 192.892,
+  "gain_db": -17.0,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_two-soft-slow-hoof-steps-on-dry-autumn-l_1byJJW.mp3",
+  "t": 205.467,
+  "gain_db": -0.9,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/one-single-crisp-dry-leaf-crunching-unde_v1_mb30Fo.mp3",
+  "t": 206.117,
+  "gain_db": 5.6,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/two-quick-deep-sniffs-through-a-big-soft_v1_9F8l2L.mp3",
+  "t": 214.508,
+  "gain_db": -17.1,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/a-tiny-soft-touch-of-two-furry-noses-a-v_v1_7QywER.mp3",
+  "t": 217.758,
+  "gain_db": 16.5,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/a-soft-rustle-of-a-thick-knitted-wool-sh_v1_oOjrqs.mp3",
+  "t": 219.45,
+  "gain_db": 41.9,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI.mp3",
+  "t": 222.15,
+  "gain_db": 12.3,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_a-hand-pulled-small-brass-bell-on-a-wood_LcY6IM.mp3",
+  "t": 233.092,
+  "gain_db": -8.0,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_three-slow-soft-hoof-taps-on-grassy-grou_G7rDTM.mp3",
+  "t": 234.892,
+  "gain_db": 27.7,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_a-small-hazelnut-set-down-gently-on-a-wo_sYd1oY.mp3",
+  "t": 239.233,
+  "gain_db": 3.3,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx/v2_three-gentle-soft-thumps-of-large-furry-_v3Vd38.mp3",
+  "t": 247.825,
+  "gain_db": 12.4,
+  "fi": 0.01,
+  "fo": 0.08
+ },
+ {
+  "stem": "muzik",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/muzik/M1_S6-S7_64s.mp3",
+  "t": 137.25,
+  "src_t1": 60.88300000000001,
+  "fi": 1.5,
+  "fo": 1.2,
+  "gain_db": -12.5,
+  "env": [
+   [
+    0,
+    0
+   ],
+   [
+    0.95,
+    0
+   ],
+   [
+    1.25,
+    -9
+   ],
+   [
+    3.417,
+    -9
+   ],
+   [
+    4.017,
+    0
+   ],
+   [
+    4.13,
+    0
+   ],
+   [
+    4.43,
+    -9
+   ],
+   [
+    5.13,
+    0
+   ],
+   [
+    5.43,
+    -9
+   ],
+   [
+    6.127,
+    -9
+   ],
+   [
+    6.727,
+    0
+   ],
+   [
+    7.042,
+    -5
+   ],
+   [
+    7.101,
+    -9
+   ],
+   [
+    7.701,
+    0
+   ],
+   [
+    12.892,
+    -5
+   ],
+   [
+    13.492,
+    0
+   ],
+   [
+    13.812,
+    -9
+   ],
+   [
+    15.483,
+    -9
+   ],
+   [
+    15.792,
+    -9
+   ],
+   [
+    16.083,
+    0
+   ],
+   [
+    18.033,
+    0
+   ],
+   [
+    18.333,
+    -5
+   ],
+   [
+    18.9,
+    -9
+   ],
+   [
+    19.5,
+    0
+   ],
+   [
+    24.85,
+    -5
+   ],
+   [
+    25.05,
+    0
+   ],
+   [
+    25.35,
+    -9
+   ],
+   [
+    25.45,
+    0
+   ],
+   [
+    28.223,
+    -9
+   ],
+   [
+    28.337,
+    0
+   ],
+   [
+    28.637,
+    -9
+   ],
+   [
+    28.823,
+    0
+   ],
+   [
+    29.897,
+    0
+   ],
+   [
+    30.197,
+    -9
+   ],
+   [
+    30.491,
+    -9
+   ],
+   [
+    30.657,
+    0
+   ],
+   [
+    30.957,
+    -9
+   ],
+   [
+    31.091,
+    0
+   ],
+   [
+    31.117,
+    -9
+   ],
+   [
+    31.717,
+    0
+   ],
+   [
+    33.037,
+    0
+   ],
+   [
+    33.337,
+    -9
+   ],
+   [
+    33.777,
+    -9
+   ],
+   [
+    34.377,
+    0
+   ],
+   [
+    34.957,
+    0
+   ],
+   [
+    35.191,
+    -9
+   ],
+   [
+    35.257,
+    -9
+   ],
+   [
+    35.791,
+    0
+   ],
+   [
+    36.876,
+    -9
+   ],
+   [
+    37.43,
+    0
+   ],
+   [
+    37.476,
+    0
+   ],
+   [
+    37.73,
+    -9
+   ],
+   [
+    41.935,
+    -9
+   ],
+   [
+    41.967,
+    0
+   ],
+   [
+    42.267,
+    -9
+   ],
+   [
+    42.535,
+    0
+   ],
+   [
+    44.71,
+    0
+   ],
+   [
+    45.01,
+    -9
+   ],
+   [
+    45.59,
+    0
+   ],
+   [
+    45.728,
+    -9
+   ],
+   [
+    45.89,
+    -9
+   ],
+   [
+    46.328,
+    0
+   ],
+   [
+    46.394,
+    -9
+   ],
+   [
+    46.97,
+    0
+   ],
+   [
+    46.994,
+    0
+   ],
+   [
+    47.27,
+    -9
+   ],
+   [
+    47.77,
+    -9
+   ],
+   [
+    48.314,
+    -9
+   ],
+   [
+    48.37,
+    0
+   ],
+   [
+    48.914,
+    0
+   ],
+   [
+    50.112,
+    0
+   ],
+   [
+    50.412,
+    -9
+   ],
+   [
+    52.512,
+    0
+   ],
+   [
+    52.812,
+    -9
+   ],
+   [
+    53.52,
+    -9
+   ],
+   [
+    54.12,
+    0
+   ],
+   [
+    54.828,
+    0
+   ],
+   [
+    55.128,
+    -9
+   ],
+   [
+    55.632,
+    -9
+   ],
+   [
+    56.232,
+    0
+   ],
+   [
+    57.672,
+    0
+   ],
+   [
+    57.972,
+    -9
+   ],
+   [
+    58.522,
+    0
+   ],
+   [
+    58.664,
+    -9
+   ],
+   [
+    58.822,
+    -9
+   ],
+   [
+    59.264,
+    0
+   ],
+   [
+    59.665,
+    -9
+   ],
+   [
+    59.965,
+    -9
+   ],
+   [
+    60.269,
+    0
+   ],
+   [
+    60.883,
+    -9
+   ],
+   [
+    61.483,
+    0
+   ]
+  ]
+ },
+ {
+  "stem": "muzik",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/muzik/M2_S8-S9_58s.mp3",
+  "t": 196.833,
+  "src_t1": 54.584,
+  "fi": 1.0,
+  "fo": 2.5,
+  "gain_db": -8.6,
+  "env": [
+   [
+    0,
+    -8
+   ],
+   [
+    0.082,
+    0
+   ],
+   [
+    0.382,
+    -8
+   ],
+   [
+    1.641,
+    -8
+   ],
+   [
+    2.241,
+    0
+   ],
+   [
+    2.962,
+    0
+   ],
+   [
+    3.262,
+    -8
+   ],
+   [
+    3.803,
+    -8
+   ],
+   [
+    4.403,
+    0
+   ],
+   [
+    5.142,
+    0
+   ],
+   [
+    5.429,
+    -8
+   ],
+   [
+    6.029,
+    0
+   ],
+   [
+    7.531,
+    -8
+   ],
+   [
+    8.131,
+    0
+   ],
+   [
+    9.134,
+    0
+   ],
+   [
+    9.434,
+    -8
+   ],
+   [
+    10.514,
+    0
+   ],
+   [
+    10.814,
+    -8
+   ],
+   [
+    11.601,
+    -8
+   ],
+   [
+    12.201,
+    0
+   ],
+   [
+    12.294,
+    0
+   ],
+   [
+    12.594,
+    -8
+   ],
+   [
+    13.295,
+    -8
+   ],
+   [
+    13.895,
+    0
+   ],
+   [
+    14.5,
+    -8
+   ],
+   [
+    15.1,
+    0
+   ],
+   [
+    15.415,
+    0
+   ],
+   [
+    15.715,
+    -8
+   ],
+   [
+    17.726,
+    -8
+   ],
+   [
+    18.326,
+    0
+   ],
+   [
+    18.425,
+    0
+   ],
+   [
+    18.725,
+    -8
+   ],
+   [
+    20.344,
+    -8
+   ],
+   [
+    20.944,
+    0
+   ],
+   [
+    22.26,
+    0
+   ],
+   [
+    22.56,
+    -8
+   ],
+   [
+    25.146,
+    0
+   ],
+   [
+    25.446,
+    -8
+   ],
+   [
+    26.364,
+    -8
+   ],
+   [
+    26.964,
+    0
+   ],
+   [
+    28.515,
+    0
+   ],
+   [
+    28.815,
+    -8
+   ],
+   [
+    29.305,
+    -8
+   ],
+   [
+    29.905,
+    0
+   ],
+   [
+    31.177,
+    0
+   ],
+   [
+    31.477,
+    -8
+   ],
+   [
+    32.127,
+    -8
+   ],
+   [
+    32.727,
+    0
+   ],
+   [
+    33.149,
+    0
+   ],
+   [
+    33.449,
+    -8
+   ],
+   [
+    34.157,
+    -8
+   ],
+   [
+    34.757,
+    0
+   ],
+   [
+    35.239,
+    0
+   ],
+   [
+    35.539,
+    -8
+   ],
+   [
+    36.087,
+    -8
+   ],
+   [
+    36.687,
+    0
+   ],
+   [
+    37.132,
+    -8
+   ],
+   [
+    37.732,
+    0
+   ],
+   [
+    42.85,
+    0
+   ],
+   [
+    43.15,
+    -8
+   ],
+   [
+    45.552,
+    -8
+   ],
+   [
+    46.152,
+    0
+   ],
+   [
+    46.372,
+    0
+   ],
+   [
+    46.672,
+    -8
+   ],
+   [
+    48.272,
+    0
+   ],
+   [
+    48.572,
+    -8
+   ],
+   [
+    49.022,
+    -8
+   ],
+   [
+    49.622,
+    0
+   ],
+   [
+    50.922,
+    -8
+   ],
+   [
+    51.522,
+    0
+   ],
+   [
+    51.172,
+    0
+   ],
+   [
+    52.572,
+    5
+   ],
+   [
+    52.584,
+    5
+   ],
+   [
+    54.584,
+    -6
+   ]
+  ]
+ }
+]

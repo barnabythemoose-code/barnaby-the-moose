@@ -1,0 +1,30 @@
+# B090 final kurgu EDL (kare = 24 fps). Kaynak araliklari [a,b) kare.
+RAW='02-klipler-ham/'; BLK='01-S1-S4-kilitli-blok/'; AB='03-ses-hazir-AB/'
+# (ad, kaynak, kare_a, kare_b, gecis_giris, ses_kaynagi, ses_ofset_sn)  gecis: 'kes' | ('xfade',kare)
+EDL=[
+ ('S1-S4 blok', BLK+'TG-ARA-KURGU-S1-S4-mobil-v2.mp4', 0, 2497, 'kes', BLK+'TG-ARA-KURGU-S1-S4-mobil-v2.mp4', 0.0),
+ ('S5-1a', RAW+'TG-S5-1a_d01.mp4', 24, 142, 'kes', AB+'TG-S5-1a-B-efektli-r3.mp4', 0.0),
+ ('S5-1b', RAW+'TG-S5-1b_d01.mp4', 9, 97, 'kes', AB+'TG-S5-1b-B-efektli-r2.mp4', 0.0),
+ ('S5-2a', RAW+'TG-S5-2a_d01.mp4', 0, 96, 'kes', AB+'TG-S5-2a_B-efektli.mp4', 0.0),
+ ('S5-2b', RAW+'TG-S5-2b_d02.mp4', 0, 96, 'kes', AB+'TG-S5-2b_B-efektli.mp4', 0.0),
+ ('S5-2c', RAW+'TG-S5-2c_d01.mp4', 0, 96, 'kes', AB+'TG-S5-2c_B-efektli.mp4', 0.0),
+ ('S5-3a', RAW+'TG-S5-3a_d01.mp4', 0, 87, 'kes', AB+'TG-S5-3a_B-efektli.mp4', 0.0),
+ ('S5-3b', RAW+'TG-S5-3b_d01.mp4', 0, 264, 'kes', AB+'TG-S5-3b_B-efektli.mp4', 0.0),
+ ('S6-1', RAW+'TG-S6-1_d01.mp4', 0, 139, ('xfade',12), RAW+'TG-S6-1_d01.mp4', 0.0),
+ ('S6-2-D1', RAW+'B090-TG-S6-2-D1_d01.mp4', 0, 126, 'kes', AB+'TG-S6-2-D1-B-efektli-v3.mp4', 0.0),
+ ('S6-2-D2', RAW+'B090-TG-S6-2-D2_d01.mp4', 0, 145, 'kes', RAW+'B090-TG-S6-2-D2_d01.mp4', 0.0),
+ ('S6-3-E1', RAW+'B090-TG-S6-3-E1_d01.mp4', 0, 142, 'kes', AB+'TG-S6-3-E1-B-efektli-v2-dinleme.mp4', 0.0),
+ ('S6-3-E2', RAW+'B090-TG-S6-3-E2_d01.mp4', 0, 100, 'kes', RAW+'B090-TG-S6-3-E2_d01.mp4', 0.0),
+ ('S6-4', RAW+'B090-TG-S6-4_d01.mp4', 0, 188, 'kes', RAW+'B090-TG-S6-4_d01.mp4', 0.0),
+ ('S6-5', RAW+'B090-TG-S6-5_d01.mp4', 0, 289, 'kes', RAW+'B090-TG-S6-5_d01.mp4', 0.0),
+ ('S7-1-B', RAW+'B090-TG-S7-1-B_d01.mp4', 0, 289, 'kes', RAW+'B090-TG-S7-1-B_d01.mp4', 0.0),
+ ('S8-1-B2 genis', RAW+'B090-TG-S8-1-B2_d01.mp4', 17, 70, 'kes', RAW+'B090-TG-S8-1-B2_d01.mp4', 17/24),
+ ('S8-1-B2 Anne punch-in', RAW+'B090-TG-S8-1-B2_d01.mp4', 70, 193, 'punch', RAW+'B090-TG-S8-1-B2_d01.mp4', 70/24),
+ ('S8-2', RAW+'B090-TG-S8-2_d01.mp4', 0, 145, 'kes', None, 0.0),
+ ('S8-3', RAW+'B090-TG-S8-3_d01.mp4', 0, 193, 'kes', None, 0.0),
+ ('S8-4', RAW+'B090-TG-S8-4_d01.mp4', 0, 265, 'kes', None, 0.0),
+ ('S9-1', RAW+'B090-TG-S9-1_d01.mp4', 0, 193, 'kes', None, 0.0),
+ ('S9-2a', RAW+'B090-TG-S9-2a_d01.mp4', 0, 97, 'kes', None, 0.0),
+ ('S9-2b', RAW+'B090-TG-S9-2b_d01.mp4', 0, 145, 'kes', None, 0.0),
+ ('Son kart', 'KART', 0, 84, ('xfade',12), None, 0.0),
+]

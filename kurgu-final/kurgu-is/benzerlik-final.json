@@ -1,0 +1,196 @@
+{
+ "olcek": {
+  "barnaby": [
+   0.3545,
+   0.533
+  ],
+  "hazel": [
+   0.3545,
+   0.533
+  ]
+ },
+ "sonuc": [
+  {
+   "dosya": "S6-1_B1_vc.mp3",
+   "kim": "barnaby",
+   "cos": 1.0579,
+   "KL": 0.497,
+   "merkez_hz": 1164
+  },
+  {
+   "dosya": "S6-1_H1_vc.mp3",
+   "kim": "hazel",
+   "cos": 0.5828,
+   "KL": 0.603,
+   "merkez_hz": 1235
+  },
+  {
+   "dosya": "S6-1_H2_vc.mp3",
+   "kim": "hazel",
+   "cos": 0.3637,
+   "KL": 0.68,
+   "merkez_hz": 1138
+  },
+  {
+   "dosya": "S6-2-D2_B1_vc.mp3",
+   "kim": "barnaby",
+   "cos": 0.7628,
+   "KL": 0.559,
+   "merkez_hz": 2060
+  },
+  {
+   "dosya": "S6-2-D2_H1_vc.mp3",
+   "kim": "hazel",
+   "cos": 0.1056,
+   "KL": 0.539,
+   "merkez_hz": 1862
+  },
+  {
+   "dosya": "S6-3-E2_B1_vc.mp3",
+   "kim": "barnaby",
+   "cos": 0.3222,
+   "KL": 0.282,
+   "merkez_hz": 1891
+  },
+  {
+   "dosya": "S6-4_B1_vc.mp3",
+   "kim": "barnaby",
+   "cos": 0.403,
+   "KL": 0.4,
+   "merkez_hz": 2178
+  },
+  {
+   "dosya": "S6-4_B2_vc.mp3",
+   "kim": "barnaby",
+   "cos": 1.3207,
+   "KL": 1.081,
+   "merkez_hz": 1041
+  },
+  {
+   "dosya": "S6-4_H1_vc.mp3",
+   "kim": "hazel",
+   "cos": 0.1006,
+   "KL": 0.452,
+   "merkez_hz": 2422
+  },
+  {
+   "dosya": "S6-4_H2_vc.mp3",
+   "kim": "hazel",
+   "cos": 0.4447,
+   "KL": 0.609,
+   "merkez_hz": 1355
+  },
+  {
+   "dosya": "S6-5_B1_vc.mp3",
+   "kim": "barnaby",
+   "cos": 0.6114,
+   "KL": 0.355,
+   "merkez_hz": 2239
+  },
+  {
+   "dosya": "S6-5_B2_tts.mp3",
+   "kim": "barnaby",
+   "cos": 0.0721,
+   "KL": 0.278,
+   "merkez_hz": 1618
+  },
+  {
+   "dosya": "S6-5_B3_vc.mp3",
+   "kim": "barnaby",
+   "cos": 0.5748,
+   "KL": 0.646,
+   "merkez_hz": 1888
+  },
+  {
+   "dosya": "S6-5_H1_vc.mp3",
+   "kim": "hazel",
+   "cos": 0.1289,
+   "KL": 0.669,
+   "merkez_hz": 2058
+  },
+  {
+   "dosya": "S6-5_H2_vc.mp3",
+   "kim": "hazel",
+   "cos": 0.229,
+   "KL": 0.653,
+   "merkez_hz": 906
+  },
+  {
+   "dosya": "S7-1_B1_vc.mp3",
+   "kim": "barnaby",
+   "cos": 0.1473,
+   "KL": 0.147,
+   "merkez_hz": 2022
+  },
+  {
+   "dosya": "S7-1_B2_vc.mp3",
+   "kim": "barnaby",
+   "cos": 0.4049,
+   "KL": 0.372,
+   "merkez_hz": 1896
+  },
+  {
+   "dosya": "S7-1_H1_vc.mp3",
+   "kim": "hazel",
+   "cos": 0.0425,
+   "KL": 0.169,
+   "merkez_hz": 2240
+  },
+  {
+   "dosya": "S7-1_H2_tts.mp3",
+   "kim": "hazel",
+   "cos": 0.0546,
+   "KL": 0.273,
+   "merkez_hz": 2003
+  },
+  {
+   "dosya": "S7-1_H3_tts.mp3",
+   "kim": "hazel",
+   "cos": 0.0556,
+   "KL": 0.386,
+   "merkez_hz": 1860
+  },
+  {
+   "dosya": "S8-2_B70_tts.mp3",
+   "kim": "barnaby",
+   "cos": 0.383,
+   "KL": 0.774,
+   "merkez_hz": 4386
+  },
+  {
+   "dosya": "S8-2_H69_tts.mp3",
+   "kim": "hazel",
+   "cos": 0.2318,
+   "KL": 0.377,
+   "merkez_hz": 2480
+  },
+  {
+   "dosya": "S8-3_B72_ttsvc.mp3",
+   "kim": "barnaby",
+   "cos": 0.6233,
+   "KL": 0.706,
+   "merkez_hz": 1698
+  },
+  {
+   "dosya": "S8-4_B74_ttsvc.mp3",
+   "kim": "barnaby",
+   "cos": 0.1901,
+   "KL": 0.225,
+   "merkez_hz": 2503
+  },
+  {
+   "dosya": "S9-2b_B81_ttsvc.mp3",
+   "kim": "barnaby",
+   "cos": 0.0334,
+   "KL": 0.257,
+   "merkez_hz": 2402
+  },
+  {
+   "dosya": "S9-2b_H82_ttsvc.mp3",
+   "kim": "hazel",
+   "cos": 0.0619,
+   "KL": 0.699,
+   "merkez_hz": 2105
+  }
+ ]
+}

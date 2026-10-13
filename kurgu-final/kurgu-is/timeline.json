@@ -1,0 +1,439 @@
+{
+ "toplam_kare": 6034,
+ "toplam_sn": 251.41666666666666,
+ "timeline": [
+  {
+   "ad": "S1-S4 blok",
+   "t0": 0.0,
+   "kare": 2497,
+   "gecis": "acilis",
+   "t1": 104.042
+  },
+  {
+   "ad": "S5-1a",
+   "t0": 104.042,
+   "kare": 118,
+   "gecis": "kesme",
+   "t1": 108.958
+  },
+  {
+   "ad": "S5-1b",
+   "t0": 108.958,
+   "kare": 88,
+   "gecis": "kesme",
+   "t1": 112.625
+  },
+  {
+   "ad": "S5-2a",
+   "t0": 112.625,
+   "kare": 96,
+   "gecis": "kesme",
+   "t1": 116.625
+  },
+  {
+   "ad": "S5-2b",
+   "t0": 116.625,
+   "kare": 96,
+   "gecis": "kesme",
+   "t1": 120.625
+  },
+  {
+   "ad": "S5-2c",
+   "t0": 120.625,
+   "kare": 96,
+   "gecis": "kesme",
+   "t1": 124.625
+  },
+  {
+   "ad": "S5-3a",
+   "t0": 124.625,
+   "kare": 87,
+   "gecis": "kesme",
+   "t1": 128.25
+  },
+  {
+   "ad": "S5-3b",
+   "t0": 128.25,
+   "kare": 264,
+   "gecis": "kesme",
+   "t1": 139.25
+  },
+  {
+   "ad": "S6-1",
+   "t0": 138.75,
+   "kare": 139,
+   "gecis": "xfade 12 kare",
+   "t1": 144.542
+  },
+  {
+   "ad": "S6-2-D1",
+   "t0": 144.542,
+   "kare": 126,
+   "gecis": "kesme",
+   "t1": 149.792
+  },
+  {
+   "ad": "S6-2-D2",
+   "t0": 149.792,
+   "kare": 145,
+   "gecis": "kesme",
+   "t1": 155.833
+  },
+  {
+   "ad": "S6-3-E1",
+   "t0": 155.833,
+   "kare": 142,
+   "gecis": "kesme",
+   "t1": 161.75
+  },
+  {
+   "ad": "S6-3-E2",
+   "t0": 161.75,
+   "kare": 100,
+   "gecis": "kesme",
+   "t1": 165.917
+  },
+  {
+   "ad": "S6-4",
+   "t0": 165.917,
+   "kare": 188,
+   "gecis": "kesme",
+   "t1": 173.75
+  },
+  {
+   "ad": "S6-5",
+   "t0": 173.75,
+   "kare": 289,
+   "gecis": "kesme",
+   "t1": 185.792
+  },
+  {
+   "ad": "S7-1-B",
+   "t0": 185.792,
+   "kare": 289,
+   "gecis": "kesme",
+   "t1": 197.833
+  },
+  {
+   "ad": "S8-1-B2 genis",
+   "t0": 197.833,
+   "kare": 53,
+   "gecis": "kesme",
+   "t1": 200.042
+  },
+  {
+   "ad": "S8-1-B2 Anne punch-in",
+   "t0": 200.042,
+   "kare": 123,
+   "gecis": "punch-in (ayni plan)",
+   "t1": 205.167
+  },
+  {
+   "ad": "S8-2",
+   "t0": 205.167,
+   "kare": 145,
+   "gecis": "kesme",
+   "t1": 211.208
+  },
+  {
+   "ad": "S8-3",
+   "t0": 211.208,
+   "kare": 193,
+   "gecis": "kesme",
+   "t1": 219.25
+  },
+  {
+   "ad": "S8-4",
+   "t0": 219.25,
+   "kare": 265,
+   "gecis": "kesme",
+   "t1": 230.292
+  },
+  {
+   "ad": "S9-1",
+   "t0": 230.292,
+   "kare": 193,
+   "gecis": "kesme",
+   "t1": 238.333
+  },
+  {
+   "ad": "S9-2a",
+   "t0": 238.333,
+   "kare": 97,
+   "gecis": "kesme",
+   "t1": 242.375
+  },
+  {
+   "ad": "S9-2b",
+   "t0": 242.375,
+   "kare": 145,
+   "gecis": "kesme",
+   "t1": 248.417
+  },
+  {
+   "ad": "Son kart",
+   "t0": 247.917,
+   "kare": 84,
+   "gecis": "xfade 12 kare",
+   "t1": 251.417
+  }
+ ],
+ "segs": [
+  {
+   "i": 0,
+   "ad": "S1-S4 blok",
+   "src": "01-S1-S4-kilitli-blok/TG-ARA-KURGU-S1-S4-mobil-v2.mp4",
+   "a": 0,
+   "b": 2497,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/00.mp4",
+   "kare": 2497
+  },
+  {
+   "i": 1,
+   "ad": "S5-1a",
+   "src": "02-klipler-ham/TG-S5-1a_d01.mp4",
+   "a": 24,
+   "b": 142,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/01.mp4",
+   "kare": 118
+  },
+  {
+   "i": 2,
+   "ad": "S5-1b",
+   "src": "02-klipler-ham/TG-S5-1b_d01.mp4",
+   "a": 9,
+   "b": 97,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/02.mp4",
+   "kare": 88
+  },
+  {
+   "i": 3,
+   "ad": "S5-2a",
+   "src": "02-klipler-ham/TG-S5-2a_d01.mp4",
+   "a": 0,
+   "b": 96,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/03.mp4",
+   "kare": 96
+  },
+  {
+   "i": 4,
+   "ad": "S5-2b",
+   "src": "02-klipler-ham/TG-S5-2b_d02.mp4",
+   "a": 0,
+   "b": 96,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/04.mp4",
+   "kare": 96
+  },
+  {
+   "i": 5,
+   "ad": "S5-2c",
+   "src": "02-klipler-ham/TG-S5-2c_d01.mp4",
+   "a": 0,
+   "b": 96,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/05.mp4",
+   "kare": 96
+  },
+  {
+   "i": 6,
+   "ad": "S5-3a",
+   "src": "02-klipler-ham/TG-S5-3a_d01.mp4",
+   "a": 0,
+   "b": 87,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/06.mp4",
+   "kare": 87
+  },
+  {
+   "i": 7,
+   "ad": "S5-3b",
+   "src": "02-klipler-ham/TG-S5-3b_d01.mp4",
+   "a": 0,
+   "b": 264,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/07.mp4",
+   "kare": 264
+  },
+  {
+   "i": 8,
+   "ad": "S6-1",
+   "src": "02-klipler-ham/TG-S6-1_d01.mp4",
+   "a": 0,
+   "b": 139,
+   "gecis": [
+    "xfade",
+    12
+   ],
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/08.mp4",
+   "kare": 139
+  },
+  {
+   "i": 9,
+   "ad": "S6-2-D1",
+   "src": "02-klipler-ham/B090-TG-S6-2-D1_d01.mp4",
+   "a": 0,
+   "b": 126,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/09.mp4",
+   "kare": 126
+  },
+  {
+   "i": 10,
+   "ad": "S6-2-D2",
+   "src": "02-klipler-ham/B090-TG-S6-2-D2_d01.mp4",
+   "a": 0,
+   "b": 145,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/10.mp4",
+   "kare": 145
+  },
+  {
+   "i": 11,
+   "ad": "S6-3-E1",
+   "src": "02-klipler-ham/B090-TG-S6-3-E1_d01.mp4",
+   "a": 0,
+   "b": 142,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/11.mp4",
+   "kare": 142
+  },
+  {
+   "i": 12,
+   "ad": "S6-3-E2",
+   "src": "02-klipler-ham/B090-TG-S6-3-E2_d01.mp4",
+   "a": 0,
+   "b": 100,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/12.mp4",
+   "kare": 100
+  },
+  {
+   "i": 13,
+   "ad": "S6-4",
+   "src": "02-klipler-ham/B090-TG-S6-4_d01.mp4",
+   "a": 0,
+   "b": 188,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/13.mp4",
+   "kare": 188
+  },
+  {
+   "i": 14,
+   "ad": "S6-5",
+   "src": "02-klipler-ham/B090-TG-S6-5_d01.mp4",
+   "a": 0,
+   "b": 289,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/14.mp4",
+   "kare": 289
+  },
+  {
+   "i": 15,
+   "ad": "S7-1-B",
+   "src": "02-klipler-ham/B090-TG-S7-1-B_d01.mp4",
+   "a": 0,
+   "b": 289,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/15.mp4",
+   "kare": 289
+  },
+  {
+   "i": 16,
+   "ad": "S8-1-B2 genis",
+   "src": "02-klipler-ham/B090-TG-S8-1-B2_d01.mp4",
+   "a": 17,
+   "b": 70,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/16.mp4",
+   "kare": 53
+  },
+  {
+   "i": 17,
+   "ad": "S8-1-B2 Anne punch-in",
+   "src": "02-klipler-ham/B090-TG-S8-1-B2_d01.mp4",
+   "a": 70,
+   "b": 193,
+   "gecis": "punch",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/17.mp4",
+   "kare": 123
+  },
+  {
+   "i": 18,
+   "ad": "S8-2",
+   "src": "02-klipler-ham/B090-TG-S8-2_d01.mp4",
+   "a": 0,
+   "b": 145,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/18.mp4",
+   "kare": 145
+  },
+  {
+   "i": 19,
+   "ad": "S8-3",
+   "src": "02-klipler-ham/B090-TG-S8-3_d01.mp4",
+   "a": 0,
+   "b": 193,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/19.mp4",
+   "kare": 193
+  },
+  {
+   "i": 20,
+   "ad": "S8-4",
+   "src": "02-klipler-ham/B090-TG-S8-4_d01.mp4",
+   "a": 0,
+   "b": 265,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/20.mp4",
+   "kare": 265
+  },
+  {
+   "i": 21,
+   "ad": "S9-1",
+   "src": "02-klipler-ham/B090-TG-S9-1_d01.mp4",
+   "a": 0,
+   "b": 193,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/21.mp4",
+   "kare": 193
+  },
+  {
+   "i": 22,
+   "ad": "S9-2a",
+   "src": "02-klipler-ham/B090-TG-S9-2a_d01.mp4",
+   "a": 0,
+   "b": 97,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/22.mp4",
+   "kare": 97
+  },
+  {
+   "i": 23,
+   "ad": "S9-2b",
+   "src": "02-klipler-ham/B090-TG-S9-2b_d01.mp4",
+   "a": 0,
+   "b": 145,
+   "gecis": "kes",
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/23.mp4",
+   "kare": 145
+  },
+  {
+   "i": 24,
+   "ad": "Son kart",
+   "src": "KART",
+   "a": 0,
+   "b": 84,
+   "gecis": [
+    "xfade",
+    12
+   ],
+   "dosya": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/out/seg/24.mp4",
+   "kare": 84
+  }
+ ]
+}

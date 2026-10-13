@@ -1,0 +1,40 @@
+sira,zaman,islem,aciklama,varyant,kredi_sonuc(price.credits),not
+1,2026-10-13T18:09,STT,S6-1 seedance klip (6 sn),1,33.26,kelime zamanli
+2,2026-10-13T18:09,STT,S6-2-D2 (6 sn),1,32.74,
+3,2026-10-13T18:09,STT,S6-3-E2 (6 sn),1,33.26,
+4,2026-10-13T18:09,STT,S6-4 (8 sn),1,44.35,
+5,2026-10-13T18:09,STT,S6-5 (12 sn),1,66.35,
+6,2026-10-13T18:09,STT,S7-1-B (12 sn),1,66.35,
+7,2026-10-13T18:09,STT,S8-1-B2 (8 sn),1,44.35,
+8,2026-10-13T18:12,TTS,S8-2 Anne 'Who's there?',3,93,31/varyant
+9,2026-10-13T18:12,TTS,S8-2 Hazel 'They kept the bell for you.',3,114,
+10,2026-10-13T18:12,TTS,S8-2 Barnaby 'They waited...',3,99,
+11,2026-10-13T18:12,TTS,S8-3 Anne '...Barnaby?',3,90,
+12,2026-10-13T18:12,TTS,S8-3 Barnaby 'Mama.',3,90,
+13,2026-10-13T18:12,TTS,S8-4 Anne 'Look how big you are! Is that maple?',3,165,
+14,2026-10-13T18:12,TTS,S8-4 Barnaby 'I followed Papa's pie...',3,171,
+15,2026-10-13T18:12,TTS,S8-4 Anne 'Papa's pie has a tree in it.',3,132,
+16,2026-10-13T18:12,TTS,S8-4 Baba '...Hm. Maple.',3,108,
+17,2026-10-13T18:12,TTS,S9-1 Anne 'Now we can ring it, Papa.',3,129,
+18,2026-10-13T18:12,TTS,S9-1 Baba 'Hm.',2,42,
+19,2026-10-13T18:12,TTS,S9-2a Anne 'Thank you Hazel.',3,78,
+20,2026-10-13T18:12,TTS,S9-2b Barnaby 'So... ten?',3,60,
+21,2026-10-13T18:12,TTS,S9-2b Hazel 'Ten out of ten.',3,102,
+22,2026-10-13T18:12,SFX,"14 efekt: ruzgar yatagi; adim; yaprak; kumas; can x2; findik; burun; tik; sal; kaz; 3 vurus; tabure; koklama",14,233.3,16.67 per efekt
+23,2026-10-13T18:20,VC,"23 replik voice-changer (Barnaby 10; Hazel 10; Anne 2; Baba 1) ilk kosu: ses secilmedi hatasi",23,0,ucret alinmadi
+24,2026-10-13T18:21,VC,"23 replik voice-changer basarili kosu",23,612.0,toplam price.credits
+25,2026-10-13T18:19,MUZIK,M1 S6-S7 64 sn instrumental,1,960,
+26,2026-10-13T18:19,MUZIK,M2 S8-S9+kart 58 sn instrumental,1,870,
+27,2026-10-13T18:23,SFX,"7 efekt sure belirtilerek yeniden (ruzgar 12 sn loop; 2 can 3,5 sn; adim 2; vurus 2; tabure 1,5; findik 1,3)",7,86.0,
+28,2026-10-13T18:24,STT,"17 VC ciktisi ters test",17,167.3,
+29,2026-10-13T18:27,STT,"6 VC ciktisi ters test (kalan)",6,41.9,
+30,2026-10-13T18:28,STT,"14 TTS secimi ters test",14,0,price alani bos dondu; tahmini 14x~1 kredi
+31,2026-10-13T18:28,VC,"3 retake: S7-1_H2; S7-1_H3; S6-5_B2",3,93.3,
+32,2026-10-13T18:33,VC,"6 TTS->VC gecisi (Barnaby 4; Hazel 2); dugum basina 4 varyant uretildi = 24 uretim",24,720.0,varsayilan varyant sayisi 4; tek varyant yeterdi
+33,2026-10-13T18:43,STT,"3 VC retake ters test",3,31.2,
+34,2026-10-13T18:43,STT,"5 TTS->VC secimi ters test",5,53.1,
+35,2026-10-13T18:45,TTS,"3 replik yeniden TTS (S7-1_H2; S7-1_H3 Hazel; S6-5_B2 Barnaby) x2 varyant: VC ters testi gecemedi",6,280,
+36,2026-10-13T18:51,STT,"3 yeniden-TTS replik ters test",3,43.1,
+37,2026-10-13T19:10,STT,"S7-1_H3 TTS v1 ters test",1,9.7,
+38,2026-10-13T19:14,STT,"tam B miksi (251 sn) ters test; kelime zamanli",1,1382.8,beklenenden pahali: scribe sure bazli
+39,2026-10-13T19:20,STT,"S6-S8-1 bolgesi (69 sn) ters test; ortam duzeltmesi sonrasi",1,379.5,
