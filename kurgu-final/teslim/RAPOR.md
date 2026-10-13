@@ -86,7 +86,7 @@ Son kart: koyu lacivert (0x0a1428) üstüne logo 420 px, 0,3–1,2 sn alfa giri�
 | LRA | ≤ 8 LU | 7,90 | 8,00 |
 | Tam sessizlik > 1,5 sn | yok | 0 | 0 |
 | Kesimde M−3s sıçraması > +6 dB | yok | 0 | 0 |
-| Final mp4 (AAC) I / TP / LRA | | I -15.3 / TP -0.5 / LRA 7.9 | I -15.3 / TP -1.5 / LRA 8.0 |
+| Final mp4 (AAC) I / TP / LRA | | I -15.6 / TP -2.7 / LRA 7.6 | I -15.3 / TP -1.5 / LRA 8.0 |
 | Donuk kare (freezedetect −60 dB, 0,4 sn) | elle bak | 8,4–9,1 ve 36,6–38,4 (blok, dokunulmadı); 155,4–155,8 (D2, Hazel repliği üstünde, kaynak); 164,9–165,3 (E2 dinleme tutuşu); 249,1→son (kart) | aynı |
 | Flaş (ΔY≥12, sn başına >3) | yok | 11. sn (blok) ve 229–230 (S8-4 Baba kesmesi) — ikisi de strob değil | aynı |
 | Kesimde ortalama Y sıçraması > 15 | yumuşat | 3 kesim, 0,5 sn pozlama rampası uygulandı | aynı |
