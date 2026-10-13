@@ -66,7 +66,7 @@ Son kart: koyu lacivert (0x0a1428) üstüne logo 420 px, 0,3–1,2 sn alfa giri�
 ## 4. Ses tasarımı
 - **Stemler:** `diyalog` (VC+TTS+ham Hmm), `muzik` (M1 S6–S7 64 sn, M2 S8–S9+kart 58 sn; ElevenLabs Music instrumental), `sfx` (yalnız B'de), `ortam` (Seedance konuşmasız ortamları + rüzgâr yatağı), ayrıca `hazir-miks-S5-D1-E1-B/A` (03'teki hazır miksler, +1,5 dB) ve `S1-S4-blok`. A = B − sfx, hazır A miksleriyle.
 - **Müzik:** M1 S5-3b bitiminden 1,5 sn önce (137,25) girer, S7-1-B sonunda 1,2 sn söner; M2 S8-1'den 1,0 sn önce (196,8) girer, son replikten sonra +5 dB yükselir, kartta 2,5 sn'de çözülür. Diyalog altında otomatik ducking: M1 −9 dB, M2 −8 dB (0,3 sn rampa), D1/E1 hazır miksleri altında ek −5 dB. Sonuç: müzik diyalog altında ≈ −35 LUFS, diyalog ≈ −17 → 18 dB fark.
-- **Seviye hedefleri:** replikler −17 LUFS (fısıltılar −20, 'Not pie?'/'Go.' −18,5, Anne S8-4 −18,5), Seedance ortamları 0 dB (≈ −26), rüzgâr −27, çanlar −8…−16, foley −12…−18. Miks: hafif bus kompresörü (−26 dB, 1,8:1) → −15 LUFS → limiter −2,9 dB (AAC kodlama sonrası TP ≤ −1 için).
+- **Seviye hedefleri:** replikler −17 LUFS (fısıltılar −20, 'Not pie?'/'Go.' −18,5, Anne S8-4 −18,5), Seedance ortamları 0 dB (≈ −26), rüzgâr −27, çanlar −8…−16, foley −12…−18. Miks: hafif bus kompresörü (−26 dB, 1,8:1) → −15 LUFS → limiter −2,9 dB (A sürümünde −3,9 dB; AAC kodlama sonrası TP ≤ −1 için).
 - **Duygu sesleri:** S6-4 kapalı ağız 'Hmm' (1,78–2,10, ham Seedance, −4 dB) korundu; başka efor sesi eklenmedi (fısıltı planları zaten sessiz).
 
 ## 5. Ölçüm tablosu
@@ -77,7 +77,7 @@ Son kart: koyu lacivert (0x0a1428) üstüne logo 420 px, 0,3–1,2 sn alfa giri�
 | LRA | ≤ 8 LU | 6,60 | 6,80 |
 | Tam sessizlik > 1,5 sn | yok | 0 | 0 |
 | Kesimde M−3s sıçraması > +6 dB | yok | 0 | 0 |
-| Final mp4 (AAC) I / TP / LRA | | I -15.2 / TP -1.7 / LRA 6.7 | I -15.2 / TP -0.8 / LRA 6.8 |
+| Final mp4 (AAC) I / TP / LRA | | I -15.2 / TP -1.7 / LRA 6.7 | I -15.4 / TP -2.7 / LRA 6.6 |
 | Donuk kare (freezedetect −60 dB, 0,4 sn) | elle bak | 8,4–9,1 ve 36,6–38,4 (blok, dokunulmadı); 155,4–155,8 (D2, Hazel repliği üstünde, kaynak); 164,9–165,3 (E2 dinleme tutuşu); 249,1→son (kart) | aynı |
 | Flaş (ΔY≥12, sn başına >3) | yok | 11. sn (blok) ve 229–230 (S8-4 Baba kesmesi) — ikisi de strob değil | aynı |
 | Kesimde ortalama Y sıçraması > 15 | yumuşat | 3 kesim, 0,5 sn pozlama rampası uygulandı | aynı |

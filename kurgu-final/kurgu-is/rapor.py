@@ -49,7 +49,7 @@ A("- **S9-1:** Çan 2,8 sn'de EL SFX; Anne 0,3, Baba 'Hm.' 2,45. S9-2a: yalnız 
 A("## 4. Ses tasarımı")
 A("- **Stemler:** `diyalog` (VC+TTS+ham Hmm), `muzik` (M1 S6–S7 64 sn, M2 S8–S9+kart 58 sn; ElevenLabs Music instrumental), `sfx` (yalnız B'de), `ortam` (Seedance konuşmasız ortamları + rüzgâr yatağı), ayrıca `hazir-miks-S5-D1-E1-B/A` (03'teki hazır miksler, +1,5 dB) ve `S1-S4-blok`. A = B − sfx, hazır A miksleriyle.")
 A("- **Müzik:** M1 S5-3b bitiminden 1,5 sn önce (137,25) girer, S7-1-B sonunda 1,2 sn söner; M2 S8-1'den 1,0 sn önce (196,8) girer, son replikten sonra +5 dB yükselir, kartta 2,5 sn'de çözülür. Diyalog altında otomatik ducking: M1 −9 dB, M2 −8 dB (0,3 sn rampa), D1/E1 hazır miksleri altında ek −5 dB. Sonuç: müzik diyalog altında ≈ −35 LUFS, diyalog ≈ −17 → 18 dB fark.")
-A("- **Seviye hedefleri:** replikler −17 LUFS (fısıltılar −20, 'Not pie?'/'Go.' −18,5, Anne S8-4 −18,5), Seedance ortamları 0 dB (≈ −26), rüzgâr −27, çanlar −8…−16, foley −12…−18. Miks: hafif bus kompresörü (−26 dB, 1,8:1) → −15 LUFS → limiter −2,9 dB (AAC kodlama sonrası TP ≤ −1 için).")
+A("- **Seviye hedefleri:** replikler −17 LUFS (fısıltılar −20, 'Not pie?'/'Go.' −18,5, Anne S8-4 −18,5), Seedance ortamları 0 dB (≈ −26), rüzgâr −27, çanlar −8…−16, foley −12…−18. Miks: hafif bus kompresörü (−26 dB, 1,8:1) → −15 LUFS → limiter −2,9 dB (A sürümünde −3,9 dB; AAC kodlama sonrası TP ≤ −1 için).")
 A("- **Duygu sesleri:** S6-4 kapalı ağız 'Hmm' (1,78–2,10, ham Seedance, −4 dB) korundu; başka efor sesi eklenmedi (fısıltı planları zaten sessiz).\n")
 A("## 5. Ölçüm tablosu")
 A("| Ölçüm | Hedef | B (efektli) | A (efektsiz) |"); A("|---|---|---|---|")
