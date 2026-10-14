@@ -8,7 +8,7 @@ i=0; acc=0
 for f in parca/_v_*.mov; do
   n=$(basename $f .mov | sed 's/_v_//'); d=$(ffprobe -v error -show_entries format=duration -of csv=p=0 $f)
   fr=$(ffprobe -v error -select_streams v:0 -count_packets -show_entries stream=nb_read_packets -of csv=p=0 $f)
-  ffmpeg -v error -y -i $f -i $Y/out/mixB.wav -filter_complex "[1:a]atrim=start=${acc}:duration=${d},asetpts=PTS-STARTPTS[a]" -map 0:v -map "[a]" -c:v copy -c:a pcm_s24le -ar 48000 -ac 2 -movflags +faststart "parca/B090-TG-FINAL-v24-part${n}.mov"
+  ffmpeg -v error -y -i $f -i $Y/out/mixB.wav -filter_complex "[1:a]atrim=start=${acc}:duration=${d},asetpts=PTS-STARTPTS,aresample=osf=s16:dither_method=triangular[a]" -map 0:v -map "[a]" -c:v copy -c:a pcm_s16le -ar 48000 -ac 2 -movflags +faststart "parca/B090-TG-FINAL-v24-part${n}.mov"
   echo "part$n baslangic=${acc} sure=${d} kare=${fr}"
   acc=$(python3 -c "print(round($acc+$d,6))")
 done

@@ -6,7 +6,7 @@ Bu sürümde **Seedance kaynaklı hiçbir ses kullanılmadı**. Blok (0–1:44),
 | Dosya | İçerik |
 |---|---|
 | B090-TG-FINAL-v2-sifirdan-ses.mp4 | 1280x720 tek dosya (H.264 CRF 17, 2,9 Mb/s, AAC 256k, 95 MB); GitHub 100 MB sınırı için |
-| master-parcalar/B090-TG-FINAL-v24-partNN.mov | **tam kalite master**, 20 sn'lik 13 parça (part13 11,4 sn), toplam 6034 kare / 251,417 sn: H.264 CRF 14 (4,1 Mb/s, kaynak kalitesinde) + PCM 24 bit 48 kHz ses; DaVinci'de 24 fps zaman çizgisine art arda dizin (kesimler anahtar karede, ses örnek-hassas bölünmüş; birleştirme testi 6034 kare) |
+| master-parcalar/B090-TG-FINAL-v24-partNN.mov | **tam kalite master**, 20 sn'lik 13 parça (part13 11,4 sn), toplam 6034 kare / 251,417 sn: H.264 CRF 14 (4,1 Mb/s, kaynak kalitesinde) + PCM 16 bit 48 kHz ses (sowt; 24-bit in24 birçok oynatıcıda sessiz kalıyordu); DaVinci'de 24 fps zaman çizgisine art arda dizin (kesimler anahtar karede, ses örnek-hassas bölünmüş; birleştirme testi 6034 kare) |
 | ses-listesi.csv | 354 satır: her repliğin ve efektin zamanı, kim, metin, dosya |
 | stems/diyalog.flac, sfx.flac, ortam.flac, muzik.flac | film boyu hizalı izler (0:00'a koy); kurgudaki seviyede |
 | stems/TAM-MIKS.flac | nihai miks (kayıpsız) |
