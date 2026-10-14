@@ -27,7 +27,7 @@ def render(cues, total, out_dir):
         a=fade(a, c.get('fi',0.01), c.get('fo',0.02))*lin(c.get('gain_db',0))
         # zarf (ducking vb.): [(t_rel, dB), ...] noktalari arasi dogrusal
         if c.get('env'):
-            t=np.arange(len(a))/SR; pts=c['env']; g=np.interp(t,[p[0] for p in pts],[p[1] for p in pts]); a=a*lin(g)[:,None].astype(np.float32)
+            t=np.arange(len(a))/SR; pts=sorted(c['env']); pts=[q for i,q in enumerate(pts) if i==0 or q[0]>pts[i-1][0]]; g=np.interp(t,[p[0] for p in pts],[p[1] for p in pts]); a=a*lin(g)[:,None].astype(np.float32)
         p0=int(c['t']*SR); p1=min(p0+len(a), len(buf)); buf[p0:p1]+=a[:p1-p0]
     os.makedirs(out_dir,exist_ok=True)
     for st,buf in stems.items():

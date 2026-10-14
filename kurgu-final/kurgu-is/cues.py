@@ -22,7 +22,7 @@ def cue(stem,file,t,**k):
 def dlg(file,t,hedef=-17.0,tempo=1.0,**k):
     cue('diyalog',file,t,gain_db=round(hedef-lufs(file),1),tempo=tempo,fi=k.pop('fi',0.01),fo=k.pop('fo',0.03),**k)
 # 1) S1-S4 blok (dokunulmaz, 0 dB)
-cue('blok', IS+'/ses_dn/TG-ARA-KURGU-S1-S4-mobil-v2_rev2.wav', 0.0, src_t1=T['S1-S4 blok']['t1'], fi=0, fo=0.04)
+cue('blok', IS+'/ses_dn/TG-ARA-KURGU-S1-S4-mobil-v2_rev3.wav', 0.0, src_t1=T['S1-S4 blok']['t1'], fi=0, fo=0.04)
 # 2) hazir miksler: S5 (7 parca) + D1 + E1 ; B=efektli, A=efektsiz
 HZ=[('S5-1a','TG-S5-1a-B-efektli-r3.wav','TG-S5-1a-A-efektsiz-r3.wav'),('S5-1b','TG-S5-1b-B-efektli-r2.wav','TG-S5-1b-A-efektsiz-r2.wav'),('S5-2a','TG-S5-2a_B-efektli.wav','TG-S5-2a_A-efektsiz.wav'),('S5-2b','TG-S5-2b_B-efektli.wav','TG-S5-2b_A-efektsiz.wav'),('S5-2c','TG-S5-2c_B-efektli.wav','TG-S5-2c_A-efektsiz.wav'),('S5-3a','TG-S5-3a_B-efektli.wav','TG-S5-3a_A-efektsiz.wav'),('S5-3b','TG-S5-3b_B-efektli.wav','TG-S5-3b_A-efektsiz.wav'),('S6-2-D1','TG-S6-2-D1-B-efektli-v3.wav','TG-S6-2-D1-A-efektsiz-v3.wav'),('S6-3-E1','TG-S6-3-E1-B-efektli-v2-dinleme.wav','TG-S6-3-E1-A-efektsiz-v2-dinleme.wav')]
 HZ_GAIN=1.5   # hazir miksler bloktan ~3 dB alcak olculdu; yarisini kapat
@@ -131,7 +131,8 @@ e=env_for(m2t,m2end,0,-8,[(T['S9-1']['t0']+4.2,T['S9-1']['t0']+7.9,-7)])   # tep
 # S8-3 kuyrugunda kucuk muzik kabarmasi (+3 dB) -> S8-4 girisindeki seviye sicramasini yumusatir
 tb=T['S8-4']['t0']; e+= [[round(tb-0.75-m2t,3),0],[round(tb-0.40-m2t,3),3.0],[round(tb-0.15-m2t,3),3.0]]
 e=sorted(e); e=[[x,y] for i,(x,y) in enumerate(e) if i==0 or x>e[i-1][0]]
-lastd=max(b for a,b in dlg_windows()); e+= [[round(lastd+0.6-m2t,3),0],[round(lastd+2.0-m2t,3),5],[round(T['Son kart']['t0']+1.5-m2t,3),5],[round(m2end-m2t,3),-6]]
+lastd=max(b for a,b in dlg_windows()); e=[q for q in e if q[0]<lastd+0.6-m2t]; e+= [[round(lastd+0.6-m2t,3),0],[round(lastd+2.0-m2t,3),5],[round(max(lastd+2.0,T['Son kart']['t0']+1.5)+0.01-m2t,3),5],[round(m2end-m2t,3),-6]]
+e=sorted(e); e=[[x,y] for i,(x,y) in enumerate(e) if i==0 or x>e[i-1][0]]
 cue('muzik', m2, m2t, src_t1=m2end-m2t, fi=1.0, fo=2.5, gain_db=m2base, env=e)
 json.dump(cache,open(cache_p,'w')); json.dump(C,open(IS+'/out/cues.json','w'),ensure_ascii=False,indent=1)
 print(len(C),'cue; M1',m1t,m1end,'M2',m2t,m2end)

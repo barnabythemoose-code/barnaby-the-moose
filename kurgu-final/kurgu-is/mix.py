@@ -15,6 +15,19 @@ def ebur(p):
     o=subprocess.run(['ffmpeg','-i',p,'-af','ebur128=peak=true','-f','null','-'],capture_output=True,text=True).stderr
     I=float(re.findall(r'I:\s+(-?[\d.]+) LUFS',o)[-1]); LRA=float(re.findall(r'LRA:\s+(-?[\d.]+) LU',o)[-1]); TP=float(re.findall(r'Peak:\s+(-?[\d.]+) dBFS',o)[-1])
     return I,LRA,TP
+
+def _lag(ref, sig, SR=48000, t0=None, dur=10.0):
+    import numpy as np
+    n=min(len(ref),len(sig)); t0=int((n/SR-dur)/2) if t0 is None else t0
+    a=ref[int(t0*SR):int((t0+dur)*SR)]; b=sig[int(t0*SR):int((t0+dur)*SR)]
+    a=a.mean(1) if a.ndim>1 else a; b=b.mean(1) if b.ndim>1 else b
+    m=len(a); A=np.fft.rfft(a,2*m); B=np.fft.rfft(b,2*m); xc=np.fft.irfft(A.conj()*B,2*m)
+    xc=np.concatenate([xc[-2000:],xc[:2001]]); return int(np.argmax(xc))-2000
+def _shift_back(x, lag):
+    import numpy as np
+    if lag<=0: return x
+    return np.concatenate([x[lag:], np.zeros((lag,)+x.shape[1:],x.dtype)])
+
 res={}
 for ad,names in [('B',['blok','hazirB','diyalog','ortam','sfx','muzik']),('A',['blok','hazirA','diyalog','ortam','muzik'])]:
     m=mixof(names); raw=OUT+f'mix{ad}_raw.wav'; sf.write(raw,m,SR,subtype='FLOAT')
@@ -23,6 +36,9 @@ for ad,names in [('B',['blok','hazirB','diyalog','ortam','sfx','muzik']),('A',['
     I,LRA,TP=ebur(comp); g=-15.0-I
     fin=OUT+f'mix{ad}.wav'
     subprocess.run(['ffmpeg','-v','error','-y','-i',comp,'-af',f'volume={g:.2f}dB,alimiter=limit=0.64:attack=5:release=80:level=false','-c:a','pcm_s24le',fin],check=True)
+    # alimiter attack lookahead gecikmesini telafi et (ref: kompresor cikisi)
+    _ref=sf.read(comp,dtype='float32')[0]; _fin=sf.read(fin,dtype='float32')[0]; _l=_lag(_ref,_fin,SR); print(ad,'limiter gecikme (ornek):',_l)
+    if _l>0: sf.write(fin,_shift_back(_fin,_l),SR,subtype='PCM_24')
     I2,LRA2,TP2=ebur(fin)
     # sessizlik (>1,5 sn, -50 dB)
     o=subprocess.run(['ffmpeg','-i',fin,'-af','silencedetect=n=-50dB:d=1.5','-f','null','-'],capture_output=True,text=True).stderr
