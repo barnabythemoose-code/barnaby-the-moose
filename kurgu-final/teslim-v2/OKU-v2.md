@@ -21,7 +21,7 @@ Bu sürümde **Seedance kaynaklı hiçbir ses kullanılmadı**. Blok (0–1:44),
 - **Miks:** diyalog −15,5 LUFS'a sabitlendi; bus kompresör (−30 dB, 1,35), tepe sınırlayıcı (gecikme telafili). Ölçüm: bütün −17,3 LUFS, TP −3,5 dBTP, LRA 4,1, kesimlerde sıçrama yok (en büyük < +6 dB), 1,5 sn'den uzun sessizlik yok. Not: bütün değeri −16'nın altında; diyalog seviyesi doğru, müzik/ortam bilinçli olarak diyaloğun altında tutuldu. İstenirse müzik +2 dB ile −16'ya çekilir.
 
 ## Kredi
-Bu sürüm için harcanan: ~ kredi (TTS 63+14 retake, 12 efekt, 1 müzik, 3 STT). Proje toplamı: ~20209 kredi (tavan 25.000). Kayıt: ses-log.csv.
+Bu sürüm için harcanan: ~8.364 kredi (TTS 63+14 retake, 12 efekt, 1 müzik, 3 STT). Proje toplamı: ~20209 kredi (tavan 25.000). Kayıt: ses-log.csv.
 
 ## Bilinen sınırlar
 - Görüntüdeki ağız hareketleri Seedance'ın orijinal konuşmasına göre; yeni TTS aynı pencereye oturtuldu, kare kare "dudak şekli" eşleşmesi yok (hiçbir dublajda olmaz).
