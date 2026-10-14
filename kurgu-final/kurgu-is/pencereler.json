@@ -1,0 +1,592 @@
+[
+ {
+  "id": "S3-3_B3",
+  "kim": "Barnaby",
+  "metin": "Cinnamon and warm wool. That's Mama's table.",
+  "pencere": [
+   41.4,
+   45.2
+  ],
+  "tts_sure": 4.28
+ },
+ {
+  "id": "S3-3_H4",
+  "kim": "Hazel",
+  "metin": "Three ridges to the lights, but the sun is getting low.",
+  "pencere": [
+   45.64,
+   48.26
+  ],
+  "tts_sure": 3.16
+ },
+ {
+  "id": "S3-3_B5",
+  "kim": "Barnaby",
+  "metin": "Then let's follow the scent!",
+  "pencere": [
+   48.68,
+   49.86
+  ],
+  "tts_sure": 1.8
+ },
+ {
+  "id": "S3-4_B6",
+  "kim": "Barnaby",
+  "metin": "Pie! Papa's pie! It smells so sweet!",
+  "pencere": [
+   51.82,
+   54.26
+  ],
+  "tts_sure": 2.85
+ },
+ {
+  "id": "S3-4_H7",
+  "kim": "Hazel",
+  "metin": "Sweet, yes. But where did the wool go?",
+  "pencere": [
+   54.48,
+   56.18
+  ],
+  "tts_sure": 2.19
+ },
+ {
+  "id": "S3-4_B8",
+  "kim": "Barnaby",
+  "metin": "The pie is so big, it ate the wool.",
+  "pencere": [
+   56.58,
+   58.24
+  ],
+  "tts_sure": 2.12
+ },
+ {
+  "id": "S3-5_H9",
+  "kim": "Hazel",
+  "metin": "Barnaby, the wool is gone. Let's stop and sniff properly.",
+  "pencere": [
+   59.54,
+   62.74
+  ],
+  "tts_sure": 3.55
+ },
+ {
+  "id": "S3-5_B10",
+  "kim": "Barnaby",
+  "metin": "One little sniff of pie, then wool. Promise.",
+  "pencere": [
+   63.18,
+   65.68
+  ],
+  "tts_sure": 3.97
+ },
+ {
+  "id": "S3-5_H11",
+  "kim": "Hazel",
+  "metin": "This is a bad idea.",
+  "pencere": [
+   66.72,
+   67.66
+  ],
+  "tts_sure": 2.69
+ },
+ {
+  "id": "S4-1_H12",
+  "kim": "Hazel",
+  "metin": "Barnaby, open your eyes. That's a tree.",
+  "pencere": [
+   69.94,
+   72.48
+  ],
+  "tts_sure": 2.93
+ },
+ {
+  "id": "S4-1_B13",
+  "kim": "Barnaby",
+  "metin": "I don't need eyes. I have a nose.",
+  "pencere": [
+   73.0,
+   75.14
+  ],
+  "tts_sure": 2.51
+ },
+ {
+  "id": "S4-2_B14",
+  "kim": "Barnaby",
+  "metin": "That's not pie.",
+  "pencere": [
+   78.6,
+   80.12
+  ],
+  "tts_sure": 1.49
+ },
+ {
+  "id": "S4-2_H15",
+  "kim": "Hazel",
+  "metin": "Tree sugar. The wind turned and hid Mama's smell.",
+  "pencere": [
+   80.66,
+   83.08
+  ],
+  "tts_sure": 3.71
+ },
+ {
+  "id": "S4-2_B16",
+  "kim": "Barnaby",
+  "metin": "So the pie was a tree.",
+  "pencere": [
+   83.76,
+   85.82
+  ],
+  "tts_sure": 1.88
+ },
+ {
+  "id": "S4-3_H17",
+  "kim": "Hazel",
+  "metin": "That's the second bell. Papa's hurry bell.",
+  "pencere": [
+   86.84,
+   89.04
+  ],
+  "tts_sure": 2.43
+ },
+ {
+  "id": "S4-3_B18",
+  "kim": "Barnaby",
+  "metin": "Behind us?",
+  "pencere": [
+   89.68,
+   90.38
+  ],
+  "tts_sure": 1.07
+ },
+ {
+  "id": "S4-3_H19",
+  "kim": "Hazel",
+  "metin": "The geese knew.",
+  "pencere": [
+   90.92,
+   91.64
+  ],
+  "tts_sure": 1.88
+ },
+ {
+  "id": "S4-3_B20",
+  "kim": "Barnaby",
+  "metin": "I followed my nose the wrong way.",
+  "pencere": [
+   92.7,
+   94.38
+  ],
+  "tts_sure": 2.35
+ },
+ {
+  "id": "S4-4_H21",
+  "kim": "Hazel",
+  "metin": "Last bell is sunset, then Papa sits everyone down.",
+  "pencere": [
+   95.94,
+   98.72
+  ],
+  "tts_sure": 3.16
+ },
+ {
+  "id": "S4-4_B22",
+  "kim": "Barnaby",
+  "metin": "Papa never waits.",
+  "pencere": [
+   99.0,
+   99.96
+  ],
+  "tts_sure": 1.65
+ },
+ {
+  "id": "S4-4_H23",
+  "kim": "Hazel",
+  "metin": "Three ridges before, now five.",
+  "pencere": [
+   100.22,
+   102.48
+  ],
+  "tts_sure": 3.16
+ },
+ {
+  "id": "S4-4_B24",
+  "kim": "Barnaby",
+  "metin": "Five?",
+  "pencere": [
+   103.22,
+   103.62
+  ],
+  "tts_sure": 0.68
+ },
+ {
+  "id": "S4-4_H25",
+  "kim": "Hazel",
+  "metin": "Run!",
+  "pencere": [
+   103.94,
+   104.2
+  ],
+  "tts_sure": 1.57
+ },
+ {
+  "id": "S5-1_H26",
+  "kim": "Hazel",
+  "metin": "The sun is touching the hill.",
+  "pencere": [
+   104.362,
+   105.962
+  ],
+  "tts_sure": 1.88
+ },
+ {
+  "id": "S5-1_B27",
+  "kim": "Barnaby",
+  "metin": "Whoa. I only smell syrup!",
+  "pencere": [
+   106.962,
+   108.862
+  ],
+  "tts_sure": 2.69
+ },
+ {
+  "id": "S5-1_H28",
+  "kim": "Hazel",
+  "metin": "You smell like pancakes.",
+  "pencere": [
+   109.611,
+   110.531
+  ],
+  "tts_sure": 1.8
+ },
+ {
+  "id": "S5-1_B29",
+  "kim": "Barnaby",
+  "metin": "Oh.",
+  "pencere": [
+   112.071,
+   112.211
+  ],
+  "tts_sure": 1.49
+ },
+ {
+  "id": "S5-2_B30",
+  "kim": "Barnaby",
+  "metin": "Excuse me, sir. Which way to Mama's table?",
+  "pencere": [
+   117.773,
+   119.773
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S5-2_B31",
+  "kim": "Barnaby",
+  "metin": "He didn't answer.",
+  "pencere": [
+   121.818,
+   122.438
+  ],
+  "tts_sure": 1.49
+ },
+ {
+  "id": "S5-2_H32",
+  "kim": "Hazel",
+  "metin": "He's a tree, and that's three times.",
+  "pencere": [
+   122.878,
+   124.538
+  ],
+  "tts_sure": 3.24
+ },
+ {
+  "id": "S5-3_B33",
+  "kim": "Barnaby",
+  "metin": "No bell.",
+  "pencere": [
+   129.135,
+   129.615
+  ],
+  "tts_sure": 1.96
+ },
+ {
+  "id": "S5-3_H34",
+  "kim": "Hazel",
+  "metin": "The fog swallows sound, Barnaby. Maybe we just can't hear it.",
+  "pencere": [
+   130.695,
+   133.275
+  ],
+  "tts_sure": 3.79
+ },
+ {
+  "id": "S5-3_B35",
+  "kim": "Barnaby",
+  "metin": "Papa never waits. They've started.",
+  "pencere": [
+   133.415,
+   135.195
+  ],
+  "tts_sure": 2.59
+ },
+ {
+  "id": "S5-3_B36",
+  "kim": "Barnaby",
+  "metin": "We're lost.",
+  "pencere": [
+   135.615,
+   136.115
+  ],
+  "tts_sure": 1.57
+ },
+ {
+  "id": "S5-3_H37",
+  "kim": "Hazel",
+  "metin": "Then we stop and think.",
+  "pencere": [
+   136.395,
+   137.495
+  ],
+  "tts_sure": 2.04
+ },
+ {
+  "id": "S6-1_H1",
+  "kim": "Hazel",
+  "metin": "We stop here until morning.",
+  "pencere": [
+   138.75,
+   140.17
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-1_B1",
+  "kim": "Barnaby",
+  "metin": "But Mama's table...",
+  "pencere": [
+   142.01,
+   142.89
+  ],
+  "tts_sure": 1.8
+ },
+ {
+  "id": "S6-1_H2",
+  "kim": "Hazel",
+  "metin": "Morning, Barnaby.",
+  "pencere": [
+   143.01,
+   143.87
+  ],
+  "tts_sure": 1.65
+ },
+ {
+  "id": "S6-2-D2_B1",
+  "kim": "Barnaby",
+  "metin": "It found a tree.",
+  "pencere": [
+   151.392,
+   152.232
+  ],
+  "tts_sure": 1.88
+ },
+ {
+  "id": "S6-2-D2_H1",
+  "kim": "Hazel",
+  "metin": "Barnaby. You are very hard to not know.",
+  "pencere": [
+   153.372,
+   155.672
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-3-E2_B1",
+  "kim": "Barnaby",
+  "metin": "Mama... It's Barnaby!",
+  "pencere": [
+   162.93,
+   164.97
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-4_H1",
+  "kim": "Hazel",
+  "metin": "That's not the last bell.",
+  "pencere": [
+   166.217,
+   167.257
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-4_B1",
+  "kim": "Barnaby",
+  "metin": "A soft bell... like a lamp left on.",
+  "pencere": [
+   168.537,
+   170.557
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-4_H2",
+  "kim": "Hazel",
+  "metin": "Somebody's still waiting.",
+  "pencere": [
+   170.917,
+   171.957
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-4_B2",
+  "kim": "Barnaby",
+  "metin": "For... me?",
+  "pencere": [
+   172.837,
+   173.637
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-5_B1",
+  "kim": "Barnaby",
+  "metin": "Nose, I know you love pie. But today, please... find Mama.",
+  "pencere": [
+   175.31,
+   178.71
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-5_B2",
+  "kim": "Barnaby",
+  "metin": "Warm wool. Mama's shawl! This way!",
+  "pencere": [
+   180.35,
+   182.35
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-5_H1",
+  "kim": "Hazel",
+  "metin": "Not pie?",
+  "pencere": [
+   182.59,
+   183.17
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-5_B3",
+  "kim": "Barnaby",
+  "metin": "Not pie. Mama.",
+  "pencere": [
+   183.47,
+   184.55
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-5_H2",
+  "kim": "Hazel",
+  "metin": "Go.",
+  "pencere": [
+   184.85,
+   185.09
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S7-1_B1",
+  "kim": "Barnaby",
+  "metin": "The fog ate Mama's smell. I can't smell anything!",
+  "pencere": [
+   187.992,
+   190.272
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S7-1_H1",
+  "kim": "Hazel",
+  "metin": "Then don't smell. Look. The geese.",
+  "pencere": [
+   190.392,
+   192.372
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S7-1_H2",
+  "kim": "Hazel",
+  "metin": "They eat Mama's corn at the lights. They know the way.",
+  "pencere": [
+   192.832,
+   195.192
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S7-1_B2",
+  "kim": "Barnaby",
+  "metin": "Dinner before me?!",
+  "pencere": [
+   195.552,
+   196.432
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S7-1_H3",
+  "kim": "Hazel",
+  "metin": "Geese are punctual.",
+  "pencere": [
+   196.852,
+   197.612
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S8-1_A1",
+  "kim": "Anne",
+  "metin": "Papa, the sun went down a long time ago.",
+  "pencere": [
+   198.253,
+   200.833
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S8-1_P1",
+  "kim": "Baba",
+  "metin": "The table isn't full yet.",
+  "pencere": [
+   201.133,
+   202.493
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S8-1_A2",
+  "kim": "Anne",
+  "metin": "No. It isn't.",
+  "pencere": [
+   203.313,
+   204.573
+  ],
+  "tts_sure": null
+ },
+ {
+  "id": "S6-4_Hmm",
+  "kim": "Barnaby",
+  "metin": "Hmm.",
+  "pencere": [
+   167.697,
+   168.017
+  ],
+  "tts_sure": null
+ }
+]

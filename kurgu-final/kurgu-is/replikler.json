@@ -1,0 +1,592 @@
+[
+ {
+  "id": "S3-3_B3",
+  "sahne": "S3-3",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Cinnamon and warm wool. That's Mama's table.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 41.23,
+  "film_t1_tahmin": 43.73
+ },
+ {
+  "id": "S3-3_H4",
+  "sahne": "S3-3",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Three ridges to the lights, but the sun is getting low.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 44.03,
+  "film_t1_tahmin": 46.93
+ },
+ {
+  "id": "S3-3_B5",
+  "sahne": "S3-3",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Then let's follow the scent!",
+  "kaynak": "blok",
+  "film_t0_tahmin": 47.63,
+  "film_t1_tahmin": 49.03
+ },
+ {
+  "id": "S3-4_B6",
+  "sahne": "S3-4ff",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Pie! Papa's pie! It smells so sweet!",
+  "kaynak": "blok",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S3-4_H7",
+  "sahne": "S3-4ff",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Sweet, yes. But where did the wool go?",
+  "kaynak": "blok",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S3-4_B8",
+  "sahne": "S3-4ff",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "The pie is so big, it ate the wool.",
+  "kaynak": "blok",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S3-5_H9",
+  "sahne": "S3-5",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Barnaby, the wool is gone. Let's stop and sniff properly.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 59.26,
+  "film_t1_tahmin": 62.46
+ },
+ {
+  "id": "S3-5_B10",
+  "sahne": "S3-5",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "One little sniff of pie, then wool. Promise.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 62.76,
+  "film_t1_tahmin": 65.06
+ },
+ {
+  "id": "S3-5_H11",
+  "sahne": "S3-5",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "This is a bad idea.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 66.06,
+  "film_t1_tahmin": 67.46
+ },
+ {
+  "id": "S4-1_H12",
+  "sahne": "S4-1",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Barnaby, open your eyes. That's a tree.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 70.46,
+  "film_t1_tahmin": 72.76
+ },
+ {
+  "id": "S4-1_B13",
+  "sahne": "S4-1",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "I don't need eyes. I have a nose.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 72.96,
+  "film_t1_tahmin": 74.76
+ },
+ {
+  "id": "S4-2_B14",
+  "sahne": "S4-2",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "That's not pie.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 79.46,
+  "film_t1_tahmin": 80.46
+ },
+ {
+  "id": "S4-2_H15",
+  "sahne": "S4-2",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Tree sugar. The wind turned and hid Mama's smell.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 80.86,
+  "film_t1_tahmin": 83.56
+ },
+ {
+  "id": "S4-2_B16",
+  "sahne": "S4-2",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "So the pie was a tree.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 83.86,
+  "film_t1_tahmin": 85.16
+ },
+ {
+  "id": "S4-3_H17",
+  "sahne": "S4-3",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "That's the second bell. Papa's hurry bell.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 86.96,
+  "film_t1_tahmin": 89.26
+ },
+ {
+  "id": "S4-3_B18",
+  "sahne": "S4-3",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Behind us?",
+  "kaynak": "blok",
+  "film_t0_tahmin": 89.36,
+  "film_t1_tahmin": 90.36
+ },
+ {
+  "id": "S4-3_H19",
+  "sahne": "S4-3",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "The geese knew.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 91.16,
+  "film_t1_tahmin": 92.16
+ },
+ {
+  "id": "S4-3_B20",
+  "sahne": "S4-3",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "I followed my nose the wrong way.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 92.76,
+  "film_t1_tahmin": 94.76
+ },
+ {
+  "id": "S4-4_H21",
+  "sahne": "S4-4",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Last bell is sunset, then Papa sits everyone down.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 95.92,
+  "film_t1_tahmin": 98.82
+ },
+ {
+  "id": "S4-4_B22",
+  "sahne": "S4-4",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Papa never waits.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 98.82,
+  "film_t1_tahmin": 100.02
+ },
+ {
+  "id": "S4-4_H23",
+  "sahne": "S4-4",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Three ridges before, now five.",
+  "kaynak": "blok",
+  "film_t0_tahmin": 100.02,
+  "film_t1_tahmin": 101.62
+ },
+ {
+  "id": "S4-4_B24",
+  "sahne": "S4-4",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Five?",
+  "kaynak": "blok",
+  "film_t0_tahmin": 102.82,
+  "film_t1_tahmin": 103.62
+ },
+ {
+  "id": "S4-4_H25",
+  "sahne": "S4-4",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Run!",
+  "kaynak": "blok",
+  "film_t0_tahmin": 103.62,
+  "film_t1_tahmin": 104.22
+ },
+ {
+  "id": "S5-1_H26",
+  "sahne": "S5-1a",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "The sun is touching the hill.",
+  "kaynak": "s5",
+  "film_t0_tahmin": 105.242,
+  "film_t1_tahmin": 106.842
+ },
+ {
+  "id": "S5-1_B27",
+  "sahne": "S5-1a",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Whoa. I only smell syrup!",
+  "kaynak": "s5",
+  "film_t0_tahmin": 107.042,
+  "film_t1_tahmin": 108.842
+ },
+ {
+  "id": "S5-1_H28",
+  "sahne": "S5-1b",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "You smell like pancakes.",
+  "kaynak": "s5",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S5-1_B29",
+  "sahne": "S5-1b",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Oh.",
+  "kaynak": "s5",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S5-2_B30",
+  "sahne": "S5-2b",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Excuse me, sir. Which way to Mama's table?",
+  "kaynak": "s5",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S5-2_B31",
+  "sahne": "S5-2c",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "He didn't answer.",
+  "kaynak": "s5",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S5-2_H32",
+  "sahne": "S5-2c",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "He's a tree, and that's three times.",
+  "kaynak": "s5",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S5-3_B33",
+  "sahne": "S5-3a",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "No bell.",
+  "kaynak": "s5",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S5-3_H34",
+  "sahne": "S5-3b",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "The fog swallows sound, Barnaby. Maybe we just can't hear it.",
+  "kaynak": "s5",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S5-3_B35",
+  "sahne": "S5-3b",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Papa never waits. They've started.",
+  "kaynak": "s5",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S5-3_B36",
+  "sahne": "S5-3b",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "We're lost.",
+  "kaynak": "s5",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S5-3_H37",
+  "sahne": "S5-3b",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Then we stop and think.",
+  "kaynak": "s5",
+  "film_t0_tahmin": null,
+  "film_t1_tahmin": null
+ },
+ {
+  "id": "S6-1_H1",
+  "sahne": "S6-1",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "We stop here until morning.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 138.75,
+  "film_t1_tahmin": 140.17
+ },
+ {
+  "id": "S6-1_B1",
+  "sahne": "S6-1",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "But Mama's table...",
+  "kaynak": "vc",
+  "film_t0_tahmin": 142.01,
+  "film_t1_tahmin": 142.89
+ },
+ {
+  "id": "S6-1_H2",
+  "sahne": "S6-1",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Morning, Barnaby.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 143.01,
+  "film_t1_tahmin": 143.87
+ },
+ {
+  "id": "S6-2-D2_B1",
+  "sahne": "S6-2-D2",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "It found a tree.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 151.392,
+  "film_t1_tahmin": 152.232
+ },
+ {
+  "id": "S6-2-D2_H1",
+  "sahne": "S6-2-D2",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Barnaby. You are very hard to not know.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 153.372,
+  "film_t1_tahmin": 155.672
+ },
+ {
+  "id": "S6-3-E2_B1",
+  "sahne": "S6-3-E2",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Mama... It's Barnaby!",
+  "kaynak": "vc",
+  "film_t0_tahmin": 162.93,
+  "film_t1_tahmin": 164.97
+ },
+ {
+  "id": "S6-4_H1",
+  "sahne": "S6-4",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "That's not the last bell.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 166.217,
+  "film_t1_tahmin": 167.257
+ },
+ {
+  "id": "S6-4_B1",
+  "sahne": "S6-4",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "A soft bell... like a lamp left on.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 168.537,
+  "film_t1_tahmin": 170.557
+ },
+ {
+  "id": "S6-4_H2",
+  "sahne": "S6-4",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Somebody's still waiting.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 170.917,
+  "film_t1_tahmin": 171.957
+ },
+ {
+  "id": "S6-4_B2",
+  "sahne": "S6-4",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "For... me?",
+  "kaynak": "vc",
+  "film_t0_tahmin": 172.837,
+  "film_t1_tahmin": 173.637
+ },
+ {
+  "id": "S6-5_B1",
+  "sahne": "S6-5",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Nose, I know you love pie. But today, please... find Mama.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 175.31,
+  "film_t1_tahmin": 178.71
+ },
+ {
+  "id": "S6-5_B2",
+  "sahne": "S6-5",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Warm wool. Mama's shawl! This way!",
+  "kaynak": "vc",
+  "film_t0_tahmin": 180.35,
+  "film_t1_tahmin": 182.35
+ },
+ {
+  "id": "S6-5_H1",
+  "sahne": "S6-5",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Not pie?",
+  "kaynak": "vc",
+  "film_t0_tahmin": 182.59,
+  "film_t1_tahmin": 183.17
+ },
+ {
+  "id": "S6-5_B3",
+  "sahne": "S6-5",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Not pie. Mama.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 183.47,
+  "film_t1_tahmin": 184.55
+ },
+ {
+  "id": "S6-5_H2",
+  "sahne": "S6-5",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Go.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 184.85,
+  "film_t1_tahmin": 185.09
+ },
+ {
+  "id": "S7-1_B1",
+  "sahne": "S7-1-B",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "The fog ate Mama's smell. I can't smell anything!",
+  "kaynak": "vc",
+  "film_t0_tahmin": 187.992,
+  "film_t1_tahmin": 190.272
+ },
+ {
+  "id": "S7-1_H1",
+  "sahne": "S7-1-B",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Then don't smell. Look. The geese.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 190.392,
+  "film_t1_tahmin": 192.372
+ },
+ {
+  "id": "S7-1_H2",
+  "sahne": "S7-1-B",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "They eat Mama's corn at the lights. They know the way.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 192.832,
+  "film_t1_tahmin": 195.192
+ },
+ {
+  "id": "S7-1_B2",
+  "sahne": "S7-1-B",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Dinner before me?!",
+  "kaynak": "vc",
+  "film_t0_tahmin": 195.552,
+  "film_t1_tahmin": 196.432
+ },
+ {
+  "id": "S7-1_H3",
+  "sahne": "S7-1-B",
+  "kim": "Hazel",
+  "voice_id": "LXPbTpuiEL499GSZn0FC",
+  "metin": "Geese are punctual.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 196.852,
+  "film_t1_tahmin": 197.612
+ },
+ {
+  "id": "S8-1_A1",
+  "sahne": "S8-1-B2",
+  "kim": "Anne",
+  "voice_id": "zyWQ2t7T0HAoAVkn6TCL",
+  "metin": "Papa, the sun went down a long time ago.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 198.253,
+  "film_t1_tahmin": 200.833
+ },
+ {
+  "id": "S8-1_P1",
+  "sahne": "S8-1-B2",
+  "kim": "Baba",
+  "voice_id": "kEG98vef9IghrvAGtL4L",
+  "metin": "The table isn't full yet.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 201.133,
+  "film_t1_tahmin": 202.493
+ },
+ {
+  "id": "S8-1_A2",
+  "sahne": "S8-1-B2",
+  "kim": "Anne",
+  "voice_id": "zyWQ2t7T0HAoAVkn6TCL",
+  "metin": "No. It isn't.",
+  "kaynak": "vc",
+  "film_t0_tahmin": 203.313,
+  "film_t1_tahmin": 204.573
+ },
+ {
+  "id": "S6-4_Hmm",
+  "sahne": "S6-4",
+  "kim": "Barnaby",
+  "voice_id": "ByzFtP0GwTvCdhGhmMMp",
+  "metin": "Hmm.",
+  "kaynak": "ham",
+  "film_t0_tahmin": 167.697,
+  "film_t1_tahmin": 168.017
+ }
+]

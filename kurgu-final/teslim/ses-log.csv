@@ -43,3 +43,16 @@ sira,zaman,islem,aciklama,varyant,kredi_sonuc(price.credits),not
 42,2026-10-14T00:36,ISOLATION,"ses ayirma: blok 8-44 sn (36 sn) + S5-2c/3a/3b (20 sn); dugum basina 4 varyant uretildi",8,3745.2,varsayilan varyant sayisi 4; tek varyant yeterdi (ders: run_flow_nodes yerine tek uretim)
 43,2026-10-14T01:20,ISOLATION,"blok 0-8,5 sn ses ayirma (tek uretim)",1,141.7,
 44,2026-10-14T01:20,TTS,"0:00-0:40 yeniden dublaj: Hazel 4 + Barnaby 4 replik, tek varyant",8,221.0,
+45,2026-10-14T01:24,STT,"0:00-0:40 yeniden dublaj 8 replik ters test (tek dosya)",1,93.9,
+46,2026-10-14 09:55,STT,"sifirdan ses: blok 44-104 orijinal, kelime zamanlari (agiz referansi)",1,331.64,akis GTxM00kvg806auFVSKON node 1WdKGeLdRgVvXJzZPV0V
+47,2026-10-14 09:55,STT,"sifirdan ses: S5 hazir B sirali, kelime zamanlari",1,216.84,node exUQfVaAHpRUA4Uq7pRk
+48,2026-10-14 09:55,TTS,sifirdan ses: S3-3_B3 Barnaby test (eleven_v3),1,72,node KkiMG72uaFh4X5s9uBBB
+49,2026-10-14 09:56,SFX,"sifirdan ses: 12 yeni efekt/ortam (uzak cift can, kosu adimlari, uzun koklama, thwup, pop, kaz surusu, yaprak dususu, gece ormani dongu, ogleden sonra ormani dongu, surup damlasi, koku seridi, ruzgar esintisi), tek varyant",12,260.0,23.3+26.7+10+5+3.3+23.3+8.3+66.7+66.7+5+8.3+13.3
+50,2026-10-14 09:56,MUZIK,"sifirdan ses: acilis muzigi 140 sn enstrumantal (eleven_music_v2_5), tek varyant",1,2100.0,node yDhH3sAHgAwMujlAxuRn
+51,2026-10-14 10:00,TTS,"sifirdan ses: yeni dublaj parti 1, 19 replik (S3-3_H4 ... S4-4_B22), eleven_v3 tek varyant",19,1177,93+48+81+67+67+76+67+47+57+73+48+79+60+61+37+32+60+80+44
+52,2026-10-14 10:05,TTS,"sifirdan ses: yeni dublaj parti 2, 17 replik (S4-4_H23 ... S6-2-D2_B1)",17,657,
+53,2026-10-14 10:08,TTS,"sifirdan ses: yeni dublaj parti 3, 21 replik (S5-2_B30, S6-1_H1 tekrar; S6-2-D2_H1 ... S8-1_A2)",21,1055,
+54,2026-10-14 10:11,TTS,sifirdan ses: S6-4_Hmm Barnaby (tekrar),1,21,
+55,2026-10-14 10:13,TTS,sifirdan ses: 14 hizli-tempo retake (agiz penceresine sigmayan replikler),14,850,
+56,2026-10-14 10:17,TTS,sifirdan ses: S6-2-D1 (2) ve S6-3-E1 (2) hazir miks replikleri yerine TTS,4,241,
+57,2026-10-14 10:38,STT,sifirdan ses: tum diyalog stemi dogrulama (251 sn),1,1382.79,node aQaaapBDl7sCCwMleu6A
