@@ -22,13 +22,12 @@
 00:11.000,11.0,efekt,,yaprak-dususu,yaprak-dususu.wav,kare: Big flurry of orange leaves thrown up by his hooves fills the frame; after he ex | tepe -28 dBFS
 00:11.667,11.667,efekt,,whoosh,whoosh.wav,kare: k280-k284: Barnaby blurs past the camera at close range and exits frame right at | tepe -23 dBFS
 00:11.750,11.75,efekt,,yaprak-dususu,yaprak-dususu.wav,"kare: k282-k296: empty frame, loose leaves swirl and drift through the air in Barnaby' | tepe -28 dBFS"
+00:12.500,12.5,efekt,,kaz-dogal,kaz-dogal.wav, | tepe -19 dBFS
 00:13.208,13.208,efekt,,whoosh,whoosh.wav,"kare: k317: Barnaby bursts into frame from the left in a motion blur, arms out, headin | tepe -23 dBFS"
 00:13.250,13.25,efekt,,yaprak-kayma,yaprak-kayma.wav,"kare: k318-k322: Looney-Tunes skid: Barnaby leans back, hooves thrust forward and slid | tepe -15 dBFS"
 00:13.458,13.458,efekt,,doink,doink.wav,"kare: k323: body jolts to a dead stop inches from the lead goose, arms out, mouth open | tepe -18 dBFS"
 00:13.750,13.75,efekt,,adim1,adim1.wav,"kare: Still alarmed with arms out, Barnaby takes five exaggerated high-knee tiptoe ste | tepe -29 dBFS"
 00:15.000,15.0,efekt,,adim2,adim2.wav,"kare: Expression turns determined and Barnaby goose-steps in line with the geese, legs | tepe -28 dBFS"
-00:15.700,15.7,efekt,,kaz-yakin,kaz-yakin.wav, | tepe -24 dBFS
-00:17.600,17.6,efekt,,kaz-yakin,kaz-yakin.wav, | tepe -26 dBFS
 00:19.000,19.0,efekt,,adim1,adim1.wav,"kare: Barnaby halts in the middle of the goose line, drops his arms and plants both ho | tepe -37 dBFS"
 00:19.250,19.25,diyalog,Hazel,They're going our way.,D40_H2.wav,
 00:20.670,20.67,diyalog,Barnaby,No time!,D40_B1.wav,
@@ -251,7 +250,7 @@
 02:55.167,175.167,efekt,,adim2,adim2.wav,kare: k4204: first step out of the hollow: Barnaby's screen-right hoof (lifted at k420 | tepe -29 dBFS
 02:55.310,175.31,diyalog,Barnaby,"Nose, I know you love pie. But today, please... find Mama.",S6-5_B1.wav,
 02:55.500,175.5,efekt,,yun,yun.wav,"kare: Standing, Barnaby raises a hand and grabs/pinches his own nose, eyes closed, tal | tepe -33 dBFS"
-02:55.500,175.5,efekt,,kaz-yakin,kaz-yakin.wav,"kare: Standing, Barnaby raises a hand and grabs/pinches his own nose, eyes closed, tal | tepe -29 dBFS"
+02:55.500,175.5,efekt,,kaz-dogal,kaz-dogal.wav,"kare: Standing, Barnaby raises a hand and grabs/pinches his own nose, eyes closed, tal | tepe -29 dBFS"
 02:56.375,176.375,efekt,,yun,yun.wav,kare: k4233-k4235: the extended arm comes back in to his chest | tepe -34 dBFS
 02:57.600,177.6,efekt,,koku,koku.wav, | tepe -27 dBFS
 02:58.333,178.333,efekt,,burun-cekme,burun-cekme.wav,kare: k4280-k4294: Barnaby's eyes are closed and he raises and tilts his nose toward t | tepe -32 dBFS

@@ -112,7 +112,7 @@ SRC={
  'fren':Y+'/sfx/fren-kayma.mp3','yaprak-kayma':Y+'/sfx/yaprak-kayma.mp3','doink':Y+'/sfx/doink.mp3','yaprak-ucusmasi':Y+'/sfx/yaprak-ucusmasi.mp3','whoosh':Y+'/sfx/whoosh.mp3',
  'ziplama':Y+'/sfx/ziplama.mp3','inis':Y+'/sfx/inis.mp3','dortnala':Y+'/sfx/dortnala-dongu.mp3','ping':Y+'/sfx/ping.mp3',
  'govde-pat':Y+'/sfx/govde-pat.mp3','boynuz-dal':Y+'/sfx/boynuz-dal.mp3','yapiskan':IS+'/el/sfx/a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI.mp3',
- 'kaz':IS+'/el/sfx/one-single-distant-canada-goose-honk-hig_v1_2Wv0AU.mp3',
+ 'kaz':IS+'/el/sfx/one-single-distant-canada-goose-honk-hig_v1_2Wv0AU.mp3','kaz-dogal':Y+'/sfx/kaz-dogal.mp3',
 }
 def norm_sfx(name,af=None,src=None):
     x=dec(src or SRC[name],2,af)
@@ -125,11 +125,13 @@ SF['koku-ters']=norm_sfx('koku-ters','areverse',SRC['koku'])
 SF['mmf']=norm_sfx('mmf','lowpass=f=900,asetrate=48000*0.92,aresample=48000',Y+'/tts/S6-4_Hmm.mp3')
 SF['adim1']=norm_sfx('adim1','atrim=0:0.5,afade=t=out:st=0.4:d=0.1',SRC['toynak3']); SF['adim2']=norm_sfx('adim2','atrim=0:0.5,afade=t=out:st=0.4:d=0.1',SRC['toynak'])
 SF['kaz-yakin']=norm_sfx('kaz-yakin','highpass=f=150',SRC['kaz'])
+SF['kaz-dogal2']=norm_sfx('kaz-dogal2','asetrate=48000*1.07,aresample=48000,atrim=0:0.72,afade=t=out:st=0.62:d=0.1',SRC['kaz-dogal'])   # v2.5 ikinci kaz: hafif tiz, kisa
 def sfx(name,t,peak,fi=0.005,fo=0.05,**k):
     st1=k.pop('src_t1',None); cue('sfx',SF[name],t,src_t0=0.0,src_t1=st1,fi=fi,fo=fo,gain_db=peak+1.0+5.0,**k)
 # ------------------------------------------------------------------ EFEKT SPOT LISTESI (film sn, ham tepe dBFS)
 sfx('el-cani-uzak',0.30,-24,fo=0.6)                       # ilk can (uzak)
-sfx('kaz-yakin',15.7,-24); sfx('kaz-yakin',17.6,-26)      # S2-1 yerdeki kazlar (yakin tek otus)
+sfx('kaz-dogal',12.50,-19,fo=0.12)                        # v2.5 S2-1: kaz sahneye girerken gagasi acik (12.50-12.88, 6 okuyucu) -> dogal vaklama
+# v2.5: 15.7 / 17.6 yerdeki kaz sesleri kaldirildi: 15.0-18.4 arasinda hicbir kazin gagasi acilmiyor (6 bagimsiz kare okumasi)
 sfx('toynak',26.4,-25); sfx('toynak',27.9,-26)            # S3-1 adimlar
 sfx('tepik-uzak',30.15,-21,fo=0.4)                        # Papa'nin adimi (uzak)
 sfx('tepik-hafif',36.12,-19)                              # inis (Eight out of ten)
@@ -172,11 +174,11 @@ if _os.path.exists(Y+'/ek_efektler.json'):
     for e in EK:
         ad=e['ad']; t=e['t']; pk=e['tepe']
         if any(ad==a and abs(t-tt)<0.02 for a,tt in DROP): continue
-        fam={'kaz':'kaz-yakin','adim':None}.get(ad,ad)
+        fam={'kaz':'kaz-dogal','adim':None}.get(ad,ad)
         if fam and any(_os.path.basename(f).startswith(fam) and abs(tt-t)<0.35 for f,tt in man): continue
         if e['tur']=='dongu': sfx('dortnala',t,pk,fi=0.15,fo=0.45,loop_to=round(max(0.8,e['t_end']-t),3)); n_ek+=1; continue
         if ad=='adim': sfx('adim1' if alt%2==0 else 'adim2',t,pk); alt+=1; n_ek+=1; continue
-        if ad=='kaz': sfx('kaz-yakin',t,pk); n_ek+=1; continue
+        if ad=='kaz': sfx('kaz-dogal',t,pk); n_ek+=1; continue   # v2.5: dogal vaklama
         if ad=='fren': sfx('yaprak-kayma',t,pk,fo=0.25); n_ek+=1; continue   # v2.2: fren/doink yerine yaprak ustunde kayarak durma
         sfx(ad,t,pk); n_ek+=1
     print('ek efekt cue:',n_ek)
