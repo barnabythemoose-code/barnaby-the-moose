@@ -838,7 +838,7 @@
  {
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/dia/S8-3_B72.wav",
-  "t": 217.058,
+  "t": 216.62,
   "src_t0": 0.0,
   "src_t1": null,
   "fi": 0.005,
@@ -1176,7 +1176,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -25.0
+  "gain_db": -26.0
  },
  {
   "stem": "sfx",
@@ -1190,13 +1190,23 @@
  },
  {
   "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/uzak-cift-can.wav",
-  "t": 85.9,
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/hizli-can.wav",
+  "t": 85.85,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.6,
+  "gain_db": -9.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/hizli-can.wav",
+  "t": 86.55,
   "src_t0": 0.0,
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.8,
-  "gain_db": -10.0
+  "gain_db": -12.0
  },
  {
   "stem": "sfx",
@@ -1237,7 +1247,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -25.0
+  "gain_db": -26.0
  },
  {
   "stem": "sfx",
@@ -1247,7 +1257,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -21.0
+  "gain_db": -22.0
  },
  {
   "stem": "sfx",
@@ -1262,7 +1272,7 @@
  {
   "stem": "sfx",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/el-cani-uzak.wav",
-  "t": 165.95,
+  "t": 165.2,
   "src_t0": 0.0,
   "src_t1": null,
   "fi": 0.005,
@@ -1498,7 +1508,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -19.0
+  "gain_db": -20.0
  },
  {
   "stem": "sfx",
@@ -1519,7 +1529,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -21.0
+  "gain_db": -22.0
  },
  {
   "stem": "sfx",
@@ -1539,7 +1549,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -21.0
+  "gain_db": -22.0
  },
  {
   "stem": "sfx",
@@ -1659,7 +1669,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -23.0
+  "gain_db": -24.0
  },
  {
   "stem": "sfx",
@@ -1679,7 +1689,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -26.0
+  "gain_db": -27.0
  },
  {
   "stem": "sfx",
@@ -2370,7 +2380,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -26.0
+  "gain_db": -27.0
  },
  {
   "stem": "sfx",
@@ -2381,16 +2391,6 @@
   "fi": 0.005,
   "fo": 0.05,
   "gain_db": -22.0
- },
- {
-  "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
-  "t": 89.083,
-  "src_t0": 0.0,
-  "src_t1": null,
-  "fi": 0.005,
-  "fo": 0.05,
-  "gain_db": -24.0
  },
  {
   "stem": "sfx",
@@ -2461,7 +2461,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -24.0
+  "gain_db": -25.0
  },
  {
   "stem": "sfx",
@@ -2471,7 +2471,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -24.0
+  "gain_db": -25.0
  },
  {
   "stem": "sfx",
@@ -2561,7 +2561,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -20.0
+  "gain_db": -21.0
  },
  {
   "stem": "sfx",
@@ -2642,7 +2642,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -19.0
+  "gain_db": -20.0
  },
  {
   "stem": "sfx",
@@ -2802,7 +2802,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -32.0
+  "gain_db": -33.0
  },
  {
   "stem": "sfx",
@@ -3043,7 +3043,7 @@
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -24.0
+  "gain_db": -25.0
  },
  {
   "stem": "sfx",
@@ -3626,7 +3626,7 @@
   "src_t1": 134.0,
   "fi": 2.0,
   "fo": 8.0,
-  "gain_db": -9.1,
+  "gain_db": -13.1,
   "env": [
    [
     0,
@@ -4298,7 +4298,7 @@
   "src_t1": 60.883,
   "fi": 1.5,
   "fo": 1.2,
-  "gain_db": -10.8,
+  "gain_db": -14.8,
   "env": [
    [
     0,
@@ -4742,7 +4742,7 @@
   "src_t1": 54.584,
   "fi": 1.0,
   "fo": 2.5,
-  "gain_db": -7.3,
+  "gain_db": -11.3,
   "env": [
    [
     0,
@@ -4869,23 +4869,23 @@
     -8
    ],
    [
-    19.925,
+    19.487,
     0
+   ],
+   [
+    19.787,
+    -8
    ],
    [
     19.955,
     0
    ],
    [
-    20.225,
+    20.467,
     -8
    ],
    [
-    20.905,
-    -8
-   ],
-   [
-    21.405,
+    20.967,
     0
    ],
    [

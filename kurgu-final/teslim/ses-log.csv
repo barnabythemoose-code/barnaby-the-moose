@@ -60,3 +60,4 @@ sira,zaman,islem,aciklama,varyant,kredi_sonuc(price.credits),not
 59,2026-10-14 13:11,TTS,"v2.2 S8-4 Barnaby: Um... I followed Papa's pie. (eleven_v3, 1 varyant)",1,56.0,
 60,2026-10-14 13:11,SFX,"v2.2 yaprak ustunde kayarak durma (fren yerine, eleven_text_to_sound_v2, 1 varyant)",1,4.67,
 61,2026-10-14 13:11,STT,"v2.2 S8-4 Barnaby yeni replik dogrulama (3,1 sn, scribe_v1)",1,17.16,
+62,2026-10-14 16:17,NOT,"v2.3 yonetmen duzeltmeleri 2. tur: ucretli islem yok (can/replik yerlesimi, muzik -4 dB, yaprak -1 dB)",0,0,

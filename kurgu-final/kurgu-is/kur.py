@@ -66,6 +66,8 @@ for c in old:
         g=10**((DIA_RMS-1.5-(0.5 if kim=='H' else 0)-db(x[int(s0*SR):int(s1*SR)]))/20); x=x*g
         x=x[:min(len(x),int((s1+0.10)*SR))]; n=int(0.06*SR); x[-n:]*=np.linspace(1,0,n,dtype=np.float32)
         path=Y+f"/dia/{c['id']}.wav"; sf.write(path,x,SR,subtype='FLOAT'); dia.append(dict(id=c['id'],t=c['t'],dur=round(len(x)/SR,3),tempo=c.get('tempo',1.0),asim=0,path=path))
+for d in dia:   # v2.3: S8-3 'Mama.' 217.058 -> 216.62 (agiz 216.625-217.08)
+    if d['id']=='S8-3_B72': d['t']=216.62
 # v2.2 S8-4: Anne 'Is that maple?' (anne73 kaynagindan kesit) ve Barnaby 'Um... I followed Papa's pie.' (yeni TTS, B74a yerine)
 dia=[d for d in dia if d['id']!='S8-4_B74a']
 def _put(k,x,t,tp=1.0,extra=0.0,fin=0.02,fout=0.06,tail=0.10):
@@ -144,14 +146,15 @@ sfx('mmf',75.7,-24)                                       # bogulmus mmf
 sfx('pop',77.16,-17)                                      # kurtulma
 sfx('yaprak-citirti',78.4,-31)                            # S4-2 yapisik yaprak
 sfx('ruzgar',80.4,-27,fi=0.4,fo=0.8)                      # 'the wind turned'
-sfx('uzak-cift-can',85.9,-16,fo=0.8)                      # S4-3 DONG DONG
+SF['hizli-can']=norm_sfx('hizli-can','lowpass=f=3800,highpass=f=250',SRC['el-cani'])
+sfx('hizli-can',85.85,-15,fo=0.6); sfx('hizli-can',86.55,-18,fo=0.8)   # v2.3 S4-3 ikinci can: cin-cin el cani iki kume; bas donusu 86.25, Hazel 86.84
 sfx('kaz-surusu',90.2,-23,fi=0.3,fo=0.8)                  # kaz V insert
 sfx('kosu',104.2,-25,fi=0.05,fo=0.35,loop_to=1.25)        # S4-4/S5-1 kosu
 sfx('yun',110.3,-29)                                      # kolla silme
 sfx('yaprak-citirti',111.05,-31)                          # yaprak yapisir
 sfx('yaprak-dususu',120.0,-27)                            # S5-2 yaprak duser
 sfx('ruzgar',125.0,-30,fi=0.8,fo=1.2)                     # gunes batisi esintisi
-sfx('el-cani-uzak',165.95,-23,fo=0.6); sfx('el-cani-uzak',169.3,-27,fo=0.6)   # S6-4 yumusak can
+sfx('el-cani-uzak',165.2,-23,fo=0.6); sfx('el-cani-uzak',169.3,-27,fo=0.6)   # S6-4 yumusak can; v2.3: 165.95->165.2, gozler 165.917'de acilir
 sfx('yun',173.95,-31)                                     # S6-5 burun silme
 sfx('koku',177.6,-27)                                     # serit geri gelir
 sfx('kosu',183.55,-27,fi=0.1,fo=0.5,loop_to=2.4)          # kosu baslar -> S7-1
@@ -164,7 +167,7 @@ import os as _os
 if _os.path.exists(Y+'/ek_efektler.json'):
     EK=json.load(open(Y+'/ek_efektler.json')); man=[(c['file'],c['t']) for c in cues if c['stem']=='sfx']; n_ek=0; alt=0
     # v2.2 yonetmen notlari: gereksiz aksanlar (cin/korna/doink) ve 3:06 fren cikarildi
-    DROP={('ping',63.042),('ping',75.0),('ping',75.375),('ping',78.0),('ping',189.625),('kaz',190.0),('ping',219.5),('fren',186.75)}
+    DROP={('ping',63.042),('ping',75.0),('ping',75.375),('ping',78.0),('ping',189.625),('kaz',190.0),('ping',219.5),('fren',186.75),('ping',89.083)}
     for e in EK:
         ad=e['ad']; t=e['t']; pk=e['tepe']
         if any(ad==a and abs(t-tt)<0.02 for a,tt in DROP): continue
@@ -178,6 +181,8 @@ if _os.path.exists(Y+'/ek_efektler.json'):
     print('ek efekt cue:',n_ek)
 for c in old:                                              # S8-2..S9-2b onaylanmis efektler
     if c['stem']=='sfx' and c['t']>=205: cues.append(dict(c))
+for c in cues:   # v2.3: yaprak hisirtilari -1 dB (kayma haric)
+    if c['stem']=='sfx' and _os.path.basename(c['file']).startswith('yaprak-') and 'yaprak-kayma' not in c['file']: c['gain_db']=round(c['gain_db']-1.0,1)
 # ------------------------------------------------------------------ ORTAM
 def loop_gain(p,target): x=dec(p); return target-db(x)
 GUN=Y+'/sfx/ortam-gunduz-ormani-dongu.mp3'; GECE=Y+'/sfx/ortam-gece-ormani-dongu.mp3'
@@ -199,10 +204,10 @@ def mus(p,t0,t1,fi,fo,target,extra=None):
     g=target-db(dec(p)); e=env_for(t0,t1,0,-8,DWIN)
     if extra: e=sorted(e+extra); e=[q for i,q in enumerate(e) if i==0 or q[0]>e[i-1][0]]
     cue('muzik',p,t0,src_t0=0.0,src_t1=round(t1-t0,3),fi=fi,fo=fo,gain_db=round(g,1),env=e)
-mus(Y+'/muzik/M0_acilis_140s.mp3',0.0,134.0,2.0,8.0,-25.0)
-mus(IS+'/el/muzik/M1_S6-S7_64s.mp3',137.25,137.25+60.883,1.5,1.2,-25.0)
+mus(Y+'/muzik/M0_acilis_140s.mp3',0.0,134.0,2.0,8.0,-29.0)
+mus(IS+'/el/muzik/M1_S6-S7_64s.mp3',137.25,137.25+60.883,1.5,1.2,-29.0)
 lastd=max(b for a,b in DWIN); m2t=196.833; m2e=TOTAL
-mus(IS+'/el/muzik/M2_S8-S9_58s.mp3',m2t,m2e,1.0,2.5,-25.0,extra=[[round(lastd+0.6-m2t,3),0],[round(lastd+1.8-m2t,3),4],[round(m2e-m2t-0.01,3),4]])
+mus(IS+'/el/muzik/M2_S8-S9_58s.mp3',m2t,m2e,1.0,2.5,-29.0,extra=[[round(lastd+0.6-m2t,3),0],[round(lastd+1.8-m2t,3),4],[round(m2e-m2t-0.01,3),4]])
 def _py(o):
     if isinstance(o,dict): return {k:_py(v) for k,v in o.items()}
     if isinstance(o,(list,tuple)): return [_py(v) for v in o]
