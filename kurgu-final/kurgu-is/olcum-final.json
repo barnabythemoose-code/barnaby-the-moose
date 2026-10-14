@@ -1,5 +1,5 @@
 {
- "B": "I -15.7 / TP -2.5 / LRA 7.2",
+ "B": "I -15.7 / TP -1.9 / LRA 7.2",
  "B_probe": {
   "programs": [],
   "streams": [
@@ -24,7 +24,7 @@
    "size": "79636786"
   }
  },
- "A": "I -15.7 / TP -2.8 / LRA 7.2",
+ "A": "I -15.7 / TP -2.1 / LRA 7.3",
  "A_probe": {
   "programs": [],
   "streams": [
