@@ -144,6 +144,7 @@ sfx('toynak3',74.55,-24,src_t1=0.9)                       # son adim
 sfx('thwup',75.26,-17)                                    # burun agaca
 sfx('mmf',75.7,-24)                                       # bogulmus mmf
 sfx('pop',77.16,-17)                                      # kurtulma
+sfx('yaprak-ucusmasi',76.40,-29,fo=0.25)                  # v2.4: govdedeki yaprak havalanip burna ucar (k1834-1843 kompozit)
 sfx('yaprak-citirti',78.4,-31)                            # S4-2 yapisik yaprak
 sfx('ruzgar',80.4,-27,fi=0.4,fo=0.8)                      # 'the wind turned'
 SF['hizli-can']=norm_sfx('hizli-can','lowpass=f=3800,highpass=f=250',SRC['el-cani'])

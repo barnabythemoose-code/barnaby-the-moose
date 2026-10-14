@@ -1170,6 +1170,16 @@
  },
  {
   "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-ucusmasi.wav",
+  "t": 76.4,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.25,
+  "gain_db": -24.0
+ },
+ {
+  "stem": "sfx",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-citirti.wav",
   "t": 78.4,
   "src_t0": 0.0,
