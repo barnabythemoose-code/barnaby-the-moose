@@ -523,7 +523,7 @@
  {
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/who-s-there_v1_vrl0xM.mp3",
-  "t": 206.517,
+  "t": 207.187,
   "gain_db": -0.4,
   "tempo": 1.0,
   "fi": 0.01,
@@ -533,7 +533,7 @@
  {
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/they-kept-the-bell-for-you_v3_1s7eI1.mp3",
-  "t": 207.897,
+  "t": 207.997,
   "gain_db": 2.8,
   "tempo": 1.0,
   "fi": 0.01,
@@ -553,7 +553,7 @@
  {
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/barnaby_v2_xNZJzx.mp3",
-  "t": 212.798,
+  "t": 215.248,
   "gain_db": -3.5,
   "tempo": 1.0,
   "fi": 0.01,
@@ -563,7 +563,7 @@
  {
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc_tts/mama_v3_ULpeZl.mp3",
-  "t": 215.808,
+  "t": 217.058,
   "gain_db": -1.5,
   "tempo": 1.0,
   "fi": 0.01,
@@ -572,30 +572,40 @@
  },
  {
   "stem": "diyalog",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts_kirp/anne73.wav",
-  "t": 219.643,
-  "gain_db": -5.9,
-  "tempo": 1.05,
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts_kirp/anne73a.wav",
+  "t": 219.644,
+  "gain_db": -6.6,
+  "tempo": 1.08,
   "fi": 0.01,
   "fo": 0.03,
   "id": "S8-4_A73"
  },
  {
   "stem": "diyalog",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/vc_tts/ifollowed_v2_NtsFQk.mp3",
-  "t": 222.529,
-  "gain_db": 1.8,
-  "tempo": 1.05,
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts_kirp/b74a.wav",
+  "t": 223.486,
+  "gain_db": 1.9,
+  "tempo": 1.1,
   "fi": 0.01,
   "fo": 0.03,
-  "id": "S8-4_B74"
+  "id": "S8-4_B74a"
+ },
+ {
+  "stem": "diyalog",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts_kirp/b74b.wav",
+  "t": 227.68,
+  "gain_db": 1.2,
+  "tempo": 1.0,
+  "fi": 0.01,
+  "fo": 0.03,
+  "id": "S8-4_B74b"
  },
  {
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts/papa-s-pie-has-a-tree-in-it_v1_Ntrjo9.mp3",
-  "t": 225.898,
+  "t": 225.055,
   "gain_db": -3.9,
-  "tempo": 1.05,
+  "tempo": 1.1,
   "fi": 0.01,
   "fo": 0.03,
   "id": "S8-4_A75"
@@ -603,7 +613,7 @@
  {
   "stem": "diyalog",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/tts_kirp/baba76.wav",
-  "t": 228.56,
+  "t": 228.66,
   "gain_db": -1.9,
   "tempo": 1.0,
   "fi": 0.01,
@@ -1278,28 +1288,24 @@
     0
    ],
    [
-    9.134,
+    9.804,
     0
    ],
    [
-    9.434,
+    10.104,
     -8
    ],
    [
-    10.514,
+    10.614,
     0
    ],
    [
-    10.814,
+    10.914,
     -8
    ],
    [
-    11.601,
+    12.271,
     -8
-   ],
-   [
-    12.201,
-    0
    ],
    [
     12.294,
@@ -1310,11 +1316,15 @@
     -8
    ],
    [
-    13.295,
+    12.871,
+    0
+   ],
+   [
+    13.395,
     -8
    ],
    [
-    13.895,
+    13.995,
     0
    ],
    [
@@ -1326,36 +1336,32 @@
     0
    ],
    [
-    15.415,
+    17.865,
     0
    ],
    [
-    15.715,
+    18.165,
     -8
    ],
    [
-    17.726,
-    -8
-   ],
-   [
-    18.326,
+    19.675,
     0
    ],
    [
-    18.425,
-    0
-   ],
-   [
-    18.725,
+    19.975,
     -8
    ],
    [
-    20.344,
+    20.176,
     -8
    ],
    [
-    20.944,
+    20.776,
     0
+   ],
+   [
+    21.594,
+    -8
    ],
    [
     21.667,
@@ -1366,7 +1372,11 @@
     3.0
    ],
    [
-    22.26,
+    22.194,
+    0
+   ],
+   [
+    22.261,
     0
    ],
    [
@@ -1374,55 +1384,71 @@
     3.0
    ],
    [
-    22.56,
+    22.561,
     -8
    ],
    [
-    25.146,
+    24.967,
+    -8
+   ],
+   [
+    25.567,
     0
    ],
    [
-    25.446,
-    -8
-   ],
-   [
-    26.364,
-    -8
-   ],
-   [
-    26.964,
+    26.103,
     0
    ],
    [
-    28.515,
+    26.403,
+    -8
+   ],
+   [
+    27.672,
     0
    ],
    [
-    28.815,
+    27.972,
     -8
    ],
    [
-    29.305,
+    28.621,
     -8
    ],
    [
-    29.905,
+    29.221,
     0
    ],
    [
-    31.177,
+    30.297,
     0
    ],
    [
-    31.477,
+    30.597,
     -8
    ],
    [
-    32.127,
+    31.16,
     -8
    ],
    [
-    32.727,
+    31.277,
+    0
+   ],
+   [
+    31.577,
+    -8
+   ],
+   [
+    31.76,
+    0
+   ],
+   [
+    32.507,
+    -8
+   ],
+   [
+    33.107,
     0
    ],
    [
@@ -1434,11 +1460,11 @@
     -8
    ],
    [
-    34.157,
+    34.257,
     -8
    ],
    [
-    34.757,
+    34.857,
     0
    ],
    [
