@@ -84,17 +84,17 @@ Son kart: koyu lacivert (0x0a1428) üstüne logo 420 px, 0,3–1,2 sn alfa giri�
 |---|---|---|---|
 | Integrated loudness | −16…−14 LUFS | -15,70 | -15,70 |
 | True peak | ≤ −1 dBTP | -2,50 | -2,50 |
-| LRA | ≤ 8 LU | 7,20 | 7,20 |
+| LRA | ≤ 8 LU | 7,00 | 7,00 |
 | Tam sessizlik > 1,5 sn | yok | 0 | 0 |
-| Kesimde M−3s sıçraması > +6 dB | yok | 1 | 1 |
-| Final mp4 (AAC) I / TP / LRA | | I -15.7 / TP -1.9 / LRA 7.2 | I -15.7 / TP -2.1 / LRA 7.3 |
+| Kesimde M−3s sıçraması > +6 dB | yok | 0 | 0 |
+| Final mp4 (AAC) I / TP / LRA | | I -15.7 / TP -2.6 / LRA 7.1 | I -15.7 / TP -2.2 / LRA 7.1 |
 | Donuk kare (freezedetect −60 dB, 0,4 sn) | elle bak | 8,4–9,1 ve 36,6–38,4 (blok, dokunulmadı); 155,4–155,8 (D2, Hazel repliği üstünde, kaynak); 164,9–165,3 (E2 dinleme tutuşu); 249,1→son (kart) | aynı |
 | Flaş (ΔY≥12, sn başına >3) | yok | 11. sn (blok) ve 229–230 (S8-4 Baba kesmesi) — ikisi de strob değil | aynı |
 | Kesimde ortalama Y sıçraması > 15 | yumuşat | 3 kesim, 0,5 sn pozlama rampası uygulandı | aynı |
 
 **Kesim parlaklık farkları (son kare → ilk kare, Y/255):** S1-S4 blok→S5-1a +0,7; S5-1a→S5-1b +23,6; S5-1b→S5-2a -0,9; S5-2a→S5-2b -2,3; S5-2b→S5-2c -2,3; S5-2c→S5-3a -2,2; S5-3a→S5-3b +6,2; S5-3b→S6-1 -0,3; S6-1→S6-2-D1 +0,3; S6-2-D1→S6-2-D2 +0,5; S6-2-D2→S6-3-E1 -1,7; S6-3-E1→S6-3-E2 -1,9; S6-3-E2→S6-4 +0,5; S6-4→S6-5 -2,2; S6-5→S7-1-B +0,8; S7-1-B→S8-1-B2 genis -27,0; S8-1-B2 genis→S8-1-B2 Anne punch-in +0,2; S8-1-B2 Anne punch-in→S8-2 +0,3; S8-2→S8-3 -3,4; S8-3→S8-4 -19,9; S8-4→S9-1 +0,4; S9-1→S9-2a +1,3; S9-2a→S9-2b +6,2; S9-2b→Son kart -3,3
 
-**Parça bazlı RMS (B, dBFS):** S1-S4 blok -18,6; S5-1a -18,1; S5-1b -25,8; S5-2a -25,1; S5-2b -24,5; S5-2c -26,2; S5-3a -30,1; S5-3b -19,1; S6-1 -19,4; S6-2-D1 -20,0; S6-2-D2 -19,0; S6-3-E1 -19,1; S6-3-E2 -20,1; S6-4 -19,0; S6-5 -18,7; S7-1-B -18,5; S8-1-B2 genis -17,0; S8-1-B2 Anne punch-in -20,5; S8-2 -20,5; S8-3 -22,8; S8-4 -18,5; S9-1 -18,6; S9-2a -21,1; S9-2b -21,1; Son kart -34,8
+**Parça bazlı RMS (B, dBFS):** S1-S4 blok -18,6; S5-1a -18,1; S5-1b -25,8; S5-2a -25,1; S5-2b -24,5; S5-2c -26,2; S5-3a -27,4; S5-3b -19,1; S6-1 -19,4; S6-2-D1 -20,0; S6-2-D2 -19,0; S6-3-E1 -19,1; S6-3-E2 -20,1; S6-4 -19,0; S6-5 -18,7; S7-1-B -18,5; S8-1-B2 genis -17,0; S8-1-B2 Anne punch-in -20,5; S8-2 -20,5; S8-3 -22,8; S8-4 -18,5; S9-1 -18,6; S9-2a -21,1; S9-2b -21,1; Son kart -34,8
 
 ## 6. STT ters test (replik bazlı)
 | Replik | Kaynak | Beklenen | STT sonucu | Durum |
