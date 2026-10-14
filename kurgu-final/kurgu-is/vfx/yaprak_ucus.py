@@ -27,8 +27,11 @@ yy0,yy1=max(0,ys.min()-3),ys.max()+4; xx0,xx1=max(0,xs.min()-3),xs.max()+4
 spr_rgb=reg[yy0:yy1,xx0:xx1]; spr_a=alpha[yy0:yy1,xx0:xx1]
 spr=Image.fromarray((np.dstack([spr_rgb,spr_a[...,None]])*255).astype(np.uint8),'RGBA'); spr.save(OUT+'/_sprite.png'); print('sprite',spr.size,'cekirdek rgb',np.round(spr_rgb[spr_a>0.95].mean(axis=0)*255))
 # --- 2) govde yamasi: kamera sabit; k1844'ten ayni koordinatlardan gercek kabuk, tuylu dikdortgen
-pm=np.zeros((H,Wd),np.float32); pm[464:580,956:1086]=1.0; pm=ndi.gaussian_filter(pm,2.0)
-def patch_trunk(img): return img*(1-pm[...,None])+after*pm[...,None]
+foot=np.zeros((H,Wd),bool); foot[y0:y1,x0:x1]=mask; foot=ndi.binary_dilation(foot,iterations=8); pm_leaf=ndi.gaussian_filter(foot.astype(np.float32),1.5)
+pm_wide=np.zeros((H,Wd),np.float32); pm_wide[464:580,956:1086]=1.0; pm_wide=ndi.gaussian_filter(pm_wide,2.0)
+def patch_trunk(img,w_wide):
+    pm=np.maximum(pm_leaf,pm_wide*w_wide)            # yaprak izi tam; genis bolge native->k1844 erimesi
+    return img*(1-pm[...,None])+after*pm[...,None]
 # --- 2b) sap damlasi matte'i (k1843): yaprak damlanin arkasinda kalsin
 b=base*255; sap=(b[...,0]>190)&(b[...,1]>110)&(b[...,2]<140); sap[:, :820]=False; sap[:, 960:]=False; sap[:250,:]=False; sap[420:,:]=False
 sap=ndi.binary_dilation(sap,iterations=2); sapm=ndi.gaussian_filter(sap.astype(np.float32),1.0); print('sap matte px',int(sap.sum()))
@@ -39,23 +42,25 @@ def pos_e(e): return P0+(P1-P0)*e+np.array([30.0,-22.0])*np.sin(np.pi*e**0.85)*0
 ROT=np.cumsum([0,0,6,14,24,36,48,58,66,72]).astype(np.float32)
 def rot_e(e): return -float(np.interp(e,E,ROT))
 def scale_e(e): return 1.0+0.12*e
-def render_sprite(e):
-    im=spr.rotate(rot_e(e),resample=Image.BICUBIC,expand=True); sc=scale_e(e)
+def render_sprite(e,er=None):
+    er=e if er is None else er
+    im=spr.rotate(rot_e(er),resample=Image.BICUBIC,expand=True); sc=scale_e(e)
     im=im.resize((max(2,int(round(im.width*sc))),max(2,int(round(im.height*sc)))),Image.LANCZOS)
     p=pos_e(e); return im,(int(round(p[0]-im.width/2)),int(round(p[1]-im.height/2)))
-def layer(e_prev,e,sub=40,shutter=0.4):
-    acc=np.zeros((H,Wd,4),np.float32); d=e-e_prev
+def layer(e_prev,e,sub=40,shutter=0.4,shutter_rot=None):
+    acc=np.zeros((H,Wd,4),np.float32); d=e-e_prev; sr=shutter if shutter_rot is None else shutter_rot
     for j in range(sub):
-        t=e-d*shutter/2+d*shutter*(j+0.5)/sub          # merkezli, uzunluk = 0.4 x yer degistirme
-        im,(px,py)=render_sprite(t); tmp=Image.new('RGBA',(Wd,H),(0,0,0,0)); tmp.alpha_composite(im,(px,py)); a=np.asarray(tmp).astype(np.float32)/255
+        t=e-d*shutter/2+d*shutter*(j+0.5)/sub          # merkezli, uzunluk = shutter x yer degistirme
+        tr=e-d*sr/2+d*sr*(j+0.5)/sub
+        im,(px,py)=render_sprite(t,tr); tmp=Image.new('RGBA',(Wd,H),(0,0,0,0)); tmp.alpha_composite(im,(px,py)); a=np.asarray(tmp).astype(np.float32)/255
         acc[...,:3]+=a[...,:3]*a[...,3:4]; acc[...,3]+=a[...,3]
     cov=acc[...,3]/sub; rgb=acc[...,:3]/np.maximum(acc[...,3:4],1e-6); return rgb,np.clip(cov*1.6,0,1)
 RAMP={1839:(1.02,3,2),1840:(1.10,7,4),1841:(1.19,11,7),1842:(1.29,17,10),1843:(1.34,21,13)}
 prev_e=0.0
 for i in range(N):
     k=K0+i; img=load(k); e=float(E[i])
-    img=patch_trunk(img)
-    rgb,a=layer(prev_e,e,shutter={1841:0.5,1842:0.6,1843:0.75}.get(k,0.4))
+    img=patch_trunk(img,(i+1)/N)
+    rgb,a=layer(prev_e,e,shutter={1841:0.5,1842:0.6,1843:0.75}.get(k,0.4),shutter_rot={1842:0.4,1843:0.4}.get(k,None))
     if k in RAMP:
         g,lg,lb=RAMP[k]; rgb=np.clip(rgb*g+np.array([0,lg/255,lb/255]),0,1)
     if k==1843: a=a*(1-sapm)                           # damla yapragin onunde
