@@ -40,3 +40,4 @@ sira,zaman,islem,aciklama,varyant,kredi_sonuc(price.credits),not
 39,2026-10-13T19:20,STT,"S6-S8-1 bolgesi (69 sn) ters test; ortam duzeltmesi sonrasi",1,379.5,
 40,2026-10-13T21:38,SFX,"cizgi film toynak tepik (S9-1) x4 varyant",4,12.0,
 41,2026-10-13T22:30,NOT,"Revizyon 2: ucretli islem yalniz #40 (tepik SFX 12 kredi); VFX/ses duzeltmeleri ucretsiz",0,0,
+42,2026-10-14T00:36,ISOLATION,"ses ayirma: blok 8-44 sn (36 sn) + S5-2c/3a/3b (20 sn); dugum basina 4 varyant uretildi",8,3745.2,varsayilan varyant sayisi 4; tek varyant yeterdi (ders: run_flow_nodes yerine tek uretim)

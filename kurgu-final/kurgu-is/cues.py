@@ -22,7 +22,7 @@ def cue(stem,file,t,**k):
 def dlg(file,t,hedef=-17.0,tempo=1.0,**k):
     cue('diyalog',file,t,gain_db=round(hedef-lufs(file),1),tempo=tempo,fi=k.pop('fi',0.01),fo=k.pop('fo',0.03),**k)
 # 1) S1-S4 blok (dokunulmaz, 0 dB)
-cue('blok', SES+'TG-ARA-KURGU-S1-S4-mobil-v2.wav', 0.0, src_t1=T['S1-S4 blok']['t1'], fi=0, fo=0.04)
+cue('blok', IS+'/ses_dn/TG-ARA-KURGU-S1-S4-mobil-v2_rev.wav', 0.0, src_t1=T['S1-S4 blok']['t1'], fi=0, fo=0.04)
 # 2) hazir miksler: S5 (7 parca) + D1 + E1 ; B=efektli, A=efektsiz
 HZ=[('S5-1a','TG-S5-1a-B-efektli-r3.wav','TG-S5-1a-A-efektsiz-r3.wav'),('S5-1b','TG-S5-1b-B-efektli-r2.wav','TG-S5-1b-A-efektsiz-r2.wav'),('S5-2a','TG-S5-2a_B-efektli.wav','TG-S5-2a_A-efektsiz.wav'),('S5-2b','TG-S5-2b_B-efektli.wav','TG-S5-2b_A-efektsiz.wav'),('S5-2c','TG-S5-2c_B-efektli.wav','TG-S5-2c_A-efektsiz.wav'),('S5-3a','TG-S5-3a_B-efektli.wav','TG-S5-3a_A-efektsiz.wav'),('S5-3b','TG-S5-3b_B-efektli.wav','TG-S5-3b_A-efektsiz.wav'),('S6-2-D1','TG-S6-2-D1-B-efektli-v3.wav','TG-S6-2-D1-A-efektsiz-v3.wav'),('S6-3-E1','TG-S6-3-E1-B-efektli-v2-dinleme.wav','TG-S6-3-E1-A-efektsiz-v2-dinleme.wav')]
 HZ_GAIN=1.5   # hazir miksler bloktan ~3 dB alcak olculdu; yarisini kapat
