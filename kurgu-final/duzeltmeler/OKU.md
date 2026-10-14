@@ -1,0 +1,14 @@
+# B090 — yalnız düzeltilen bölgeler (film zaman çizelgesine göre)
+
+Tümü 48 kHz stereo, FLAC (ffmpeg -i x.flac x.wav ile birebir wav). "miks" dosyaları final B miksinden kesildi (−15,7 LUFS normalize; müzik+efekt dahil); doğrudan o aralığın yerine konur.
+
+| Dosya | Yer | İçerik |
+|---|---|---|
+| 1_blok_0m08-0m44_miks.flac | 0:08,000–0:44,000 | Blok penceresi: temiz diyalog (ElevenLabs ses ayırma) + orijinal karışım −10 dB + sakin rüzgâr; 0:14–0:16 gürültü −8 dB, 0:26 yaprak −10 dB ek. Kenarlarda 0,5 sn çapraz payı var. |
+| 1b_… yeni-ses_normalizesiz | aynı | Aynı pencere, miks normalizasyonu olmadan (kendi seviyende kullanmak için). |
+| 1c_… sadece-diyalog | aynı | Yalnız ayrılmış diyalog (kendi yatağını koymak istersen). |
+| 2_S5-2c-3a-3b_2m00.6-2m18.7_miks.flac | 2:00,625–2:18,750 | S5-2c + S5-3a + S5-3b yeniden kurulmuş (temiz diyalog + orijinal −12 dB + yatak) + M1 müzik girişi (2:17,25'ten). |
+| 2b_TG-S5-2c/3a/3b_B-efektli_yeni | klip bazlı | Hazır B mikslerinin yeni sürümleri (03 klasöründekilerin yerine). |
+| 2c_… sadece-diyalog | — | Ayrılmış diyalog, üç klip arka arkaya (2c 0–4,04; 3a 4,54–8,58; 3b 9,08–20,1 sn). |
+| 3_S9-1_3m50.3-3m58.3_miks_tepikli.flac | 3:50,292–3:58,333 | S9-1: çan 3:53,4; Baba tepik 3:54,7 ve 3:55,3; Barnaby 3:56,2 / 3:56,6 / 3:57,0 / 3:57,2 / 3:57,4 / 3:57,5 / 3:57,8; müzik seri boyunca −7 dB. |
+| 3b_tepik_agir.mp3 / 3b_tepik_hafif.flac | — | Tepik efektleri (ağır = Baba, hafif = Barnaby, %12 tiz). |
