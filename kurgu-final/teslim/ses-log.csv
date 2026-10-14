@@ -57,3 +57,6 @@ sira,zaman,islem,aciklama,varyant,kredi_sonuc(price.credits),not
 56,2026-10-14 10:17,TTS,sifirdan ses: S6-2-D1 (2) ve S6-3-E1 (2) hazir miks replikleri yerine TTS,4,241,
 57,2026-10-14 10:38,STT,sifirdan ses: tum diyalog stemi dogrulama (251 sn),1,1382.79,node aQaaapBDl7sCCwMleu6A
 58,2026-10-14 11:24,SFX,"efekt tarama turu: 10 cizgi film aksani (fren kayma, doink, yaprak ucusmasi, whoosh, ziplama, inis, dortnala dongu, ping, govde pat, boynuz dal)",10,55.0,
+59,2026-10-14 13:11,TTS,"v2.2 S8-4 Barnaby: Um... I followed Papa's pie. (eleven_v3, 1 varyant)",1,56.0,
+60,2026-10-14 13:11,SFX,"v2.2 yaprak ustunde kayarak durma (fren yerine, eleven_text_to_sound_v2, 1 varyant)",1,4.67,
+61,2026-10-14 13:11,STT,"v2.2 S8-4 Barnaby yeni replik dogrulama (3,1 sn, scribe_v1)",1,17.16,

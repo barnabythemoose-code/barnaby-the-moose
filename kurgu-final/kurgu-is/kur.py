@@ -66,6 +66,18 @@ for c in old:
         g=10**((DIA_RMS-1.5-(0.5 if kim=='H' else 0)-db(x[int(s0*SR):int(s1*SR)]))/20); x=x*g
         x=x[:min(len(x),int((s1+0.10)*SR))]; n=int(0.06*SR); x[-n:]*=np.linspace(1,0,n,dtype=np.float32)
         path=Y+f"/dia/{c['id']}.wav"; sf.write(path,x,SR,subtype='FLOAT'); dia.append(dict(id=c['id'],t=c['t'],dur=round(len(x)/SR,3),tempo=c.get('tempo',1.0),asim=0,path=path))
+# v2.2 S8-4: Anne 'Is that maple?' (anne73 kaynagindan kesit) ve Barnaby 'Um... I followed Papa's pie.' (yeni TTS, B74a yerine)
+dia=[d for d in dia if d['id']!='S8-4_B74a']
+def _put(k,x,t,tp=1.0,extra=0.0,fin=0.02,fout=0.06,tail=0.10):
+    x=atempo(x,tp) if abs(tp-1.0)>1e-3 else x; s0,s1=span(x)
+    x=x[max(0,int(s0*SR)-int(0.03*SR)):min(len(x),int((s1+tail)*SR))]
+    g=10**((DIA_RMS-1.5+extra-db(x[int(0.03*SR):]))/20); x=x*g
+    n=int(fin*SR); x[:n]*=np.linspace(0,1,n,dtype=np.float32); n=int(fout*SR); x[-n:]*=np.linspace(1,0,n,dtype=np.float32)
+    path=Y+f'/dia/{k}.wav'; sf.write(path,x,SR,subtype='FLOAT'); dia.append(dict(id=k,t=round(t,3),dur=round(len(x)/SR,3),tempo=tp,asim=0,path=path))
+_put('S8-4_A73b',dec(Y+'/tts/S8-4_A73b_maple.wav'),221.50,tp=1.15)                 # agiz 221.25-222.1, kesme 222.417
+_xu=dec(Y+'/tts/S8-4_B74um.mp3')
+_put('S8-4_B74um',_xu[int(0.087*SR):int(1.036*SR)],222.93,tp=1.75,extra=-3.0,fout=0.08,tail=0.0)   # kapali agizla 'Mm/Um' 222.93-223.47
+_put('S8-4_B74a',_xu[int(1.40*SR):int(2.72*SR)],223.47-0.03)                        # agiz 223.125-224.35 (+224.5-224.65)
 dia.sort(key=lambda d:d['t'])
 # cakisma kontrolu: sonraki replikten en az 60 ms once bit
 for i in range(len(dia)-1):
@@ -95,7 +107,7 @@ SRC={
  'uzak-cift-can':Y+'/sfx/uzak-cift-can.mp3','kosu':Y+'/sfx/kosu-adimlari-dongu.mp3','uzun-koklama':Y+'/sfx/uzun-koklama.mp3',
  'thwup':Y+'/sfx/thwup.mp3','pop':Y+'/sfx/pop.mp3','kaz-surusu':Y+'/sfx/kaz-surusu.mp3','yaprak-dususu':Y+'/sfx/yaprak-dususu.mp3',
  'surup':Y+'/sfx/surup-damlasi.mp3','koku':Y+'/sfx/koku-seridi.mp3','ruzgar':Y+'/sfx/ruzgar-esintisi.mp3',
- 'fren':Y+'/sfx/fren-kayma.mp3','doink':Y+'/sfx/doink.mp3','yaprak-ucusmasi':Y+'/sfx/yaprak-ucusmasi.mp3','whoosh':Y+'/sfx/whoosh.mp3',
+ 'fren':Y+'/sfx/fren-kayma.mp3','yaprak-kayma':Y+'/sfx/yaprak-kayma.mp3','doink':Y+'/sfx/doink.mp3','yaprak-ucusmasi':Y+'/sfx/yaprak-ucusmasi.mp3','whoosh':Y+'/sfx/whoosh.mp3',
  'ziplama':Y+'/sfx/ziplama.mp3','inis':Y+'/sfx/inis.mp3','dortnala':Y+'/sfx/dortnala-dongu.mp3','ping':Y+'/sfx/ping.mp3',
  'govde-pat':Y+'/sfx/govde-pat.mp3','boynuz-dal':Y+'/sfx/boynuz-dal.mp3','yapiskan':IS+'/el/sfx/a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI.mp3',
  'kaz':IS+'/el/sfx/one-single-distant-canada-goose-honk-hig_v1_2Wv0AU.mp3',
@@ -151,14 +163,17 @@ sfx('cift-can',203.1,-21,fo=0.8)                          # ding... dong
 import os as _os
 if _os.path.exists(Y+'/ek_efektler.json'):
     EK=json.load(open(Y+'/ek_efektler.json')); man=[(c['file'],c['t']) for c in cues if c['stem']=='sfx']; n_ek=0; alt=0
+    # v2.2 yonetmen notlari: gereksiz aksanlar (cin/korna/doink) ve 3:06 fren cikarildi
+    DROP={('ping',63.042),('ping',75.0),('ping',75.375),('ping',78.0),('ping',189.625),('kaz',190.0),('ping',219.5),('fren',186.75)}
     for e in EK:
         ad=e['ad']; t=e['t']; pk=e['tepe']
+        if any(ad==a and abs(t-tt)<0.02 for a,tt in DROP): continue
         fam={'kaz':'kaz-yakin','adim':None}.get(ad,ad)
         if fam and any(_os.path.basename(f).startswith(fam) and abs(tt-t)<0.35 for f,tt in man): continue
         if e['tur']=='dongu': sfx('dortnala',t,pk,fi=0.15,fo=0.45,loop_to=round(max(0.8,e['t_end']-t),3)); n_ek+=1; continue
         if ad=='adim': sfx('adim1' if alt%2==0 else 'adim2',t,pk); alt+=1; n_ek+=1; continue
         if ad=='kaz': sfx('kaz-yakin',t,pk); n_ek+=1; continue
-        if ad=='fren': sfx('fren',t,pk); sfx('doink',t+0.42,pk-3); n_ek+=2; continue
+        if ad=='fren': sfx('yaprak-kayma',t,pk,fo=0.25); n_ek+=1; continue   # v2.2: fren/doink yerine yaprak ustunde kayarak durma
         sfx(ad,t,pk); n_ek+=1
     print('ek efekt cue:',n_ek)
 for c in old:                                              # S8-2..S9-2b onaylanmis efektler
