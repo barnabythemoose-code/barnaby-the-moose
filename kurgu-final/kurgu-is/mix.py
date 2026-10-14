@@ -22,7 +22,7 @@ for ad,names in [('B',['blok','hazirB','diyalog','ortam','sfx','muzik']),('A',['
     subprocess.run(['ffmpeg','-v','error','-y','-i',raw,'-af','acompressor=threshold=-30dB:ratio=1.35:attack=40:release=700:knee=4','-c:a','pcm_f32le',comp],check=True)
     I,LRA,TP=ebur(comp); g=-15.0-I
     fin=OUT+f'mix{ad}.wav'
-    subprocess.run(['ffmpeg','-v','error','-y','-i',comp,'-af',f'volume={g:.2f}dB,alimiter=limit=0.72:attack=5:release=80:level=false','-c:a','pcm_s24le',fin],check=True)
+    subprocess.run(['ffmpeg','-v','error','-y','-i',comp,'-af',f'volume={g:.2f}dB,alimiter=limit=0.64:attack=5:release=80:level=false','-c:a','pcm_s24le',fin],check=True)
     I2,LRA2,TP2=ebur(fin)
     # sessizlik (>1,5 sn, -50 dB)
     o=subprocess.run(['ffmpeg','-i',fin,'-af','silencedetect=n=-50dB:d=1.5','-f','null','-'],capture_output=True,text=True).stderr

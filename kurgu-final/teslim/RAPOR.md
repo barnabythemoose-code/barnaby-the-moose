@@ -81,19 +81,19 @@ Son kart: koyu lacivert (0x0a1428) üstüne logo 420 px, 0,3–1,2 sn alfa giri�
 ## 5. Ölçüm tablosu
 | Ölçüm | Hedef | B (efektli) | A (efektsiz) |
 |---|---|---|---|
-| Integrated loudness | −16…−14 LUFS | -15,30 | -15,30 |
-| True peak | ≤ −1 dBTP | -1,50 | -1,50 |
-| LRA | ≤ 8 LU | 7,90 | 8,00 |
+| Integrated loudness | −16…−14 LUFS | -15,60 | -15,60 |
+| True peak | ≤ −1 dBTP | -2,50 | -2,50 |
+| LRA | ≤ 8 LU | 8,10 | 8,10 |
 | Tam sessizlik > 1,5 sn | yok | 0 | 0 |
-| Kesimde M−3s sıçraması > +6 dB | yok | 0 | 0 |
-| Final mp4 (AAC) I / TP / LRA | | I -15.6 / TP -2.7 / LRA 7.6 | I -15.3 / TP -1.5 / LRA 8.0 |
+| Kesimde M−3s sıçraması > +6 dB | yok | 1 | 1 |
+| Final mp4 (AAC) I / TP / LRA | | I -15.6 / TP -2.4 / LRA 8.1 | I -15.6 / TP -2.8 / LRA 8.1 |
 | Donuk kare (freezedetect −60 dB, 0,4 sn) | elle bak | 8,4–9,1 ve 36,6–38,4 (blok, dokunulmadı); 155,4–155,8 (D2, Hazel repliği üstünde, kaynak); 164,9–165,3 (E2 dinleme tutuşu); 249,1→son (kart) | aynı |
 | Flaş (ΔY≥12, sn başına >3) | yok | 11. sn (blok) ve 229–230 (S8-4 Baba kesmesi) — ikisi de strob değil | aynı |
 | Kesimde ortalama Y sıçraması > 15 | yumuşat | 3 kesim, 0,5 sn pozlama rampası uygulandı | aynı |
 
 **Kesim parlaklık farkları (son kare → ilk kare, Y/255):** S1-S4 blok→S5-1a +0,7; S5-1a→S5-1b +23,6; S5-1b→S5-2a -0,9; S5-2a→S5-2b -2,3; S5-2b→S5-2c -2,3; S5-2c→S5-3a -2,2; S5-3a→S5-3b +6,2; S5-3b→S6-1 -0,3; S6-1→S6-2-D1 +0,3; S6-2-D1→S6-2-D2 +0,5; S6-2-D2→S6-3-E1 -1,7; S6-3-E1→S6-3-E2 -1,9; S6-3-E2→S6-4 +0,5; S6-4→S6-5 -2,2; S6-5→S7-1-B +0,8; S7-1-B→S8-1-B2 genis -27,0; S8-1-B2 genis→S8-1-B2 Anne punch-in +0,2; S8-1-B2 Anne punch-in→S8-2 +0,3; S8-2→S8-3 -3,4; S8-3→S8-4 -19,9; S8-4→S9-1 +0,4; S9-1→S9-2a +1,3; S9-2a→S9-2b +6,2; S9-2b→Son kart -3,3
 
-**Parça bazlı RMS (B, dBFS):** S1-S4 blok -18,2; S5-1a -18,2; S5-1b -26,1; S5-2a -25,4; S5-2b -24,8; S5-2c -24,1; S5-3a -28,4; S5-3b -19,9; S6-1 -19,6; S6-2-D1 -20,3; S6-2-D2 -19,1; S6-3-E1 -19,4; S6-3-E2 -20,3; S6-4 -18,9; S6-5 -18,9; S7-1-B -18,6; S8-1-B2 genis -17,3; S8-1-B2 Anne punch-in -20,7; S8-2 -20,6; S8-3 -23,1; S8-4 -18,6; S9-1 -19,6; S9-2a -21,1; S9-2b -21,2; Son kart -35,1
+**Parça bazlı RMS (B, dBFS):** S1-S4 blok -18,6; S5-1a -18,4; S5-1b -26,2; S5-2a -25,5; S5-2b -24,9; S5-2c -24,8; S5-3a -33,5; S5-3b -20,2; S6-1 -19,8; S6-2-D1 -20,4; S6-2-D2 -19,4; S6-3-E1 -19,5; S6-3-E2 -20,5; S6-4 -19,3; S6-5 -19,1; S7-1-B -18,8; S8-1-B2 genis -17,4; S8-1-B2 Anne punch-in -20,9; S8-2 -20,8; S8-3 -23,2; S8-4 -18,8; S9-1 -19,0; S9-2a -21,5; S9-2b -21,4; Son kart -35,2
 
 ## 6. STT ters test (replik bazlı)
 | Replik | Kaynak | Beklenen | STT sonucu | Durum |

@@ -89,7 +89,7 @@
  },
  {
   "stem": "hazirB",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-2c_B-efektli.wav",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses_dn/TG-S5-2c_B-efektli.wav",
   "t": 120.625,
   "src_t0": 0.0,
   "src_t1": 4.02,
@@ -99,7 +99,7 @@
  },
  {
   "stem": "hazirA",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-2c_A-efektsiz.wav",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses_dn/TG-S5-2c_A-efektsiz.wav",
   "t": 120.625,
   "src_t0": 0.0,
   "src_t1": 4.02,
@@ -109,27 +109,27 @@
  },
  {
   "stem": "hazirB",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-3a_B-efektli.wav",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses_dn/TG-S5-3a_B-efektli.wav",
   "t": 124.625,
   "src_t0": 0.0,
   "src_t1": 3.645,
   "fi": 0.02,
   "fo": 0.04,
-  "gain_db": 4.0
+  "gain_db": 2.5
  },
  {
   "stem": "hazirA",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-3a_A-efektsiz.wav",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses_dn/TG-S5-3a_A-efektsiz.wav",
   "t": 124.625,
   "src_t0": 0.0,
   "src_t1": 3.645,
   "fi": 0.02,
   "fo": 0.04,
-  "gain_db": 4.0
+  "gain_db": 2.5
  },
  {
   "stem": "hazirB",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-3b_B-efektli.wav",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses_dn/TG-S5-3b_B-efektli.wav",
   "t": 128.25,
   "src_t0": 0.0,
   "src_t1": 11.02,
@@ -149,7 +149,7 @@
  },
  {
   "stem": "hazirA",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses/TG-S5-3b_A-efektsiz.wav",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/ses_dn/TG-S5-3b_A-efektsiz.wav",
   "t": 128.25,
   "src_t0": 0.0,
   "src_t1": 11.02,
@@ -760,7 +760,7 @@
   "stem": "sfx",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_Hq3Izf.mp3",
   "t": 234.682,
-  "gain_db": 1.0,
+  "gain_db": 3.0,
   "fi": 0.0,
   "fo": 0.05,
   "id": "tepik"
@@ -769,51 +769,24 @@
   "stem": "sfx",
   "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_Hq3Izf.mp3",
   "t": 235.322,
-  "gain_db": 1.0,
+  "gain_db": 3.0,
   "fi": 0.0,
   "fo": 0.05,
   "id": "tepik"
  },
  {
   "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v3_cmWjYL.mp3",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_hafif.wav",
   "t": 236.212,
-  "gain_db": 9.5,
+  "gain_db": 7.0,
   "fi": 0.0,
   "fo": 0.05,
   "id": "tepik"
  },
  {
   "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v2_y1obcw.mp3",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_hafif.wav",
   "t": 236.622,
-  "gain_db": 9.0,
-  "fi": 0.0,
-  "fo": 0.05,
-  "id": "tepik"
- },
- {
-  "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v3_cmWjYL.mp3",
-  "t": 236.962,
-  "gain_db": 9.5,
-  "fi": 0.0,
-  "fo": 0.05,
-  "id": "tepik"
- },
- {
-  "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v2_y1obcw.mp3",
-  "t": 237.212,
-  "gain_db": 9.0,
-  "fi": 0.0,
-  "fo": 0.05,
-  "id": "tepik"
- },
- {
-  "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v3_cmWjYL.mp3",
-  "t": 237.332,
   "gain_db": 6.0,
   "fi": 0.0,
   "fo": 0.05,
@@ -821,18 +794,45 @@
  },
  {
   "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v2_y1obcw.mp3",
-  "t": 237.502,
-  "gain_db": 9.0,
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_hafif.wav",
+  "t": 236.962,
+  "gain_db": 7.0,
   "fi": 0.0,
   "fo": 0.05,
   "id": "tepik"
  },
  {
   "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v3_cmWjYL.mp3",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_hafif.wav",
+  "t": 237.212,
+  "gain_db": 6.0,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_hafif.wav",
+  "t": 237.332,
+  "gain_db": 3.0,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_hafif.wav",
+  "t": 237.502,
+  "gain_db": 6.0,
+  "fi": 0.0,
+  "fo": 0.05,
+  "id": "tepik"
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/is/el/sfx2/tepik_v1_hafif.wav",
   "t": 237.792,
-  "gain_db": 9.5,
+  "gain_db": 7.0,
   "fi": 0.0,
   "fo": 0.05,
   "id": "tepik"
@@ -1458,11 +1458,27 @@
     0
    ],
    [
+    37.109,
+    0
+   ],
+   [
     37.132,
     -8
    ],
    [
+    37.409,
+    -7
+   ],
+   [
     37.732,
+    0
+   ],
+   [
+    41.709,
+    -7
+   ],
+   [
+    42.309,
     0
    ],
    [

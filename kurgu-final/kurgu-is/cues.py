@@ -30,10 +30,11 @@ for ad,b,a in HZ:
     n=L(ad); 
     # S5-1a EDL 24. kareden basliyor -> kaynak ofseti
     s0=(T[ad].get('src_in',0))/24
-    ek={'S5-3b':dict(env=[[0,-5],[2.5,0]]),'S5-3a':dict(gain_db=HZ_GAIN+2.5),'S6-2-D1':dict(gain_db=0.0),'S6-3-E1':dict(gain_db=0.0)}.get(ad,{})
+    ek={'S5-3b':dict(env=[[0,-5],[2.5,0]]),'S5-3a':dict(gain_db=HZ_GAIN+1.0),'S6-2-D1':dict(gain_db=0.0),'S6-3-E1':dict(gain_db=0.0)}.get(ad,{})
     kw=dict(src_t0=s0, src_t1=s0+n+0.02, fi=0.02, fo=0.04, gain_db=HZ_GAIN); kw.update(ek)
-    cue('hazirB', SES+b, T[ad]['t0'], **kw)
-    cue('hazirA', SES+a, T[ad]['t0'], **kw)
+    SRCD=(IS+'/ses_dn/') if ad in ('S5-2c','S5-3a','S5-3b') else SES   # gurultu azaltilmis hazir miksler (Owner notu 2:00-2:19)
+    cue('hazirB', SRCD+b, T[ad]['t0'], **kw)
+    cue('hazirA', SRCD+a, T[ad]['t0'], **kw)
 # 3) Seedance sesli klipler: ortam (konusmasiz) + VC replikler
 for ad in ['S6-1','S6-2-D2','S6-3-E2','S6-4','S6-5','S7-1-B']:
     cue('ortam', ORT+ad+'_ortam.wav', T[ad]['t0'], src_t1=L(ad)+0.02, fi=0.02, fo=0.04, gain_db=(3 if ad in ('S6-2-D2','S6-3-E2') else 0))
@@ -94,7 +95,7 @@ for ad,t,f,db in SF:
 # 5b) Cizgi film tepik (S9-1): Baba 2 agir, Barnaby 7 hafif; tepe hedefi Baba -9 dBFS, Barnaby -14 dBFS
 SF2=IS+'/el/sfx2/'
 for t,kim in [(4.42,'baba'),(5.06,'baba'),(5.95,'b'),(6.36,'b2'),(6.70,'b'),(6.95,'b2'),(7.07,'b3'),(7.24,'b2'),(7.53,'b')]:
-    f,gdb={'baba':('tepik_v1_Hq3Izf.mp3',1.0),'b':('tepik_v3_cmWjYL.mp3',9.5),'b2':('tepik_v2_y1obcw.mp3',9.0),'b3':('tepik_v3_cmWjYL.mp3',6.0)}[kim]
+    f,gdb={'baba':('tepik_v1_Hq3Izf.mp3',3.0),'b':('tepik_v1_hafif.wav',7.0),'b2':('tepik_v1_hafif.wav',6.0),'b3':('tepik_v1_hafif.wav',3.0)}[kim]
     cue('sfx', SF2+f, g('S9-1',t-0.03), gain_db=gdb, fi=0.0, fo=0.05, id='tepik')
 # 6) Muzik: ducking zarfi diyalog cue'larindan
 def dlg_windows():
@@ -124,7 +125,7 @@ hz_extra=[(T['S6-2-D1']['t0'],T['S6-2-D1']['t1'],-5),(T['S6-3-E1']['t0'],T['S6-3
 cue('muzik', m1, m1t, src_t1=m1end-m1t, fi=1.5, fo=1.2, gain_db=m1base, env=env_for(m1t,m1end,0,-9,hz_extra))
 m2t=T['S8-1-B2 genis']['t0']-1.0; m2end=T['Son kart']['t1']
 m2base=round(-26.0-lufs(m2),1)
-e=env_for(m2t,m2end,0,-8); 
+e=env_for(m2t,m2end,0,-8,[(T['S9-1']['t0']+4.2,T['S9-1']['t0']+7.9,-7)])   # tepik serisi altinda muzik -7 dB; 
 # final yukselisi: son replikten sonra +5 dB, kartta cozulme
 # S8-3 kuyrugunda kucuk muzik kabarmasi (+3 dB) -> S8-4 girisindeki seviye sicramasini yumusatir
 tb=T['S8-4']['t0']; e+= [[round(tb-0.75-m2t,3),0],[round(tb-0.40-m2t,3),3.0],[round(tb-0.15-m2t,3),3.0]]
