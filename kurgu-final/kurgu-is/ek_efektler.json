@@ -1,0 +1,2152 @@
+[
+ {
+  "t": 0.0,
+  "t_end": 1.958,
+  "ad": "ruzgar",
+  "tepe": -35,
+  "tur": "tek",
+  "aciklama": "Close-up, Barnaby facing camera, panting: visible breath clouds puff from his no",
+  "kaynak": "R1",
+  "guven": "likely"
+ },
+ {
+  "t": 1.75,
+  "t_end": 2.0,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Hazel pops up from behind Barnaby's left shoulder and settles on it (motion-blur",
+  "kaynak": "A",
+  "guven": "likely"
+ },
+ {
+  "t": 1.792,
+  "t_end": 1.792,
+  "ad": "burun-cekme",
+  "tepe": -36,
+  "tur": "tek",
+  "aciklama": "k43: Barnaby closes eyes and lifts his nose (listening/sniffing pose) just as th",
+  "kaynak": "R1",
+  "guven": "guess"
+ },
+ {
+  "t": 1.792,
+  "t_end": 1.875,
+  "ad": "doink",
+  "tepe": -21,
+  "tur": "tek",
+  "aciklama": "k43-k45: Hazel pops up from behind onto Barnaby's left shoulder (fully visible a",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 2.0,
+  "t_end": 5.0,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "k48-k120: Barnaby walks toward camera while Hazel talks; hooves are below frame,",
+  "kaynak": "R1",
+  "guven": "guess"
+ },
+ {
+  "t": 3.25,
+  "t_end": 3.333,
+  "ad": "burun-cekme",
+  "tepe": -36,
+  "tur": "tek",
+  "aciklama": "k78-k80: Barnaby closes eyes and tilts nose up briefly mid-walk (k81 eyes open a",
+  "kaynak": "R1",
+  "guven": "guess"
+ },
+ {
+  "t": 5.042,
+  "t_end": 6.25,
+  "ad": "uzun-koklama",
+  "tepe": -28,
+  "tur": "tek",
+  "aciklama": "k121-k150: Barnaby prances with eyes closed and nose up, following the golden sc",
+  "kaynak": "R1",
+  "guven": "likely"
+ },
+ {
+  "t": 5.25,
+  "t_end": 5.25,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k126: prance step, right hoof lands (left leg kicked up behind)",
+  "kaynak": "R1",
+  "guven": "likely"
+ },
+ {
+  "t": 5.5,
+  "t_end": 5.5,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k132: prance step, left hoof lands",
+  "kaynak": "R1",
+  "guven": "likely"
+ },
+ {
+  "t": 5.75,
+  "t_end": 5.75,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k138: prance step, right hoof lands",
+  "kaynak": "R1",
+  "guven": "likely"
+ },
+ {
+  "t": 6.0,
+  "t_end": 6.0,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k144: prance step, left hoof lands (wide stride)",
+  "kaynak": "R1",
+  "guven": "likely"
+ },
+ {
+  "t": 6.25,
+  "t_end": 6.333,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k150: last prance step, right hoof lands; head tilts, eyes still closed",
+  "kaynak": "R1",
+  "guven": "likely"
+ },
+ {
+  "t": 6.292,
+  "t_end": 6.333,
+  "ad": "whoosh",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "k151: Barnaby whips into a full spin (motion blur, back to camera at k151), k152",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 9.25,
+  "t_end": 9.458,
+  "ad": "burun-cekme",
+  "tepe": -36,
+  "tur": "tek",
+  "aciklama": "k222-k227: in the balance pose Barnaby closes his eyes and smiles with nose towa",
+  "kaynak": "R1",
+  "guven": "guess"
+ },
+ {
+  "t": 10.0,
+  "t_end": 10.25,
+  "ad": "yaprak-ucusmasi",
+  "tepe": -25,
+  "tur": "tek",
+  "aciklama": "Barnaby pushes off out of the prance pose; his rear hoof flicks a spray of orang",
+  "kaynak": "A",
+  "guven": "sure"
+ },
+ {
+  "t": 10.042,
+  "t_end": 12.383000000000001,
+  "ad": "dortnala",
+  "tepe": -23,
+  "tur": "dongu",
+  "aciklama": "kosu",
+  "kaynak": "birlesik",
+  "guven": "sure"
+ },
+ {
+  "t": 11.0,
+  "t_end": 12.3,
+  "ad": "yaprak-dususu",
+  "tepe": -27,
+  "tur": "tek",
+  "aciklama": "Big flurry of orange leaves thrown up by his hooves fills the frame; after he ex",
+  "kaynak": "A",
+  "guven": "sure"
+ },
+ {
+  "t": 11.667,
+  "t_end": 11.875,
+  "ad": "whoosh",
+  "tepe": -23,
+  "tur": "tek",
+  "aciklama": "k280-k284: Barnaby blurs past the camera at close range and exits frame right at",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 11.75,
+  "t_end": 12.333,
+  "ad": "yaprak-dususu",
+  "tepe": -27,
+  "tur": "tek",
+  "aciklama": "k282-k296: empty frame, loose leaves swirl and drift through the air in Barnaby'",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 13.208,
+  "t_end": 13.4,
+  "ad": "whoosh",
+  "tepe": -23,
+  "tur": "tek",
+  "aciklama": "k317: Barnaby bursts into frame from the left in a motion blur, arms out, headin",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 13.25,
+  "t_end": 13.65,
+  "ad": "fren",
+  "tepe": -15,
+  "tur": "tek",
+  "aciklama": "k318-k322: Looney-Tunes skid: Barnaby leans back, hooves thrust forward and slid",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 13.458,
+  "t_end": 13.8,
+  "ad": "doink",
+  "tepe": -18,
+  "tur": "tek",
+  "aciklama": "k323: body jolts to a dead stop inches from the lead goose, arms out, mouth open",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 13.75,
+  "t_end": 14.9,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "Still alarmed with arms out, Barnaby takes five exaggerated high-knee tiptoe ste",
+  "kaynak": "A",
+  "guven": "likely"
+ },
+ {
+  "t": 15.0,
+  "t_end": 18.75,
+  "ad": "adim",
+  "tepe": -28,
+  "tur": "adim",
+  "aciklama": "Expression turns determined and Barnaby goose-steps in line with the geese, legs",
+  "kaynak": "A",
+  "guven": "sure"
+ },
+ {
+  "t": 19.0,
+  "t_end": 19.25,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Barnaby halts in the middle of the goose line, drops his arms and plants both ho",
+  "kaynak": "A",
+  "guven": "guess"
+ },
+ {
+  "t": 21.5,
+  "t_end": 22.15,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Wide shot: Barnaby strides away from the geese toward the right (contacts ~21.6,",
+  "kaynak": "A",
+  "guven": "likely"
+ },
+ {
+  "t": 22.083,
+  "t_end": 22.208,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "k530: wide shot (cut at k514), Barnaby takes a first step forward, right hoof la",
+  "kaynak": "R1",
+  "guven": "guess"
+ },
+ {
+  "t": 22.25,
+  "t_end": 22.333,
+  "ad": "ziplama",
+  "tepe": -23,
+  "tur": "tek",
+  "aciklama": "k534: Barnaby crouches and springs (motion blur), k535-k536 airborne with leaves",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 22.375,
+  "t_end": 23.0,
+  "ad": "govde-pat",
+  "tepe": -24,
+  "tur": "tek",
+  "aciklama": "k537-k539: Barnaby dives into the foreground leaf pile (antlers pass top of fram",
+  "kaynak": "R1",
+  "guven": "likely"
+ },
+ {
+  "t": 22.5,
+  "t_end": 22.583,
+  "ad": "yun",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "k540-k542: leaf pile heaves and settles, something stirring inside",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 22.625,
+  "t_end": 22.708,
+  "ad": "yaprak-citirti",
+  "tepe": -29,
+  "tur": "tek",
+  "aciklama": "k543-k545: antler tips then whole head burst up through the leaf pile in a spray",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 22.833,
+  "t_end": 22.833,
+  "ad": "doink",
+  "tepe": -21,
+  "tur": "tek",
+  "aciklama": "k548: Hazel pops up out of the leaves onto Barnaby's shoulder",
+  "kaynak": "R1",
+  "guven": "sure"
+ },
+ {
+  "t": 22.9,
+  "t_end": 23.4,
+  "ad": "yaprak-dususu",
+  "tepe": -32,
+  "tur": "tek",
+  "aciklama": "Loose leaves flutter back down around Barnaby and Hazel after the landing",
+  "kaynak": "A",
+  "guven": "likely"
+ },
+ {
+  "t": 23.75,
+  "t_end": 23.833,
+  "ad": "whoosh",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "k570: Barnaby (close-up, sitting in leaf pile, Hazel on shoulder) snaps from hal",
+  "kaynak": "R2",
+  "guven": "sure"
+ },
+ {
+  "t": 26.208,
+  "t_end": 26.208,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k629: CUT at k624 (26.000) to frontal shot, Barnaby walking toward camera on lea",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 26.458,
+  "t_end": 27.0,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k635: right hoof (screen left) plants (near existing toynak 26.40 - keep one)",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 26.708,
+  "t_end": 26.708,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k641: left hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 26.958,
+  "t_end": 27.5,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k647: right hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 27.208,
+  "t_end": 27.208,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k653: left hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 27.458,
+  "t_end": 27.458,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k659: right hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 27.708,
+  "t_end": 27.708,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k665: left hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 27.958,
+  "t_end": 27.958,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k671: right hoof plants - last step, Barnaby comes to a stand (near existing toy",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 28.042,
+  "t_end": 28.4,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "k673-k678: standing still, Barnaby raises his left arm and cups his hoof to his ",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 29.25,
+  "t_end": 29.25,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k702: CUT at k696 (29.000) to profile wide shot, Barnaby tiptoe-walking left to ",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 29.5,
+  "t_end": 29.5,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k708: hoof plants on flagstone",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 29.75,
+  "t_end": 29.75,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k714: hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 30.042,
+  "t_end": 30.042,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k721: hoof plants (existing tepik-uzak at 30.15 sits 2-3 frames after this conta",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 30.333,
+  "t_end": 30.333,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k728: hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 30.625,
+  "t_end": 30.625,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k735: hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 30.917,
+  "t_end": 30.917,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k742: hoof plants (head lifting, listening; 'Papa's step!' at 31.02)",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 31.167,
+  "t_end": 31.167,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k748: hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 31.417,
+  "t_end": 31.417,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k754: hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 31.708,
+  "t_end": 31.75,
+  "ad": "whoosh",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "k761: stride suddenly lengthens - front hoof lands far ahead in a big lunge; he ",
+  "kaynak": "R2",
+  "guven": "sure"
+ },
+ {
+  "t": 32.0,
+  "t_end": 32.8,
+  "ad": "dortnala",
+  "tepe": -23,
+  "tur": "dongu",
+  "aciklama": "kosu",
+  "kaynak": "birlesik",
+  "guven": "sure"
+ },
+ {
+  "t": 32.167,
+  "t_end": 33.4,
+  "ad": "doink",
+  "tepe": -18,
+  "tur": "tek",
+  "aciklama": "k772-k773: freeze on one leg - rear leg flips up behind him, arms out, Hazel cli",
+  "kaynak": "R2",
+  "guven": "sure"
+ },
+ {
+  "t": 33.4,
+  "t_end": 33.6,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Hazel swings from his shoulder down onto his muzzle and clings to his nose/scarf",
+  "kaynak": "A",
+  "guven": "likely"
+ },
+ {
+  "t": 35.75,
+  "t_end": 36.0,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Hazel scrambles back up from his nose to his shoulder (motion-blurred at 35.875)",
+  "kaynak": "A",
+  "guven": "likely"
+ },
+ {
+  "t": 35.833,
+  "t_end": 36.0,
+  "ad": "whoosh",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "k860-k864: Barnaby springs up out of the crouch and spins round to face the came",
+  "kaynak": "R2",
+  "guven": "sure"
+ },
+ {
+  "t": 39.458,
+  "t_end": 40.3,
+  "ad": "adim",
+  "tepe": -28,
+  "tur": "adim",
+  "aciklama": "k947: after balancing on one leg since 36.0 (arms out, knee raised), Barnaby fin",
+  "kaynak": "R2",
+  "guven": "sure"
+ },
+ {
+  "t": 39.708,
+  "t_end": 39.708,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k953: hoof plants, walking right",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 39.958,
+  "t_end": 39.958,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k959: hoof plants",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 40.208,
+  "t_end": 41.5,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k965: hoof plants, Barnaby exiting frame right (CUT at k968 / 40.333)",
+  "kaynak": "R2",
+  "guven": "likely"
+ },
+ {
+  "t": 48.25,
+  "t_end": 48.458,
+  "ad": "burun-cekme",
+  "tepe": -32,
+  "tur": "tek",
+  "aciklama": "Meadow medium shot: Barnaby dips his head down-right toward the scent ribbon, ey",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 49.5,
+  "t_end": 54.0,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Barnaby walks slowly forward following the ribbon; feet are off-frame but his bo",
+  "kaynak": "B",
+  "guven": "guess"
+ },
+ {
+  "t": 51.75,
+  "t_end": 51.75,
+  "ad": "ping",
+  "tepe": -28,
+  "tur": "tek",
+  "aciklama": "Barnaby's eyes pop wide open and mouth drops open right before 'Pie!' (k1241 eye",
+  "kaynak": "R3",
+  "guven": "sure"
+ },
+ {
+  "t": 54.5,
+  "t_end": 55.0,
+  "ad": "ping",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "The translucent scent ribbon flowing into Barnaby's nose thins and dissolves awa",
+  "kaynak": "R3",
+  "guven": "sure"
+ },
+ {
+  "t": 54.75,
+  "t_end": 54.75,
+  "ad": "koku",
+  "tepe": -37,
+  "tur": "tek",
+  "aciklama": "The scent ribbon vanishes from Barnaby's nose (visible at 54.5, gone at 54.75) a",
+  "kaynak": "B",
+  "guven": "guess"
+ },
+ {
+  "t": 56.458,
+  "t_end": 56.667,
+  "ad": "whoosh",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "Barnaby throws both arms up and out wide, eyes closed, for 'The pie is so big, i",
+  "kaynak": "R3",
+  "guven": "sure"
+ },
+ {
+  "t": 58.458,
+  "t_end": 58.708,
+  "ad": "yun",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "Barnaby lowers his spread arms back down, slight shrug, eyes still closed (k1403",
+  "kaynak": "R3",
+  "guven": "sure"
+ },
+ {
+  "t": 59.25,
+  "t_end": 59.5,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "Wide shot walk-in: far hoof lands on the leaf-strewn path (k1422), brisk stroll ",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 59.583,
+  "t_end": 60.0,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Near hoof lands (k1430)",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 59.917,
+  "t_end": 59.917,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Far hoof lands (k1438)",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 60.25,
+  "t_end": 60.25,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Near hoof lands (k1446)",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 60.583,
+  "t_end": 60.583,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Far hoof lands (k1454)",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 60.917,
+  "t_end": 60.917,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Near hoof lands (k1462)",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 61.25,
+  "t_end": 61.25,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Hoof lands (k1470), cadence continues (~8 frames/step, +-2 frames)",
+  "kaynak": "R3",
+  "guven": "guess"
+ },
+ {
+  "t": 61.583,
+  "t_end": 61.583,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Hoof lands (k1478)",
+  "kaynak": "R3",
+  "guven": "guess"
+ },
+ {
+  "t": 61.917,
+  "t_end": 61.917,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Hoof lands (k1486)",
+  "kaynak": "R3",
+  "guven": "guess"
+ },
+ {
+  "t": 62.25,
+  "t_end": 62.25,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Hoof lands (k1494)",
+  "kaynak": "R3",
+  "guven": "guess"
+ },
+ {
+  "t": 62.583,
+  "t_end": 62.583,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Hoof lands (k1502)",
+  "kaynak": "R3",
+  "guven": "guess"
+ },
+ {
+  "t": 62.917,
+  "t_end": 62.917,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Hoof lands (k1510), Barnaby arriving in front of the trunk",
+  "kaynak": "R3",
+  "guven": "guess"
+ },
+ {
+  "t": 62.917,
+  "t_end": 63.208,
+  "ad": "fren",
+  "tepe": -23,
+  "tur": "tek",
+  "aciklama": "Barnaby glides to a stop in front of the maple: head drops ~12 px over 6 frames,",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 63.0,
+  "t_end": 63.0,
+  "ad": "burun-cekme",
+  "tepe": -36,
+  "tur": "tek",
+  "aciklama": "Barnaby opens his eyes with a sly sideways look at Hazel ('One little sniff of p",
+  "kaynak": "B",
+  "guven": "guess"
+ },
+ {
+  "t": 63.042,
+  "t_end": 63.042,
+  "ad": "ping",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Barnaby's eyes open sideways with a sly grin as he starts 'One little sniff of p",
+  "kaynak": "R3",
+  "guven": "sure"
+ },
+ {
+  "t": 63.25,
+  "t_end": 63.25,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Final settling hoof contact / weight shift as the walk ends (k1518); leg motion ",
+  "kaynak": "R3",
+  "guven": "guess"
+ },
+ {
+  "t": 64.292,
+  "t_end": 65.25,
+  "ad": "yun",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "Barnaby raises a hoof-hand in a 'Promise' gesture, hand rises into frame k1543-k",
+  "kaynak": "R3",
+  "guven": "sure"
+ },
+ {
+  "t": 65.125,
+  "t_end": 65.292,
+  "ad": "yun",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "Hand drops back down, head turns toward the tree, nose lifts and mouth opens for",
+  "kaynak": "R3",
+  "guven": "sure"
+ },
+ {
+  "t": 66.667,
+  "t_end": 66.667,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Barnaby leans forward (from ~66.0) and resumes walking toward the trunk nose-fir",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 67.125,
+  "t_end": 67.125,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Second approach hoof contact (k1611); the existing toynak at 67.50 (k1620) is th",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 67.75,
+  "t_end": 68.0,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "Fourth approach hoof contact (k1630), Barnaby now close under the canopy, eyes c",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 68.333,
+  "t_end": 68.333,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Last visible hoof contact before the cut (k1640), near leg lands",
+  "kaynak": "R3",
+  "guven": "likely"
+ },
+ {
+  "t": 68.792,
+  "t_end": 72.0,
+  "ad": "burun-cekme",
+  "tepe": -36,
+  "tur": "tek",
+  "aciklama": "After the CUT at k1643 (68.458) to the close-up profile: Barnaby's nose inches t",
+  "kaynak": "R3",
+  "guven": "guess"
+ },
+ {
+  "t": 69.0,
+  "t_end": 72.125,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Sheets 070-073, k1656-k1731: Barnaby walks slowly forward, eyes closed, followin",
+  "kaynak": "R4",
+  "guven": "likely"
+ },
+ {
+  "t": 70.25,
+  "t_end": 70.25,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Closer profile shot: Barnaby keeps walking slowly toward the maple with the ribb",
+  "kaynak": "B",
+  "guven": "likely"
+ },
+ {
+  "t": 70.5,
+  "t_end": 71.75,
+  "ad": "surup",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "Amber sap drop on the trunk swells and stretches into a long teardrop (small at ",
+  "kaynak": "B",
+  "guven": "guess"
+ },
+ {
+  "t": 71.0,
+  "t_end": 71.0,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Next slow step toward the tree, far leg down at 71.0",
+  "kaynak": "B",
+  "guven": "likely"
+ },
+ {
+  "t": 72.0,
+  "t_end": 72.0,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Final step arriving beside the trunk; near leg lifted at 71.75, planted around 7",
+  "kaynak": "B",
+  "guven": "guess"
+ },
+ {
+  "t": 72.125,
+  "t_end": 72.25,
+  "ad": "koku",
+  "tepe": -32,
+  "tur": "tek",
+  "aciklama": "k1731-k1734: the golden scent ribbon dissolves away as Barnaby arrives nose-to-t",
+  "kaynak": "R4",
+  "guven": "sure"
+ },
+ {
+  "t": 74.5,
+  "t_end": 74.96,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Sheet 075, k1788-k1799: Barnaby leans in, eyes still closed, nose closing on the",
+  "kaynak": "R4",
+  "guven": "likely"
+ },
+ {
+  "t": 75.0,
+  "t_end": 75.25,
+  "ad": "ping",
+  "tepe": -30,
+  "tur": "tek",
+  "aciklama": "Sheet 076, k1800: Barnaby's nose makes contact with the sap drop; k1801-k1806 th",
+  "kaynak": "R4",
+  "guven": "sure"
+ },
+ {
+  "t": 75.375,
+  "t_end": 75.5,
+  "ad": "ping",
+  "tepe": -28,
+  "tur": "tek",
+  "aciklama": "Sheet 076, k1809: Barnaby's eyes pop wide open for the first time (closed throug",
+  "kaynak": "R4",
+  "guven": "sure"
+ },
+ {
+  "t": 76.833,
+  "t_end": 77.25,
+  "ad": "yapiskan",
+  "tepe": -32,
+  "tur": "tek",
+  "aciklama": "k1844: red maple leaf slaps onto Barnaby's nose, glued by sap (seen first at k18",
+  "kaynak": "R4",
+  "guven": "sure"
+ },
+ {
+  "t": 77.25,
+  "t_end": 77.75,
+  "ad": "surup",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "Right after the pop (77.16) a sap string stretches from the red leaf stuck on hi",
+  "kaynak": "B",
+  "guven": "guess"
+ },
+ {
+  "t": 78.0,
+  "t_end": 78.125,
+  "ad": "ping",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Sheet 079, k1872-k1875: CROSS-DISSOLVE (not a hard cut) from the tight tree shot",
+  "kaynak": "R4",
+  "guven": "sure"
+ },
+ {
+  "t": 81.25,
+  "t_end": 81.5,
+  "ad": "boynuz-dal",
+  "tepe": -31,
+  "tur": "tek",
+  "aciklama": "Sheet 082, k1950-k1955: Barnaby tilts his head up to look at the maple canopy ov",
+  "kaynak": "R4",
+  "guven": "sure"
+ },
+ {
+  "t": 82.75,
+  "t_end": 83.3,
+  "ad": "yaprak-dususu",
+  "tepe": -32,
+  "tur": "tek",
+  "aciklama": "Sheets 083-084, k1986-k1999: a small loose leaf drifts down past Barnaby's sweat",
+  "kaynak": "R4",
+  "guven": "likely"
+ },
+ {
+  "t": 85.167,
+  "t_end": 85.6,
+  "ad": "ziplama",
+  "tepe": -28,
+  "tur": "tek",
+  "aciklama": "Sheet 086, k2044-k2051: Barnaby's eyes snap up and to the right, mouth freezes m",
+  "kaynak": "R4",
+  "guven": "likely"
+ },
+ {
+  "t": 89.083,
+  "t_end": 92.75,
+  "ad": "ping",
+  "tepe": -30,
+  "tur": "tek",
+  "aciklama": "Sheet 090, k2138: first geese appear as specks beside the sun at far frame-left,",
+  "kaynak": "R4",
+  "guven": "sure"
+ },
+ {
+  "t": 89.333,
+  "t_end": 90.0,
+  "ad": "whoosh",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "Sheet 090, k2144-k2153: Barnaby's double-take: eyes go wide at k2144, then the h",
+  "kaynak": "R4",
+  "guven": "sure"
+ },
+ {
+  "t": 89.5,
+  "t_end": 89.75,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "k2148-k2153: the body pivot requires his hooves to shuffle on the leaf litter; h",
+  "kaynak": "R4",
+  "guven": "guess"
+ },
+ {
+  "t": 89.583,
+  "t_end": 90.25,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "k2150: Hazel vanishes behind Barnaby's head as he turns; sheet 091, k2164-k2166:",
+  "kaynak": "R4",
+  "guven": "likely"
+ },
+ {
+  "t": 103.25,
+  "t_end": 103.25,
+  "ad": "surup",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "Close-up at the tree: Barnaby's jaw drops wide open on 'Five?' (103.17-103.33), ",
+  "kaynak": "C",
+  "guven": "guess"
+ },
+ {
+  "t": 104.042,
+  "t_end": 108.917,
+  "ad": "dortnala",
+  "tepe": -26,
+  "tur": "dongu",
+  "aciklama": "kosu",
+  "kaynak": "birlesik",
+  "guven": "sure"
+ },
+ {
+  "t": 104.25,
+  "t_end": 104.25,
+  "ad": "ziplama",
+  "tepe": -24,
+  "tur": "tek",
+  "aciklama": "Hard cut to Barnaby already running through the foggy forest, arms pumping, Haze",
+  "kaynak": "B",
+  "guven": "likely"
+ },
+ {
+  "t": 104.5,
+  "t_end": 104.75,
+  "ad": "yaprak-ucusmasi",
+  "tepe": -30,
+  "tur": "tek",
+  "aciklama": "Small orange leaves fly past Barnaby's head/antlers as he runs (k2508-k2513), al",
+  "kaynak": "R5",
+  "guven": "likely"
+ },
+ {
+  "t": 105.5,
+  "t_end": 107.0,
+  "ad": "yaprak-ucusmasi",
+  "tepe": -30,
+  "tur": "tek",
+  "aciklama": "While he runs, red leaves tumble past in the background on the right of frame be",
+  "kaynak": "C",
+  "guven": "likely"
+ },
+ {
+  "t": 105.958,
+  "t_end": 106.5,
+  "ad": "uzun-koklama",
+  "tepe": -28,
+  "tur": "tek",
+  "aciklama": "Still running: Barnaby shuts his eyes and lifts his nose (k2543-k2545), then rai",
+  "kaynak": "R5",
+  "guven": "likely"
+ },
+ {
+  "t": 106.25,
+  "t_end": 107.0,
+  "ad": "burun-cekme",
+  "tepe": -36,
+  "tur": "tek",
+  "aciklama": "While running Barnaby squints (106.0) then lifts his nose and sniffs the air bef",
+  "kaynak": "B",
+  "guven": "guess"
+ },
+ {
+  "t": 106.75,
+  "t_end": 107.0,
+  "ad": "burun-cekme",
+  "tepe": -28,
+  "tur": "tek",
+  "aciklama": "Still running, Barnaby lifts his nose up and sniffs the air (head tilts up 106.8",
+  "kaynak": "C",
+  "guven": "likely"
+ },
+ {
+  "t": 108.25,
+  "t_end": 108.5,
+  "ad": "uzun-koklama",
+  "tepe": -36,
+  "tur": "tek",
+  "aciklama": "Running, eyes half closed, grinning, nose raised again savouring the syrup smell",
+  "kaynak": "C",
+  "guven": "guess"
+ },
+ {
+  "t": 109.0,
+  "t_end": 109.25,
+  "ad": "fren",
+  "tepe": -15,
+  "tur": "tek",
+  "aciklama": "SKID STOP: cut to wide shot at 108.96; first frame 109.00 shows Barnaby leaning ",
+  "kaynak": "C",
+  "guven": "sure"
+ },
+ {
+  "t": 110.583,
+  "t_end": 110.917,
+  "ad": "yun",
+  "tepe": -29,
+  "tur": "tek",
+  "aciklama": "Barnaby yanks the collar of his red sweater up to his nose with one hoof (k2654 ",
+  "kaynak": "R5",
+  "guven": "sure"
+ },
+ {
+  "t": 110.958,
+  "t_end": 110.958,
+  "ad": "ping",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Hooves bring the sweater and an orange maple leaf stuck to it up to his nose (k2",
+  "kaynak": "R5",
+  "guven": "sure"
+ },
+ {
+  "t": 111.0,
+  "t_end": 111.5,
+  "ad": "uzun-koklama",
+  "tepe": -28,
+  "tur": "tek",
+  "aciklama": "Barnaby holds the leaf/sweater against his nose and sniffs it, eyes going wide (",
+  "kaynak": "R5",
+  "guven": "likely"
+ },
+ {
+  "t": 113.0,
+  "t_end": 113.25,
+  "ad": "whoosh",
+  "tepe": -27,
+  "tur": "tek",
+  "aciklama": "Wide shot (cut 112.62): he stares at the leaf in his hoof (113.07), then whips h",
+  "kaynak": "C",
+  "guven": "likely"
+ },
+ {
+  "t": 113.208,
+  "t_end": 113.25,
+  "ad": "yaprak-ucusmasi",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "Running start: Barnaby pushes off into the leaf-covered ground, first stride to ",
+  "kaynak": "R5",
+  "guven": "likely"
+ },
+ {
+  "t": 113.25,
+  "t_end": 113.5,
+  "ad": "ziplama",
+  "tepe": -23,
+  "tur": "tek",
+  "aciklama": "Dash take-off: he launches into a run toward the tree on the right, leaves kicke",
+  "kaynak": "C",
+  "guven": "sure"
+ },
+ {
+  "t": 113.25,
+  "t_end": 115.8,
+  "ad": "dortnala",
+  "tepe": -26,
+  "tur": "dongu",
+  "aciklama": "kosu",
+  "kaynak": "birlesik",
+  "guven": "sure"
+ },
+ {
+  "t": 113.5,
+  "t_end": 115.75,
+  "ad": "inis",
+  "tepe": -20,
+  "tur": "tek",
+  "aciklama": "Skipping/hopping run around the tree with Hazel on his back: bounding beside the",
+  "kaynak": "C",
+  "guven": "sure"
+ },
+ {
+  "t": 114.25,
+  "t_end": 114.25,
+  "ad": "govde-pat",
+  "tepe": -28,
+  "tur": "tek",
+  "aciklama": "Landing from the hop into the leaves, arms still up (k2742), then he keeps runni",
+  "kaynak": "R5",
+  "guven": "guess"
+ },
+ {
+  "t": 115.375,
+  "t_end": 115.625,
+  "ad": "doink",
+  "tepe": -19,
+  "tur": "tek",
+  "aciklama": "k2769: Barnaby's chest/front collides with the tree trunk; his body wraps around",
+  "kaynak": "R6",
+  "guven": "likely"
+ },
+ {
+  "t": 115.417,
+  "t_end": 115.458,
+  "ad": "boynuz-dal",
+  "tepe": -32,
+  "tur": "tek",
+  "aciklama": "k2770-2771: antlers overlap and rake the bark as he slides around the trunk",
+  "kaynak": "R6",
+  "guven": "guess"
+ },
+ {
+  "t": 115.667,
+  "t_end": 116.0,
+  "ad": "fren",
+  "tepe": -18,
+  "tur": "tek",
+  "aciklama": "k2776-2779: Barnaby pushes off the trunk and stops dead, both arms out to the si",
+  "kaynak": "R6",
+  "guven": "likely"
+ },
+ {
+  "t": 115.75,
+  "t_end": 115.917,
+  "ad": "yaprak-ucusmasi",
+  "tepe": -25,
+  "tur": "tek",
+  "aciklama": "k2778-2782: loose leaves fly up around his hooves and off to his right after the",
+  "kaynak": "R6",
+  "guven": "sure"
+ },
+ {
+  "t": 115.833,
+  "t_end": 115.917,
+  "ad": "whoosh",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "k2780-2782: head/antlers snap around (k2780-2781) and the whole body whips 180 d",
+  "kaynak": "R6",
+  "guven": "sure"
+ },
+ {
+  "t": 115.958,
+  "t_end": 115.958,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "k2783: hooves re-plant after the spin, now facing left of frame",
+  "kaynak": "R6",
+  "guven": "likely"
+ },
+ {
+  "t": 116.0,
+  "t_end": 116.292,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "k2784-2791: Barnaby settles, arms come down, red sweater shifts; Hazel re-settle",
+  "kaynak": "R6",
+  "guven": "likely"
+ },
+ {
+  "t": 121.792,
+  "t_end": 122.0,
+  "ad": "yapiskan",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "k2919: the single red leaf that fell from the tree (yaprak-dususu at 120.00) tou",
+  "kaynak": "R6",
+  "guven": "likely"
+ },
+ {
+  "t": 126.958,
+  "t_end": 127.25,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "k3047-3052: Hazel scurries from Barnaby's shoulder up to his neck/cheek, tail sw",
+  "kaynak": "R6",
+  "guven": "likely"
+ },
+ {
+  "t": 133.333,
+  "t_end": 133.458,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "k3200-3203: Barnaby raises a front hoof to his chest, pressing the sweater, as h",
+  "kaynak": "R6",
+  "guven": "likely"
+ },
+ {
+  "t": 133.5,
+  "t_end": 133.5,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "His two front hooves come together at his chest (133.4-133.5) as he says 'Papa n",
+  "kaynak": "C",
+  "guven": "guess"
+ },
+ {
+  "t": 137.0,
+  "t_end": 137.083,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "k3288-3290: the hoof held at his chest drops back down out of view",
+  "kaynak": "R6",
+  "guven": "likely"
+ },
+ {
+  "t": 138.25,
+  "t_end": 138.75,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Wide sunset shot: Barnaby (Hazel on shoulder) shifts his weight and turns slight",
+  "kaynak": "D",
+  "guven": "guess"
+ },
+ {
+  "t": 140.0,
+  "t_end": 140.0,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Barnaby, standing in the hollow doorway (wide moonlit shot), takes one step forw",
+  "kaynak": "D",
+  "guven": "likely"
+ },
+ {
+  "t": 140.5,
+  "t_end": 141.0,
+  "ad": "yun",
+  "tepe": -29,
+  "tur": "tek",
+  "aciklama": "Sit-down: he crouches in the hollow doorway (140.5-140.9) and sits onto the leaf",
+  "kaynak": "C",
+  "guven": "sure"
+ },
+ {
+  "t": 141.0,
+  "t_end": 141.0,
+  "ad": "govde-pat",
+  "tepe": -24,
+  "tur": "tek",
+  "aciklama": "Wide moonlit shot: Barnaby, standing in the lit tree hollow since k3336, drops t",
+  "kaynak": "R7",
+  "guven": "likely"
+ },
+ {
+  "t": 141.0,
+  "t_end": 141.0,
+  "ad": "yun",
+  "tepe": -29,
+  "tur": "tek",
+  "aciklama": "Barnaby drops from standing (140.75) to sitting inside the hollow (seated by 141",
+  "kaynak": "D",
+  "guven": "sure"
+ },
+ {
+  "t": 145.375,
+  "t_end": 145.375,
+  "ad": "yapiskan",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "Close shot (after cut at k3469): Barnaby's eyes, closed since the cut, open gent",
+  "kaynak": "R7",
+  "guven": "likely"
+ },
+ {
+  "t": 145.5,
+  "t_end": 145.5,
+  "ad": "boynuz-dal",
+  "tepe": -32,
+  "tur": "tek",
+  "aciklama": "Close-up in hollow: Barnaby's eyes, closed since 144.75 while Hazel cuddles his ",
+  "kaynak": "D",
+  "guven": "likely"
+ },
+ {
+  "t": 149.917,
+  "t_end": 150.0,
+  "ad": "yaprak-citirti",
+  "tepe": -38,
+  "tur": "tek",
+  "aciklama": "Two red leaves appear on the ground at the bottom-right of frame (first at k3598",
+  "kaynak": "R7",
+  "guven": "guess"
+ },
+ {
+  "t": 153.25,
+  "t_end": 153.5,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Close shot: Hazel, who has been up at Barnaby's cheek with her paws on his muzzl",
+  "kaynak": "R7",
+  "guven": "likely"
+ },
+ {
+  "t": 158.25,
+  "t_end": 158.5,
+  "ad": "uzun-koklama",
+  "tepe": -36,
+  "tur": "tek",
+  "aciklama": "Barnaby closes his eyes and fills his chest before opening his mouth wide to cal",
+  "kaynak": "D",
+  "guven": "guess"
+ },
+ {
+  "t": 165.917,
+  "t_end": 165.917,
+  "ad": "whoosh",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "k3982: Barnaby, sitting in the hollow looking down, snaps his head up and his ey",
+  "kaynak": "R8",
+  "guven": "sure"
+ },
+ {
+  "t": 172.25,
+  "t_end": 172.5,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Hazel leans in and nuzzles Barnaby's cheek (\"Somebody's still waiting\" / \"For...",
+  "kaynak": "D",
+  "guven": "likely"
+ },
+ {
+  "t": 174.333,
+  "t_end": 174.958,
+  "ad": "yun",
+  "tepe": -29,
+  "tur": "tek",
+  "aciklama": "k4184-k4188: Barnaby starts getting up: his left arm swings out from his lap tow",
+  "kaynak": "R8",
+  "guven": "sure"
+ },
+ {
+  "t": 174.417,
+  "t_end": 174.417,
+  "ad": "govde-pat",
+  "tepe": -24,
+  "tur": "tek",
+  "aciklama": "k4186: Barnaby's left hoof presses against the bark of the hollow's inner wall t",
+  "kaynak": "R8",
+  "guven": "likely"
+ },
+ {
+  "t": 174.458,
+  "t_end": 175.25,
+  "ad": "adim",
+  "tepe": -28,
+  "tur": "adim",
+  "aciklama": "k4187: Barnaby's right hoof comes down onto the leaf-littered ground beside his ",
+  "kaynak": "R8",
+  "guven": "likely"
+ },
+ {
+  "t": 174.75,
+  "t_end": 174.75,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "k4194: Barnaby's screen-left hind hoof plants on the ground as he gets his feet ",
+  "kaynak": "R8",
+  "guven": "guess"
+ },
+ {
+  "t": 174.75,
+  "t_end": 197.75,
+  "ad": "ruzgar",
+  "tepe": -39,
+  "tur": "tek",
+  "aciklama": "Moonlit fog drifts through the whole outdoor stretch from Barnaby leaving the ho",
+  "kaynak": "D",
+  "guven": "guess"
+ },
+ {
+  "t": 175.167,
+  "t_end": 175.25,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k4204: first step out of the hollow: Barnaby's screen-right hoof (lifted at k420",
+  "kaynak": "R8",
+  "guven": "likely"
+ },
+ {
+  "t": 175.5,
+  "t_end": 175.5,
+  "ad": "yun",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "k4212: Barnaby's raised hoof touches/pats his own nose as he starts talking to i",
+  "kaynak": "R8",
+  "guven": "sure"
+ },
+ {
+  "t": 175.5,
+  "t_end": 175.75,
+  "ad": "kaz",
+  "tepe": -29,
+  "tur": "kaz",
+  "aciklama": "Standing, Barnaby raises a hand and grabs/pinches his own nose, eyes closed, tal",
+  "kaynak": "D",
+  "guven": "likely"
+ },
+ {
+  "t": 176.375,
+  "t_end": 176.458,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "k4233-k4235: the extended arm comes back in to his chest",
+  "kaynak": "R8",
+  "guven": "likely"
+ },
+ {
+  "t": 178.333,
+  "t_end": 178.917,
+  "ad": "burun-cekme",
+  "tepe": -32,
+  "tur": "tek",
+  "aciklama": "k4280-k4294: Barnaby's eyes are closed and he raises and tilts his nose toward t",
+  "kaynak": "R8",
+  "guven": "likely"
+ },
+ {
+  "t": 178.958,
+  "t_end": 178.958,
+  "ad": "ping",
+  "tepe": -30,
+  "tur": "tek",
+  "aciklama": "k4295: the tip of the scent ribbon reaches and enters Barnaby's nostril, glowing",
+  "kaynak": "R8",
+  "guven": "sure"
+ },
+ {
+  "t": 179.0,
+  "t_end": 180.25,
+  "ad": "uzun-koklama",
+  "tepe": -27,
+  "tur": "tek",
+  "aciklama": "k4296-k4325: long slow inhale: eyes closed, head tilting up, the golden ribbon s",
+  "kaynak": "R8",
+  "guven": "sure"
+ },
+ {
+  "t": 180.292,
+  "t_end": 180.292,
+  "ad": "ping",
+  "tepe": -30,
+  "tur": "tek",
+  "aciklama": "k4327: Barnaby's eyes pop wide open and his mouth drops open as he recognizes th",
+  "kaynak": "R8",
+  "guven": "sure"
+ },
+ {
+  "t": 181.083,
+  "t_end": 181.25,
+  "ad": "whoosh",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "k4346-k4348: Barnaby's arm whips out from his chest to point sharply to the righ",
+  "kaynak": "R8",
+  "guven": "sure"
+ },
+ {
+  "t": 183.542,
+  "t_end": 183.625,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "k4405-k4407: push-off into the run: right heel lifts, pointing arm drops down in",
+  "kaynak": "R8",
+  "guven": "likely"
+ },
+ {
+  "t": 183.625,
+  "t_end": 183.625,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k4407: first running step: screen-right hoof lands on the leaf-littered ground t",
+  "kaynak": "R8",
+  "guven": "likely"
+ },
+ {
+  "t": 183.75,
+  "t_end": 184.0,
+  "ad": "ziplama",
+  "tepe": -24,
+  "tur": "tek",
+  "aciklama": "Barnaby lifts his left leg and pushes off to start running right (existing kosu ",
+  "kaynak": "D",
+  "guven": "likely"
+ },
+ {
+  "t": 183.833,
+  "t_end": 183.833,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "k4412: second running step: screen-left hoof (swung high at k4408-k4410) lands o",
+  "kaynak": "R8",
+  "guven": "likely"
+ },
+ {
+  "t": 184.0,
+  "t_end": 185.5,
+  "ad": "dortnala",
+  "tepe": -27,
+  "tur": "dongu",
+  "aciklama": "kosu",
+  "kaynak": "birlesik",
+  "guven": "sure"
+ },
+ {
+  "t": 184.25,
+  "t_end": 184.75,
+  "ad": "yaprak-ucusmasi",
+  "tepe": -30,
+  "tur": "tek",
+  "aciklama": "Leaves kicked up from the hollow doorstep as Barnaby launches into the run.",
+  "kaynak": "D",
+  "guven": "likely"
+ },
+ {
+  "t": 185.625,
+  "t_end": 186.75,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "Forest walk: next hoof plant by cadence (k4455) while Barnaby is mostly out of f",
+  "kaynak": "R9",
+  "guven": "guess"
+ },
+ {
+  "t": 185.958,
+  "t_end": 185.958,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "CUT at k4459 to field wide shot: Barnaby small in frame walking toward the strin",
+  "kaynak": "R9",
+  "guven": "likely"
+ },
+ {
+  "t": 186.208,
+  "t_end": 186.208,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Field walk: hoof plant (k4469), body at low point of bounce",
+  "kaynak": "R9",
+  "guven": "likely"
+ },
+ {
+  "t": 186.458,
+  "t_end": 186.458,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Field walk: hoof plant (k4475) after a high knee lift at k4473",
+  "kaynak": "R9",
+  "guven": "likely"
+ },
+ {
+  "t": 186.708,
+  "t_end": 186.708,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Field walk: hoof plant (k4481)",
+  "kaynak": "R9",
+  "guven": "likely"
+ },
+ {
+  "t": 186.75,
+  "t_end": 187.0,
+  "ad": "fren",
+  "tepe": -15,
+  "tur": "tek",
+  "aciklama": "The scent ribbon dissolves (koku-ters at 186.3) and Barnaby stops dead mid-run, ",
+  "kaynak": "D",
+  "guven": "sure"
+ },
+ {
+  "t": 186.958,
+  "t_end": 187.083,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Field walk: last striding hoof plant (k4487) just before Barnaby halts",
+  "kaynak": "R9",
+  "guven": "likely"
+ },
+ {
+  "t": 187.167,
+  "t_end": 187.75,
+  "ad": "uzun-koklama",
+  "tepe": -32,
+  "tur": "tek",
+  "aciklama": "Field wide: Barnaby's head tilts back, nose raised, sniffing the air while the s",
+  "kaynak": "R9",
+  "guven": "likely"
+ },
+ {
+  "t": 187.792,
+  "t_end": 188.25,
+  "ad": "burun-cekme",
+  "tepe": -28,
+  "tur": "tek",
+  "aciklama": "CUT at k4507 to low-angle close-up: Barnaby's nose up, eyes closed, sniffing har",
+  "kaynak": "R9",
+  "guven": "likely"
+ },
+ {
+  "t": 189.625,
+  "t_end": 195.0,
+  "ad": "ping",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Geese flock enters top-left corner of sky (k4551) and crosses the frame left-to-",
+  "kaynak": "R9",
+  "guven": "sure"
+ },
+ {
+  "t": 190.0,
+  "t_end": 194.75,
+  "ad": "kaz",
+  "tepe": -25,
+  "tur": "kaz",
+  "aciklama": "Geese V enters top-left at 189.75-190.0, crosses in front of the moon 190.5-192.",
+  "kaynak": "D",
+  "guven": "likely"
+ },
+ {
+  "t": 192.667,
+  "t_end": 192.792,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Hazel scrambles up Barnaby's shoulder/collar to hug his neck, grinning at the ge",
+  "kaynak": "R9",
+  "guven": "likely"
+ },
+ {
+  "t": 195.25,
+  "t_end": 195.292,
+  "ad": "whoosh",
+  "tepe": -23,
+  "tur": "tek",
+  "aciklama": "Barnaby's head snaps down and forward in a single frame (k4685->k4686) from wide",
+  "kaynak": "R9",
+  "guven": "sure"
+ },
+ {
+  "t": 195.333,
+  "t_end": 195.5,
+  "ad": "doink",
+  "tepe": -21,
+  "tur": "tek",
+  "aciklama": "Head stops abruptly facing camera, brow furrowed, angry glare locked in (k4688);",
+  "kaynak": "R9",
+  "guven": "likely"
+ },
+ {
+  "t": 198.0,
+  "t_end": 205.0,
+  "ad": "adim",
+  "tepe": -32,
+  "tur": "adim",
+  "aciklama": "Wide shot: Mama (yellow shawl, left) and Papa (green sweater, right) walk slowly",
+  "kaynak": "E",
+  "guven": "sure"
+ },
+ {
+  "t": 200.5,
+  "t_end": 201.5,
+  "ad": "adim",
+  "tepe": -29,
+  "tur": "adim",
+  "aciklama": "Table scene: Papa walks toward camera over the leaf carpet from 199.75 to 201.75",
+  "kaynak": "D",
+  "guven": "likely"
+ },
+ {
+  "t": 206.25,
+  "t_end": 206.625,
+  "ad": "yun",
+  "tepe": -29,
+  "tur": "tek",
+  "aciklama": "At the table (shot from k4924): Mama, back to camera in yellow shawl, turns arou",
+  "kaynak": "R9",
+  "guven": "sure"
+ },
+ {
+  "t": 206.333,
+  "t_end": 206.5,
+  "ad": "uzun-koklama",
+  "tepe": -36,
+  "tur": "tek",
+  "aciklama": "Barnaby closes his eyes and tilts his head toward his parents (k4952-4955), open",
+  "kaynak": "R9",
+  "guven": "guess"
+ },
+ {
+  "t": 209.75,
+  "t_end": 209.875,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Barnaby closes his eyes and lowers his head; Hazel presses her face to his cheek",
+  "kaynak": "R10",
+  "guven": "likely"
+ },
+ {
+  "t": 211.708,
+  "t_end": 212.5,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Mama walks into frame from the right and approaches Barnaby, shawl swaying, unti",
+  "kaynak": "R10",
+  "guven": "likely"
+ },
+ {
+  "t": 211.75,
+  "t_end": 212.75,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Mama's first walking step as she enters frame right (feet off-frame; timing esti",
+  "kaynak": "R10",
+  "guven": "guess"
+ },
+ {
+  "t": 212.083,
+  "t_end": 212.083,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Mama's second walking step toward Barnaby (feet off-frame, k5090)",
+  "kaynak": "R10",
+  "guven": "guess"
+ },
+ {
+  "t": 212.417,
+  "t_end": 212.417,
+  "ad": "adim",
+  "tepe": -37,
+  "tur": "adim",
+  "aciklama": "Mama's last step as she settles to a stop in front of Barnaby (feet off-frame, k",
+  "kaynak": "R10",
+  "guven": "guess"
+ },
+ {
+  "t": 215.5,
+  "t_end": 215.708,
+  "ad": "burun-cekme",
+  "tepe": -36,
+  "tur": "tek",
+  "aciklama": "Barnaby closes his eyes and lifts his muzzle toward Mama again after her 'Barnab",
+  "kaynak": "R10",
+  "guven": "guess"
+ },
+ {
+  "t": 217.333,
+  "t_end": 217.75,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Barnaby and Mama both lean in, eyes closing, heads coming together before the no",
+  "kaynak": "R10",
+  "guven": "likely"
+ },
+ {
+  "t": 218.25,
+  "t_end": 218.958,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Nose-to-nose nuzzle continues; Mama's nose slides against Barnaby's as the camer",
+  "kaynak": "R10",
+  "guven": "likely"
+ },
+ {
+  "t": 219.333,
+  "t_end": 219.75,
+  "ad": "yun",
+  "tepe": -29,
+  "tur": "tek",
+  "aciklama": "(after the cut at k5262/219.25 to a shot from behind Barnaby) Mama wraps both fo",
+  "kaynak": "R10",
+  "guven": "sure"
+ },
+ {
+  "t": 219.5,
+  "t_end": 219.75,
+  "ad": "ping",
+  "tepe": -28,
+  "tur": "tek",
+  "aciklama": "Hazel is squished between Mama's chest and Barnaby in the hug, eyes shut and mou",
+  "kaynak": "E",
+  "guven": "likely"
+ },
+ {
+  "t": 222.75,
+  "t_end": 223.0,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "(after the cut at k5338/222.417 to the close side-view hug) Mama pulls her head ",
+  "kaynak": "R10",
+  "guven": "likely"
+ },
+ {
+  "t": 225.792,
+  "t_end": 225.875,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Mama, laughing, leans in and presses her nose to Barnaby's cheek; Barnaby squint",
+  "kaynak": "R10",
+  "guven": "likely"
+ },
+ {
+  "t": 226.0,
+  "t_end": 226.333,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Mama's raised hoof cups Barnaby's cheek beside Hazel, then lowers again (k5424-k",
+  "kaynak": "R10",
+  "guven": "likely"
+ },
+ {
+  "t": 226.583,
+  "t_end": 226.875,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Mama leans in again, nose against Barnaby's cheek (k5438-k5441)",
+  "kaynak": "R10",
+  "guven": "likely"
+ },
+ {
+  "t": 227.417,
+  "t_end": 227.708,
+  "ad": "whoosh",
+  "tepe": -26,
+  "tur": "tek",
+  "aciklama": "Camera whip-pans right from Mama across the blurred lanterns to Papa at the tabl",
+  "kaynak": "R10",
+  "guven": "sure"
+ },
+ {
+  "t": 234.25,
+  "t_end": 234.25,
+  "ad": "adim",
+  "tepe": -33,
+  "tur": "adim",
+  "aciklama": "Papa releases the bell cord and both his hooves settle onto the wooden tabletop ",
+  "kaynak": "R11",
+  "guven": "likely"
+ },
+ {
+  "t": 235.833,
+  "t_end": 235.875,
+  "ad": "adim",
+  "tepe": -32,
+  "tur": "adim",
+  "aciklama": "Barnaby lifts a hind hoof out of the leaf litter, start of his bashful shuffle (",
+  "kaynak": "R11",
+  "guven": "sure"
+ },
+ {
+  "t": 238.5,
+  "t_end": 238.958,
+  "ad": "yun",
+  "tepe": -33,
+  "tur": "tek",
+  "aciklama": "Hazel scampers down Barnaby's red sweater sleeve/arm toward the table (medium sh",
+  "kaynak": "R11",
+  "guven": "sure"
+ },
+ {
+  "t": 238.75,
+  "t_end": 239.0,
+  "ad": "doink",
+  "tepe": -25,
+  "tur": "tek",
+  "aciklama": "Table close shot: Hazel scurries down from Barnaby's shoulder along his arm (238",
+  "kaynak": "E",
+  "guven": "sure"
+ },
+ {
+  "t": 239.0,
+  "t_end": 239.0,
+  "ad": "yapiskan",
+  "tepe": -32,
+  "tur": "tek",
+  "aciklama": "Hazel's front paws land on the pie-crust rim (k5736)",
+  "kaynak": "R11",
+  "guven": "sure"
+ },
+ {
+  "t": 239.125,
+  "t_end": 239.792,
+  "ad": "adim",
+  "tepe": -32,
+  "tur": "adim",
+  "aciklama": "Hazel pitter-patters right along the tabletop to the berry bowl carrying the haz",
+  "kaynak": "R11",
+  "guven": "sure"
+ },
+ {
+  "t": 239.125,
+  "t_end": 239.5,
+  "ad": "inis",
+  "tepe": -24,
+  "tur": "tek",
+  "aciklama": "Hazel hops off the pie onto the wooden tabletop (k5739)",
+  "kaynak": "R11",
+  "guven": "likely"
+ },
+ {
+  "t": 240.125,
+  "t_end": 240.458,
+  "ad": "yun",
+  "tepe": -34,
+  "tur": "tek",
+  "aciklama": "Hazel turns around and sits up to face Mama as Mama says 'Thank you, Hazel' (k57",
+  "kaynak": "R11",
+  "guven": "likely"
+ }
+]

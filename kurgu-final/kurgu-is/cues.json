@@ -968,23 +968,23 @@
  },
  {
   "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/kaz-surusu.wav",
-  "t": 17.0,
-  "src_t0": 0.0,
-  "src_t1": null,
-  "fi": 0.4,
-  "fo": 0.8,
-  "gain_db": -16.0
- },
- {
-  "stem": "sfx",
-  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/tepik-hafif.wav",
-  "t": 23.32,
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/kaz-yakin.wav",
+  "t": 15.7,
   "src_t0": 0.0,
   "src_t1": null,
   "fi": 0.005,
   "fo": 0.05,
-  "gain_db": -14.0
+  "gain_db": -18.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/kaz-yakin.wav",
+  "t": 17.6,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
  },
  {
   "stem": "sfx",
@@ -1327,6 +1327,2201 @@
   "fi": 0.005,
   "fo": 0.8,
   "gain_db": -15.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ruzgar.wav",
+  "t": 0.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -29.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 1.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 1.792,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -30.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 1.792,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -15.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 2.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 3.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -30.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/uzun-koklama.wav",
+  "t": 5.042,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 5.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 5.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 5.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 6.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 6.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 6.292,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 9.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -30.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-ucusmasi.wav",
+  "t": 10.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -19.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/dortnala.wav",
+  "t": 10.042,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.15,
+  "fo": 0.45,
+  "gain_db": -17.0,
+  "loop_to": 2.341
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-dususu.wav",
+  "t": 11.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -21.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 11.667,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -17.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-dususu.wav",
+  "t": 11.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -21.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 13.208,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -17.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/fren.wav",
+  "t": 13.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -9.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 13.67,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -12.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 13.458,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -12.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 13.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 15.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 19.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 21.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 22.083,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ziplama.wav",
+  "t": 22.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -17.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/govde-pat.wav",
+  "t": 22.375,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -18.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 22.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-citirti.wav",
+  "t": 22.625,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 22.833,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -15.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-dususu.wav",
+  "t": 22.9,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 23.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 26.208,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 26.458,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 26.708,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 26.958,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 27.208,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 27.458,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 27.708,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 27.958,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 28.042,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 29.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 29.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 29.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 30.042,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 30.333,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 30.625,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 30.917,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 31.167,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 31.417,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 31.708,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/dortnala.wav",
+  "t": 32.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.15,
+  "fo": 0.45,
+  "gain_db": -17.0,
+  "loop_to": 0.8
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 32.167,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -12.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 33.4,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 35.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 35.833,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 39.458,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 39.708,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 39.958,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 40.208,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 48.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 49.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 51.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 54.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/koku.wav",
+  "t": 54.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 56.458,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 58.458,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 59.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 59.583,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 59.917,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 60.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 60.583,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 60.917,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 61.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 61.583,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 61.917,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 62.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 62.583,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 62.917,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/fren.wav",
+  "t": 62.917,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -17.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 63.337,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 63.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -30.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 63.042,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 63.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 64.292,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 65.125,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 66.667,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 67.125,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 67.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 68.333,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 68.792,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -30.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 69.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 70.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/surup.wav",
+  "t": 70.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 71.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 72.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/koku.wav",
+  "t": 72.125,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 74.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 75.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -24.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 75.375,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yapiskan.wav",
+  "t": 76.833,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/surup.wav",
+  "t": 77.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 78.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/boynuz-dal.wav",
+  "t": 81.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -25.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-dususu.wav",
+  "t": 82.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ziplama.wav",
+  "t": 85.167,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 89.083,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -24.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 89.333,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 89.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 89.583,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/surup.wav",
+  "t": 103.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/dortnala.wav",
+  "t": 104.042,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.15,
+  "fo": 0.45,
+  "gain_db": -20.0,
+  "loop_to": 4.875
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ziplama.wav",
+  "t": 104.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -18.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-ucusmasi.wav",
+  "t": 104.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -24.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-ucusmasi.wav",
+  "t": 105.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -24.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/uzun-koklama.wav",
+  "t": 105.958,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 106.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -30.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 106.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/uzun-koklama.wav",
+  "t": 108.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -30.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/fren.wav",
+  "t": 109.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -9.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 109.42,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -12.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 110.958,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/uzun-koklama.wav",
+  "t": 111.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 113.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -21.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-ucusmasi.wav",
+  "t": 113.208,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ziplama.wav",
+  "t": 113.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -17.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/dortnala.wav",
+  "t": 113.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.15,
+  "fo": 0.45,
+  "gain_db": -20.0,
+  "loop_to": 2.55
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/inis.wav",
+  "t": 113.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -14.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/govde-pat.wav",
+  "t": 114.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 115.375,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -13.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/boynuz-dal.wav",
+  "t": 115.417,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/fren.wav",
+  "t": 115.667,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -12.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 116.087,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -15.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-ucusmasi.wav",
+  "t": 115.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -19.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 115.833,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 115.958,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 116.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yapiskan.wav",
+  "t": 121.792,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 126.958,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 133.333,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 133.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 137.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 138.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 140.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 140.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/govde-pat.wav",
+  "t": 141.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -18.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 141.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yapiskan.wav",
+  "t": 145.375,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/boynuz-dal.wav",
+  "t": 145.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-citirti.wav",
+  "t": 149.917,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -32.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 153.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/uzun-koklama.wav",
+  "t": 158.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -30.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 165.917,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 172.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 174.333,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/govde-pat.wav",
+  "t": 174.417,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -18.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 174.458,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 174.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ruzgar.wav",
+  "t": 174.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -33.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 175.167,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 175.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/kaz-yakin.wav",
+  "t": 175.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 176.375,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 178.333,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 178.958,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -24.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/uzun-koklama.wav",
+  "t": 179.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -21.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 180.292,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -24.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 181.083,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 183.542,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 183.625,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ziplama.wav",
+  "t": 183.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -18.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 183.833,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/dortnala.wav",
+  "t": 184.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.15,
+  "fo": 0.45,
+  "gain_db": -21.0,
+  "loop_to": 1.5
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yaprak-ucusmasi.wav",
+  "t": 184.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -24.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 185.625,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 185.958,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 186.208,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 186.458,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 186.708,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/fren.wav",
+  "t": 186.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -9.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 187.17,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -12.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 186.958,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/uzun-koklama.wav",
+  "t": 187.167,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 187.792,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 189.625,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/kaz-yakin.wav",
+  "t": 190.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -19.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 192.667,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 195.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -17.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 195.333,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -15.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 198.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 200.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 206.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/uzun-koklama.wav",
+  "t": 206.333,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -30.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 209.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 211.708,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 211.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 212.083,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 212.417,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -31.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/burun-cekme.wav",
+  "t": 215.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -30.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 217.333,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 218.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 219.333,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -23.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/ping.wav",
+  "t": 219.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -22.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 222.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 225.792,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 226.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 226.583,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/whoosh.wav",
+  "t": 227.417,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -20.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 234.25,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim2.wav",
+  "t": 235.833,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 238.5,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -27.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/doink.wav",
+  "t": 238.75,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -19.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yapiskan.wav",
+  "t": 239.0,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/adim1.wav",
+  "t": 239.125,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -26.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/inis.wav",
+  "t": 239.125,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -18.0
+ },
+ {
+  "stem": "sfx",
+  "file": "/tmp/claude-0/-home-user-barnaby-the-moose/092a3a41-7dca-5bb2-96ae-2443fc1a8e4e/scratchpad/kurgu/yeni/sfxn/yun.wav",
+  "t": 240.125,
+  "src_t0": 0.0,
+  "src_t1": null,
+  "fi": 0.005,
+  "fo": 0.05,
+  "gain_db": -28.0
  },
  {
   "stem": "sfx",

@@ -1,147 +1,366 @@
 ﻿zaman,film_sn,tur,kim,icerik,dosya,not_
+00:00.000,0.0,efekt,,ruzgar,ruzgar.wav,"kare: Close-up, Barnaby facing camera, panting: visible breath clouds puff from his no | tepe -35 dBFS"
 00:00.000,0.0,ortam,,ortam-gunduz-ormani-dongu.mp3,ortam-gunduz-ormani-dongu.mp3,dongu 137.0 sn
 00:00.000,0.0,muzik,,M0_acilis_140s.mp3,M0_acilis_140s.mp3,"0-134.0 sn, diyalog altinda -8 dB"
-00:00.300,0.3,efekt,,el-cani-uzak,el-cani-uzak.wav,tepe -24 dBFS (ham)
+00:00.300,0.3,efekt,,el-cani-uzak,el-cani-uzak.wav, | tepe -24 dBFS
+00:01.750,1.75,efekt,,yun,yun.wav,kare: Hazel pops up from behind Barnaby's left shoulder and settles on it (motion-blur | tepe -34 dBFS
+00:01.792,1.792,efekt,,burun-cekme,burun-cekme.wav,kare: k43-k45: Hazel pops up from behind onto Barnaby's left shoulder (fully visible a | tepe -36 dBFS
+00:01.792,1.792,efekt,,doink,doink.wav,kare: k43-k45: Hazel pops up from behind onto Barnaby's left shoulder (fully visible a | tepe -21 dBFS
 00:01.890,1.89,diyalog,Hazel,"First bell, Barnaby. Last bell is sunset.",D40_H1.wav,
-00:17.000,17.0,efekt,,kaz-surusu,kaz-surusu.wav,tepe -22 dBFS (ham)
+00:02.000,2.0,efekt,,adim1,adim1.wav,"kare: k48-k120: Barnaby walks toward camera while Hazel talks; hooves are below frame, | tepe -37 dBFS"
+00:03.250,3.25,efekt,,burun-cekme,burun-cekme.wav,kare: k78-k80: Barnaby closes eyes and tilts nose up briefly mid-walk (k81 eyes open a | tepe -36 dBFS
+00:05.042,5.042,efekt,,uzun-koklama,uzun-koklama.wav,"kare: k121-k150: Barnaby prances with eyes closed and nose up, following the golden sc | tepe -28 dBFS"
+00:05.250,5.25,efekt,,adim2,adim2.wav,"kare: k126: prance step, right hoof lands (left leg kicked up behind) | tepe -33 dBFS"
+00:05.500,5.5,efekt,,adim1,adim1.wav,"kare: k132: prance step, left hoof lands | tepe -33 dBFS"
+00:05.750,5.75,efekt,,adim2,adim2.wav,"kare: k138: prance step, right hoof lands | tepe -33 dBFS"
+00:06.000,6.0,efekt,,adim1,adim1.wav,"kare: k144: prance step, left hoof lands (wide stride) | tepe -33 dBFS"
+00:06.250,6.25,efekt,,adim2,adim2.wav,"kare: k150: last prance step, right hoof lands; head tilts, eyes still closed | tepe -29 dBFS"
+00:06.292,6.292,efekt,,whoosh,whoosh.wav,"kare: k151: Barnaby whips into a full spin (motion blur, back to camera at k151), k152 | tepe -26 dBFS"
+00:09.250,9.25,efekt,,burun-cekme,burun-cekme.wav,kare: k222-k227: in the balance pose Barnaby closes his eyes and smiles with nose towa | tepe -36 dBFS
+00:10.000,10.0,efekt,,yaprak-ucusmasi,yaprak-ucusmasi.wav,kare: Barnaby pushes off out of the prance pose; his rear hoof flicks a spray of orang | tepe -25 dBFS
+00:10.042,10.042,efekt,,dortnala,dortnala.wav,kare: kosu | tepe -23 dBFS
+00:11.000,11.0,efekt,,yaprak-dususu,yaprak-dususu.wav,kare: Big flurry of orange leaves thrown up by his hooves fills the frame; after he ex | tepe -27 dBFS
+00:11.667,11.667,efekt,,whoosh,whoosh.wav,kare: k280-k284: Barnaby blurs past the camera at close range and exits frame right at | tepe -23 dBFS
+00:11.750,11.75,efekt,,yaprak-dususu,yaprak-dususu.wav,"kare: k282-k296: empty frame, loose leaves swirl and drift through the air in Barnaby' | tepe -27 dBFS"
+00:13.208,13.208,efekt,,whoosh,whoosh.wav,"kare: k317: Barnaby bursts into frame from the left in a motion blur, arms out, headin | tepe -23 dBFS"
+00:13.250,13.25,efekt,,fren,fren.wav,"kare: k318-k322: Looney-Tunes skid: Barnaby leans back, hooves thrust forward and slid | tepe -15 dBFS"
+00:13.458,13.458,efekt,,doink,doink.wav,"kare: k323: body jolts to a dead stop inches from the lead goose, arms out, mouth open | tepe -18 dBFS"
+00:13.670,13.67,efekt,,doink,doink.wav, | tepe -18 dBFS
+00:13.750,13.75,efekt,,adim1,adim1.wav,"kare: Still alarmed with arms out, Barnaby takes five exaggerated high-knee tiptoe ste | tepe -29 dBFS"
+00:15.000,15.0,efekt,,adim2,adim2.wav,"kare: Expression turns determined and Barnaby goose-steps in line with the geese, legs | tepe -28 dBFS"
+00:15.700,15.7,efekt,,kaz-yakin,kaz-yakin.wav, | tepe -24 dBFS
+00:17.600,17.6,efekt,,kaz-yakin,kaz-yakin.wav, | tepe -26 dBFS
+00:19.000,19.0,efekt,,adim1,adim1.wav,"kare: Barnaby halts in the middle of the goose line, drops his arms and plants both ho | tepe -37 dBFS"
 00:19.250,19.25,diyalog,Hazel,They're going our way.,D40_H2.wav,
 00:20.670,20.67,diyalog,Barnaby,No time!,D40_B1.wav,
-00:23.320,23.32,efekt,,tepik-hafif,tepik-hafif.wav,tepe -20 dBFS (ham)
+00:21.500,21.5,efekt,,adim2,adim2.wav,"kare: Wide shot: Barnaby strides away from the geese toward the right (contacts ~21.6, | tepe -33 dBFS"
+00:22.083,22.083,efekt,,adim1,adim1.wav,"kare: k530: wide shot (cut at k514), Barnaby takes a first step forward, right hoof la | tepe -37 dBFS"
+00:22.250,22.25,efekt,,ziplama,ziplama.wav,"kare: k534: Barnaby crouches and springs (motion blur), k535-k536 airborne with leaves | tepe -23 dBFS"
+00:22.375,22.375,efekt,,govde-pat,govde-pat.wav,kare: k537-k539: Barnaby dives into the foreground leaf pile (antlers pass top of fram | tepe -24 dBFS
+00:22.500,22.5,efekt,,yun,yun.wav,"kare: k540-k542: leaf pile heaves and settles, something stirring inside | tepe -33 dBFS"
+00:22.625,22.625,efekt,,yaprak-citirti,yaprak-citirti.wav,kare: k543-k545: antler tips then whole head burst up through the leaf pile in a spray | tepe -29 dBFS
+00:22.833,22.833,efekt,,doink,doink.wav,kare: k548: Hazel pops up out of the leaves onto Barnaby's shoulder | tepe -21 dBFS
+00:22.900,22.9,efekt,,yaprak-dususu,yaprak-dususu.wav,kare: Loose leaves flutter back down around Barnaby and Hazel after the landing | tepe -32 dBFS
+00:23.750,23.75,efekt,,whoosh,whoosh.wav,"kare: k570: Barnaby (close-up, sitting in leaf pile, Hazel on shoulder) snaps from hal | tepe -26 dBFS"
 00:23.890,23.89,diyalog,Hazel,"Four out of ten, Barnaby.",D40_H3.wav,
 00:25.500,25.5,diyalog,Barnaby,Four?,D40_B2.wav,
-00:26.400,26.4,efekt,,toynak,toynak.wav,tepe -25 dBFS (ham)
-00:27.900,27.9,efekt,,toynak,toynak.wav,tepe -26 dBFS (ham)
-00:30.150,30.15,efekt,,tepik-uzak,tepik-uzak.wav,tepe -21 dBFS (ham)
+00:26.208,26.208,efekt,,adim2,adim2.wav,"kare: k629: CUT at k624 (26.000) to frontal shot, Barnaby walking toward camera on lea | tepe -29 dBFS"
+00:26.400,26.4,efekt,,toynak,toynak.wav, | tepe -25 dBFS
+00:26.458,26.458,efekt,,adim1,adim1.wav,kare: k635: right hoof (screen left) plants (near existing toynak 26.40 - keep one) | tepe -29 dBFS
+00:26.708,26.708,efekt,,adim2,adim2.wav,kare: k641: left hoof plants | tepe -29 dBFS
+00:26.958,26.958,efekt,,adim1,adim1.wav,kare: k647: right hoof plants | tepe -29 dBFS
+00:27.208,27.208,efekt,,adim2,adim2.wav,kare: k653: left hoof plants | tepe -29 dBFS
+00:27.458,27.458,efekt,,adim1,adim1.wav,kare: k659: right hoof plants | tepe -29 dBFS
+00:27.708,27.708,efekt,,adim2,adim2.wav,kare: k665: left hoof plants | tepe -29 dBFS
+00:27.900,27.9,efekt,,toynak,toynak.wav, | tepe -26 dBFS
+00:27.958,27.958,efekt,,adim1,adim1.wav,"kare: k671: right hoof plants - last step, Barnaby comes to a stand (near existing toy | tepe -33 dBFS"
+00:28.042,28.042,efekt,,yun,yun.wav,"kare: k673-k678: standing still, Barnaby raises his left arm and cups his hoof to his  | tepe -34 dBFS"
+00:29.250,29.25,efekt,,adim2,adim2.wav,"kare: k702: CUT at k696 (29.000) to profile wide shot, Barnaby tiptoe-walking left to  | tepe -33 dBFS"
+00:29.500,29.5,efekt,,adim1,adim1.wav,kare: k708: hoof plants on flagstone | tepe -33 dBFS
+00:29.750,29.75,efekt,,adim2,adim2.wav,kare: k714: hoof plants | tepe -33 dBFS
+00:30.042,30.042,efekt,,adim1,adim1.wav,kare: k721: hoof plants (existing tepik-uzak at 30.15 sits 2-3 frames after this conta | tepe -33 dBFS
+00:30.150,30.15,efekt,,tepik-uzak,tepik-uzak.wav, | tepe -21 dBFS
+00:30.333,30.333,efekt,,adim2,adim2.wav,kare: k728: hoof plants | tepe -33 dBFS
+00:30.625,30.625,efekt,,adim1,adim1.wav,kare: k735: hoof plants | tepe -33 dBFS
+00:30.917,30.917,efekt,,adim2,adim2.wav,"kare: k742: hoof plants (head lifting, listening; 'Papa's step!' at 31.02) | tepe -33 dBFS"
 00:31.020,31.02,diyalog,Barnaby,Papa's step!,D40_B3.wav,
-00:36.120,36.12,efekt,,tepik-hafif,tepik-hafif.wav,tepe -19 dBFS (ham)
+00:31.167,31.167,efekt,,adim1,adim1.wav,kare: k748: hoof plants | tepe -33 dBFS
+00:31.417,31.417,efekt,,adim2,adim2.wav,kare: k754: hoof plants | tepe -33 dBFS
+00:31.708,31.708,efekt,,whoosh,whoosh.wav,kare: k761: stride suddenly lengthens - front hoof lands far ahead in a big lunge; he  | tepe -26 dBFS
+00:32.000,32.0,efekt,,dortnala,dortnala.wav,kare: kosu | tepe -23 dBFS
+00:32.167,32.167,efekt,,doink,doink.wav,"kare: k772-k773: freeze on one leg - rear leg flips up behind him, arms out, Hazel cli | tepe -18 dBFS"
+00:33.400,33.4,efekt,,yun,yun.wav,kare: Hazel swings from his shoulder down onto his muzzle and clings to his nose/scarf | tepe -34 dBFS
+00:35.750,35.75,efekt,,yun,yun.wav,kare: Hazel scrambles back up from his nose to his shoulder (motion-blurred at 35.875) | tepe -34 dBFS
+00:35.833,35.833,efekt,,whoosh,whoosh.wav,kare: k860-k864: Barnaby springs up out of the crouch and spins round to face the came | tepe -26 dBFS
+00:36.120,36.12,efekt,,tepik-hafif,tepik-hafif.wav, | tepe -19 dBFS
 00:37.730,37.73,diyalog,Barnaby,Oh.,D40_B4.wav,
 00:38.090,38.09,diyalog,Hazel,Eight out of ten.,D40_H4.wav,
-00:40.550,40.55,efekt,,uzun-koklama,uzun-koklama.wav,tepe -27 dBFS (ham)
-00:41.050,41.05,efekt,,koku,koku.wav,tepe -28 dBFS (ham)
+00:39.458,39.458,efekt,,adim1,adim1.wav,"kare: k947: after balancing on one leg since 36.0 (arms out, knee raised), Barnaby fin | tepe -28 dBFS"
+00:39.708,39.708,efekt,,adim2,adim2.wav,"kare: k953: hoof plants, walking right | tepe -33 dBFS"
+00:39.958,39.958,efekt,,adim1,adim1.wav,kare: k959: hoof plants | tepe -33 dBFS
+00:40.208,40.208,efekt,,adim2,adim2.wav,"kare: k965: hoof plants, Barnaby exiting frame right (CUT at k968 / 40.333) | tepe -33 dBFS"
+00:40.550,40.55,efekt,,uzun-koklama,uzun-koklama.wav, | tepe -27 dBFS
+00:41.050,41.05,efekt,,koku,koku.wav, | tepe -28 dBFS
 00:41.400,41.4,diyalog,Barnaby,Cinnamon and warm wool. That's Mama's table.,S3-3_B3.wav,
 00:45.640,45.64,diyalog,Hazel,"Three ridges to the lights, but the sun is getting low.",S3-3_H4.wav,
+00:48.250,48.25,efekt,,burun-cekme,burun-cekme.wav,"kare: Meadow medium shot: Barnaby dips his head down-right toward the scent ribbon, ey | tepe -32 dBFS"
 00:48.680,48.68,diyalog,Barnaby,Then let's follow the scent!,S3-3_B5.wav,
-00:49.000,49.0,efekt,,toynak,toynak.wav,tepe -26 dBFS (ham)
-00:50.700,50.7,efekt,,burun-cekme,burun-cekme.wav,tepe -27 dBFS (ham)
+00:49.000,49.0,efekt,,toynak,toynak.wav, | tepe -26 dBFS
+00:49.500,49.5,efekt,,adim1,adim1.wav,kare: Barnaby walks slowly forward following the ribbon; feet are off-frame but his bo | tepe -37 dBFS
+00:50.700,50.7,efekt,,burun-cekme,burun-cekme.wav, | tepe -27 dBFS
+00:51.750,51.75,efekt,,ping,ping.wav,kare: Barnaby's eyes pop wide open and mouth drops open right before 'Pie!' (k1241 eye | tepe -28 dBFS
 00:51.820,51.82,diyalog,Barnaby,Pie! Papa's pie! It smells so sweet!,S3-4_B6.wav,
 00:54.480,54.48,diyalog,Hazel,"Sweet, yes. But where did the wool go?",S3-4_H7.wav,
+00:54.500,54.5,efekt,,ping,ping.wav,kare: The translucent scent ribbon flowing into Barnaby's nose thins and dissolves awa | tepe -34 dBFS
+00:54.750,54.75,efekt,,koku,koku.wav,"kare: The scent ribbon vanishes from Barnaby's nose (visible at 54.5, gone at 54.75) a | tepe -37 dBFS"
+00:56.458,56.458,efekt,,whoosh,whoosh.wav,"kare: Barnaby throws both arms up and out wide, eyes closed, for 'The pie is so big, i | tepe -26 dBFS"
 00:56.580,56.58,diyalog,Barnaby,"The pie is so big, it ate the wool.",S3-4_B8.wav,
+00:58.458,58.458,efekt,,yun,yun.wav,"kare: Barnaby lowers his spread arms back down, slight shrug, eyes still closed (k1403 | tepe -33 dBFS"
+00:59.250,59.25,efekt,,adim2,adim2.wav,"kare: Wide shot walk-in: far hoof lands on the leaf-strewn path (k1422), brisk stroll  | tepe -29 dBFS"
 00:59.540,59.54,diyalog,Hazel,"Barnaby, the wool is gone. Let's stop and sniff properly.",S3-5_H9.wav,
+00:59.583,59.583,efekt,,adim1,adim1.wav,kare: Near hoof lands (k1430) | tepe -33 dBFS
+00:59.917,59.917,efekt,,adim2,adim2.wav,kare: Far hoof lands (k1438) | tepe -33 dBFS
+01:00.250,60.25,efekt,,adim1,adim1.wav,kare: Near hoof lands (k1446) | tepe -33 dBFS
+01:00.583,60.583,efekt,,adim2,adim2.wav,kare: Far hoof lands (k1454) | tepe -33 dBFS
+01:00.917,60.917,efekt,,adim1,adim1.wav,kare: Near hoof lands (k1462) | tepe -33 dBFS
+01:01.250,61.25,efekt,,adim2,adim2.wav,"kare: Hoof lands (k1470), cadence continues (~8 frames/step, +-2 frames) | tepe -37 dBFS"
+01:01.583,61.583,efekt,,adim1,adim1.wav,kare: Hoof lands (k1478) | tepe -37 dBFS
+01:01.917,61.917,efekt,,adim2,adim2.wav,kare: Hoof lands (k1486) | tepe -37 dBFS
+01:02.250,62.25,efekt,,adim1,adim1.wav,kare: Hoof lands (k1494) | tepe -37 dBFS
+01:02.583,62.583,efekt,,adim2,adim2.wav,kare: Hoof lands (k1502) | tepe -37 dBFS
+01:02.917,62.917,efekt,,adim1,adim1.wav,"kare: Barnaby glides to a stop in front of the maple: head drops ~12 px over 6 frames, | tepe -37 dBFS"
+01:02.917,62.917,efekt,,fren,fren.wav,"kare: Barnaby glides to a stop in front of the maple: head drops ~12 px over 6 frames, | tepe -23 dBFS"
+01:03.000,63.0,efekt,,burun-cekme,burun-cekme.wav,kare: Barnaby opens his eyes with a sly sideways look at Hazel ('One little sniff of p | tepe -36 dBFS
+01:03.042,63.042,efekt,,ping,ping.wav,kare: Barnaby's eyes open sideways with a sly grin as he starts 'One little sniff of p | tepe -34 dBFS
 01:03.180,63.18,diyalog,Barnaby,"One little sniff of pie, then wool. Promise.",S3-5_B10.wav,
-01:05.150,65.15,efekt,,surup,surup.wav,tepe -24 dBFS (ham)
+01:03.250,63.25,efekt,,adim2,adim2.wav,kare: Final settling hoof contact / weight shift as the walk ends (k1518); leg motion  | tepe -37 dBFS
+01:03.337,63.337,efekt,,doink,doink.wav, | tepe -26 dBFS
+01:04.292,64.292,efekt,,yun,yun.wav,"kare: Barnaby raises a hoof-hand in a 'Promise' gesture, hand rises into frame k1543-k | tepe -33 dBFS"
+01:05.125,65.125,efekt,,yun,yun.wav,"kare: Hand drops back down, head turns toward the tree, nose lifts and mouth opens for | tepe -33 dBFS"
+01:05.150,65.15,efekt,,surup,surup.wav, | tepe -24 dBFS
+01:06.667,66.667,efekt,,adim1,adim1.wav,kare: Barnaby leans forward (from ~66.0) and resumes walking toward the trunk nose-fir | tepe -33 dBFS
 01:06.720,66.72,diyalog,Hazel,This is a bad idea.,S3-5_H11.wav,
-01:07.500,67.5,efekt,,toynak,toynak.wav,tepe -26 dBFS (ham)
-01:07.900,67.9,efekt,,uzun-koklama,uzun-koklama.wav,tepe -28 dBFS (ham)
-01:09.100,69.1,efekt,,toynak,toynak.wav,tepe -27 dBFS (ham)
+01:07.125,67.125,efekt,,adim2,adim2.wav,kare: Second approach hoof contact (k1611); the existing toynak at 67.50 (k1620) is th | tepe -33 dBFS
+01:07.500,67.5,efekt,,toynak,toynak.wav, | tepe -26 dBFS
+01:07.750,67.75,efekt,,adim1,adim1.wav,"kare: Fourth approach hoof contact (k1630), Barnaby now close under the canopy, eyes c | tepe -29 dBFS"
+01:07.900,67.9,efekt,,uzun-koklama,uzun-koklama.wav, | tepe -28 dBFS
+01:08.333,68.333,efekt,,adim2,adim2.wav,"kare: Last visible hoof contact before the cut (k1640), near leg lands | tepe -33 dBFS"
+01:08.792,68.792,efekt,,burun-cekme,burun-cekme.wav,kare: After the CUT at k1643 (68.458) to the close-up profile: Barnaby's nose inches t | tepe -36 dBFS
+01:09.000,69.0,efekt,,adim1,adim1.wav,"kare: Sheets 070-073, k1656-k1731: Barnaby walks slowly forward, eyes closed, followin | tepe -33 dBFS"
+01:09.100,69.1,efekt,,toynak,toynak.wav, | tepe -27 dBFS
 01:09.940,69.94,diyalog,Hazel,"Barnaby, open your eyes. That's a tree.",S4-1_H12.wav,
+01:10.250,70.25,efekt,,adim2,adim2.wav,kare: Closer profile shot: Barnaby keeps walking slowly toward the maple with the ribb | tepe -33 dBFS
+01:10.500,70.5,efekt,,surup,surup.wav,kare: Amber sap drop on the trunk swells and stretches into a long teardrop (small at  | tepe -33 dBFS
+01:11.000,71.0,efekt,,adim1,adim1.wav,"kare: Next slow step toward the tree, far leg down at 71.0 | tepe -33 dBFS"
+01:12.000,72.0,efekt,,adim2,adim2.wav,"kare: Final step arriving beside the trunk; near leg lifted at 71.75, planted around 7 | tepe -37 dBFS"
+01:12.125,72.125,efekt,,koku,koku.wav,kare: k1731-k1734: the golden scent ribbon dissolves away as Barnaby arrives nose-to-t | tepe -32 dBFS
 01:13.000,73.0,diyalog,Barnaby,I don't need eyes. I have a nose.,S4-1_B13.wav,
-01:14.550,74.55,efekt,,toynak3,toynak3.wav,tepe -24 dBFS (ham)
-01:15.260,75.26,efekt,,thwup,thwup.wav,tepe -17 dBFS (ham)
-01:15.700,75.7,efekt,,mmf,mmf.wav,tepe -24 dBFS (ham)
-01:17.160,77.16,efekt,,pop,pop.wav,tepe -17 dBFS (ham)
-01:18.400,78.4,efekt,,yaprak-citirti,yaprak-citirti.wav,tepe -31 dBFS (ham)
+01:14.500,74.5,efekt,,yun,yun.wav,"kare: Sheet 075, k1788-k1799: Barnaby leans in, eyes still closed, nose closing on the | tepe -34 dBFS"
+01:14.550,74.55,efekt,,toynak3,toynak3.wav, | tepe -24 dBFS
+01:15.000,75.0,efekt,,ping,ping.wav,"kare: Sheet 076, k1800: Barnaby's nose makes contact with the sap drop; k1801-k1806 th | tepe -30 dBFS"
+01:15.260,75.26,efekt,,thwup,thwup.wav, | tepe -17 dBFS
+01:15.375,75.375,efekt,,ping,ping.wav,"kare: Sheet 076, k1809: Barnaby's eyes pop wide open for the first time (closed throug | tepe -28 dBFS"
+01:15.700,75.7,efekt,,mmf,mmf.wav, | tepe -24 dBFS
+01:16.833,76.833,efekt,,yapiskan,yapiskan.wav,"kare: k1844: red maple leaf slaps onto Barnaby's nose, glued by sap (seen first at k18 | tepe -32 dBFS"
+01:17.160,77.16,efekt,,pop,pop.wav, | tepe -17 dBFS
+01:17.250,77.25,efekt,,surup,surup.wav,kare: Right after the pop (77.16) a sap string stretches from the red leaf stuck on hi | tepe -33 dBFS
+01:18.000,78.0,efekt,,ping,ping.wav,"kare: Sheet 079, k1872-k1875: CROSS-DISSOLVE (not a hard cut) from the tight tree shot | tepe -34 dBFS"
+01:18.400,78.4,efekt,,yaprak-citirti,yaprak-citirti.wav, | tepe -31 dBFS
 01:18.600,78.6,diyalog,Barnaby,That's not pie.,S4-2_B14.wav,
-01:20.400,80.4,efekt,,ruzgar,ruzgar.wav,tepe -27 dBFS (ham)
+01:20.400,80.4,efekt,,ruzgar,ruzgar.wav, | tepe -27 dBFS
 01:20.660,80.66,diyalog,Hazel,Tree sugar. The wind turned and hid Mama's smell.,S4-2_H15.wav,
+01:21.250,81.25,efekt,,boynuz-dal,boynuz-dal.wav,"kare: Sheet 082, k1950-k1955: Barnaby tilts his head up to look at the maple canopy ov | tepe -31 dBFS"
+01:22.750,82.75,efekt,,yaprak-dususu,yaprak-dususu.wav,"kare: Sheets 083-084, k1986-k1999: a small loose leaf drifts down past Barnaby's sweat | tepe -32 dBFS"
 01:23.760,83.76,diyalog,Barnaby,So the pie was a tree.,S4-2_B16.wav,
-01:25.900,85.9,efekt,,uzak-cift-can,uzak-cift-can.wav,tepe -16 dBFS (ham)
+01:25.167,85.167,efekt,,ziplama,ziplama.wav,"kare: Sheet 086, k2044-k2051: Barnaby's eyes snap up and to the right, mouth freezes m | tepe -28 dBFS"
+01:25.900,85.9,efekt,,uzak-cift-can,uzak-cift-can.wav, | tepe -16 dBFS
 01:26.840,86.84,diyalog,Hazel,That's the second bell. Papa's hurry bell.,S4-3_H17.wav,
+01:29.083,89.083,efekt,,ping,ping.wav,"kare: Sheet 090, k2138: first geese appear as specks beside the sun at far frame-left, | tepe -30 dBFS"
+01:29.333,89.333,efekt,,whoosh,whoosh.wav,"kare: Sheet 090, k2144-k2153: Barnaby's double-take: eyes go wide at k2144, then the h | tepe -26 dBFS"
+01:29.500,89.5,efekt,,adim1,adim1.wav,kare: k2148-k2153: the body pivot requires his hooves to shuffle on the leaf litter; h | tepe -37 dBFS
+01:29.583,89.583,efekt,,yun,yun.wav,"kare: k2150: Hazel vanishes behind Barnaby's head as he turns; sheet 091, k2164-k2166: | tepe -34 dBFS"
 01:29.680,89.68,diyalog,Barnaby,Behind us?,S4-3_B18.wav,
-01:30.200,90.2,efekt,,kaz-surusu,kaz-surusu.wav,tepe -23 dBFS (ham)
+01:30.200,90.2,efekt,,kaz-surusu,kaz-surusu.wav, | tepe -23 dBFS
 01:30.920,90.92,diyalog,Hazel,The geese knew.,S4-3_H19.wav,
 01:32.700,92.7,diyalog,Barnaby,I followed my nose the wrong way.,S4-3_B20.wav,
 01:35.940,95.94,diyalog,Hazel,"Last bell is sunset, then Papa sits everyone down.",S4-4_H21.wav,
 01:39.000,99.0,diyalog,Barnaby,Papa never waits.,S4-4_B22.wav,
 01:40.220,100.22,diyalog,Hazel,"Three ridges before, now five.",S4-4_H23.wav,
 01:43.220,103.22,diyalog,Barnaby,Five?,S4-4_B24.wav,
+01:43.250,103.25,efekt,,surup,surup.wav,"kare: Close-up at the tree: Barnaby's jaw drops wide open on 'Five?' (103.17-103.33),  | tepe -33 dBFS"
 01:43.940,103.94,diyalog,Hazel,Run!,S4-4_H25.wav,
-01:44.200,104.2,efekt,,kosu,kosu.wav,tepe -25 dBFS (ham)
+01:44.042,104.042,efekt,,dortnala,dortnala.wav,kare: kosu | tepe -26 dBFS
+01:44.200,104.2,efekt,,kosu,kosu.wav, | tepe -25 dBFS
+01:44.250,104.25,efekt,,ziplama,ziplama.wav,"kare: Hard cut to Barnaby already running through the foggy forest, arms pumping, Haze | tepe -24 dBFS"
 01:44.362,104.362,diyalog,Hazel,The sun is touching the hill.,S5-1_H26.wav,
+01:44.500,104.5,efekt,,yaprak-ucusmasi,yaprak-ucusmasi.wav,"kare: Small orange leaves fly past Barnaby's head/antlers as he runs (k2508-k2513), al | tepe -30 dBFS"
+01:45.500,105.5,efekt,,yaprak-ucusmasi,yaprak-ucusmasi.wav,"kare: While he runs, red leaves tumble past in the background on the right of frame be | tepe -30 dBFS"
+01:45.958,105.958,efekt,,uzun-koklama,uzun-koklama.wav,"kare: Still running: Barnaby shuts his eyes and lifts his nose (k2543-k2545), then rai | tepe -28 dBFS"
+01:46.250,106.25,efekt,,burun-cekme,burun-cekme.wav,kare: While running Barnaby squints (106.0) then lifts his nose and sniffs the air bef | tepe -36 dBFS
+01:46.750,106.75,efekt,,burun-cekme,burun-cekme.wav,"kare: Still running, Barnaby lifts his nose up and sniffs the air (head tilts up 106.8 | tepe -28 dBFS"
 01:46.962,106.962,diyalog,Barnaby,Whoa. I only smell syrup!,S5-1_B27.wav,
+01:48.250,108.25,efekt,,uzun-koklama,uzun-koklama.wav,"kare: Running, eyes half closed, grinning, nose raised again savouring the syrup smell | tepe -36 dBFS"
+01:49.000,109.0,efekt,,fren,fren.wav,kare: SKID STOP: cut to wide shot at 108.96; first frame 109.00 shows Barnaby leaning  | tepe -15 dBFS
+01:49.420,109.42,efekt,,doink,doink.wav, | tepe -18 dBFS
 01:49.611,109.611,diyalog,Hazel,You smell like pancakes.,S5-1_H28.wav,
-01:50.300,110.3,efekt,,yun,yun.wav,tepe -29 dBFS (ham)
-01:51.050,111.05,efekt,,yaprak-citirti,yaprak-citirti.wav,tepe -31 dBFS (ham)
+01:50.300,110.3,efekt,,yun,yun.wav, | tepe -29 dBFS
+01:50.958,110.958,efekt,,ping,ping.wav,kare: Hooves bring the sweater and an orange maple leaf stuck to it up to his nose (k2 | tepe -34 dBFS
+01:51.000,111.0,efekt,,uzun-koklama,uzun-koklama.wav,"kare: Barnaby holds the leaf/sweater against his nose and sniffs it, eyes going wide ( | tepe -28 dBFS"
+01:51.050,111.05,efekt,,yaprak-citirti,yaprak-citirti.wav, | tepe -31 dBFS
 01:52.071,112.071,diyalog,Barnaby,Oh.,S5-1_B29.wav,
+01:53.000,113.0,efekt,,whoosh,whoosh.wav,"kare: Wide shot (cut 112.62): he stares at the leaf in his hoof (113.07), then whips h | tepe -27 dBFS"
+01:53.208,113.208,efekt,,yaprak-ucusmasi,yaprak-ucusmasi.wav,"kare: Running start: Barnaby pushes off into the leaf-covered ground, first stride to  | tepe -26 dBFS"
+01:53.250,113.25,efekt,,ziplama,ziplama.wav,kare: kosu | tepe -23 dBFS
+01:53.250,113.25,efekt,,dortnala,dortnala.wav,kare: kosu | tepe -26 dBFS
+01:53.500,113.5,efekt,,inis,inis.wav,kare: Skipping/hopping run around the tree with Hazel on his back: bounding beside the | tepe -20 dBFS
+01:54.250,114.25,efekt,,govde-pat,govde-pat.wav,"kare: Landing from the hop into the leaves, arms still up (k2742), then he keeps runni | tepe -28 dBFS"
+01:55.375,115.375,efekt,,doink,doink.wav,kare: k2769: Barnaby's chest/front collides with the tree trunk; his body wraps around | tepe -19 dBFS
+01:55.417,115.417,efekt,,boynuz-dal,boynuz-dal.wav,kare: k2770-2771: antlers overlap and rake the bark as he slides around the trunk | tepe -32 dBFS
+01:55.667,115.667,efekt,,fren,fren.wav,"kare: k2776-2779: Barnaby pushes off the trunk and stops dead, both arms out to the si | tepe -18 dBFS"
+01:55.750,115.75,efekt,,yaprak-ucusmasi,yaprak-ucusmasi.wav,kare: k2778-2782: loose leaves fly up around his hooves and off to his right after the | tepe -25 dBFS
+01:55.833,115.833,efekt,,whoosh,whoosh.wav,kare: k2780-2782: head/antlers snap around (k2780-2781) and the whole body whips 180 d | tepe -26 dBFS
+01:55.958,115.958,efekt,,adim2,adim2.wav,"kare: k2783: hooves re-plant after the spin, now facing left of frame | tepe -33 dBFS"
+01:56.000,116.0,efekt,,yun,yun.wav,"kare: k2784-2791: Barnaby settles, arms come down, red sweater shifts; Hazel re-settle | tepe -34 dBFS"
+01:56.087,116.087,efekt,,doink,doink.wav, | tepe -21 dBFS
 01:57.773,117.773,diyalog,Barnaby,"Excuse me, sir. Which way to Mama's table?",S5-2_B30.wav,
-02:00.000,120.0,efekt,,yaprak-dususu,yaprak-dususu.wav,tepe -27 dBFS (ham)
+02:00.000,120.0,efekt,,yaprak-dususu,yaprak-dususu.wav, | tepe -27 dBFS
+02:01.792,121.792,efekt,,yapiskan,yapiskan.wav,kare: k2919: the single red leaf that fell from the tree (yaprak-dususu at 120.00) tou | tepe -33 dBFS
 02:01.818,121.818,diyalog,Barnaby,He didn't answer.,S5-2_B31.wav,
 02:02.878,122.878,diyalog,Hazel,"He's a tree, and that's three times.",S5-2_H32.wav,
-02:05.000,125.0,efekt,,ruzgar,ruzgar.wav,tepe -30 dBFS (ham)
+02:05.000,125.0,efekt,,ruzgar,ruzgar.wav, | tepe -30 dBFS
 02:06.000,126.0,ortam,,ortam-gece-ormani-dongu.mp3,ortam-gece-ormani-dongu.mp3,dongu 125.417 sn
+02:06.958,126.958,efekt,,yun,yun.wav,"kare: k3047-3052: Hazel scurries from Barnaby's shoulder up to his neck/cheek, tail sw | tepe -34 dBFS"
 02:09.135,129.135,diyalog,Barnaby,No bell.,S5-3_B33.wav,
 02:10.695,130.695,diyalog,Hazel,"The fog swallows sound, Barnaby. Maybe we just can't hear it.",S5-3_H34.wav,
+02:13.333,133.333,efekt,,yun,yun.wav,"kare: k3200-3203: Barnaby raises a front hoof to his chest, pressing the sweater, as h | tepe -34 dBFS"
 02:13.415,133.415,diyalog,Barnaby,Papa never waits. They've started.,S5-3_B35.wav,
+02:13.500,133.5,efekt,,adim1,adim1.wav,kare: His two front hooves come together at his chest (133.4-133.5) as he says 'Papa n | tepe -37 dBFS
 02:15.615,135.615,diyalog,Barnaby,We're lost.,S5-3_B36.wav,
 02:16.395,136.395,diyalog,Hazel,Then we stop and think.,S5-3_H37.wav,
+02:17.000,137.0,efekt,,yun,yun.wav,kare: k3288-3290: the hoof held at his chest drops back down out of view | tepe -34 dBFS
 02:17.250,137.25,muzik,,M1_S6-S7_64s.mp3,M1_S6-S7_64s.mp3,"0-60.883 sn, diyalog altinda -8 dB"
+02:18.250,138.25,efekt,,adim2,adim2.wav,kare: Wide sunset shot: Barnaby (Hazel on shoulder) shifts his weight and turns slight | tepe -37 dBFS
 02:18.750,138.75,diyalog,Hazel,We stop here until morning.,S6-1_H1.wav,
+02:20.000,140.0,efekt,,adim1,adim1.wav,"kare: Barnaby, standing in the hollow doorway (wide moonlit shot), takes one step forw | tepe -33 dBFS"
+02:20.500,140.5,efekt,,yun,yun.wav,kare: Sit-down: he crouches in the hollow doorway (140.5-140.9) and sits onto the leaf | tepe -29 dBFS
+02:21.000,141.0,efekt,,govde-pat,govde-pat.wav,kare: Barnaby drops from standing (140.75) to sitting inside the hollow (seated by 141 | tepe -24 dBFS
+02:21.000,141.0,efekt,,yun,yun.wav,kare: Barnaby drops from standing (140.75) to sitting inside the hollow (seated by 141 | tepe -29 dBFS
 02:22.010,142.01,diyalog,Barnaby,But Mama's table...,S6-1_B1.wav,
 02:23.010,143.01,diyalog,Hazel,"Morning, Barnaby.",S6-1_H2.wav,
 02:24.640,144.64,diyalog,Barnaby,My antlers grew. Mama won't know me.,S6-2-D1_B1.wav,
+02:25.375,145.375,efekt,,yapiskan,yapiskan.wav,"kare: Close shot (after cut at k3469): Barnaby's eyes, closed since the cut, open gent | tepe -33 dBFS"
+02:25.500,145.5,efekt,,boynuz-dal,boynuz-dal.wav,"kare: Close-up in hollow: Barnaby's eyes, closed since 144.75 while Hazel cuddles his  | tepe -32 dBFS"
 02:27.940,147.94,diyalog,Hazel,Your nose found a pie three valleys away.,S6-2-D1_H1.wav,
+02:29.917,149.917,efekt,,yaprak-citirti,yaprak-citirti.wav,kare: Two red leaves appear on the ground at the bottom-right of frame (first at k3598 | tepe -38 dBFS
 02:31.392,151.392,diyalog,Barnaby,It found a tree.,S6-2-D2_B1.wav,
+02:33.250,153.25,efekt,,yun,yun.wav,"kare: Close shot: Hazel, who has been up at Barnaby's cheek with her paws on his muzzl | tepe -34 dBFS"
 02:33.372,153.372,diyalog,Hazel,Barnaby. You are very hard to not know.,S6-2-D2_H1.wav,
 02:35.910,155.91,diyalog,Hazel,Sound travels at night. Call.,S6-3-E1_H1.wav,
+02:38.250,158.25,efekt,,uzun-koklama,uzun-koklama.wav,kare: Barnaby closes his eyes and fills his chest before opening his mouth wide to cal | tepe -36 dBFS
 02:38.370,158.37,diyalog,Barnaby,Mama.,S6-3-E1_B1a.wav,
 02:39.910,159.91,diyalog,Barnaby,Papa.,S6-3-E1_B1b.wav,
 02:42.930,162.93,diyalog,Barnaby,Mama... It's Barnaby!,S6-3-E2_B1.wav,
-02:45.950,165.95,efekt,,el-cani-uzak,el-cani-uzak.wav,tepe -23 dBFS (ham)
+02:45.917,165.917,efekt,,whoosh,whoosh.wav,"kare: k3982: Barnaby, sitting in the hollow looking down, snaps his head up and his ey | tepe -26 dBFS"
+02:45.950,165.95,efekt,,el-cani-uzak,el-cani-uzak.wav, | tepe -23 dBFS
 02:46.217,166.217,diyalog,Hazel,That's not the last bell.,S6-4_H1.wav,
 02:47.697,167.697,diyalog,Barnaby,Hmm.,S6-4_Hmm.wav,
 02:48.537,168.537,diyalog,Barnaby,A soft bell... like a lamp left on.,S6-4_B1.wav,
-02:49.300,169.3,efekt,,el-cani-uzak,el-cani-uzak.wav,tepe -27 dBFS (ham)
+02:49.300,169.3,efekt,,el-cani-uzak,el-cani-uzak.wav, | tepe -27 dBFS
 02:50.917,170.917,diyalog,Hazel,Somebody's still waiting.,S6-4_H2.wav,
+02:52.250,172.25,efekt,,yun,yun.wav,"kare: Hazel leans in and nuzzles Barnaby's cheek (""Somebody's still waiting"" / ""For... | tepe -34 dBFS"
 02:52.837,172.837,diyalog,Barnaby,For... me?,S6-4_B2.wav,
-02:53.950,173.95,efekt,,yun,yun.wav,tepe -31 dBFS (ham)
+02:53.950,173.95,efekt,,yun,yun.wav, | tepe -31 dBFS
+02:54.333,174.333,efekt,,yun,yun.wav,kare: k4184-k4188: Barnaby starts getting up: his left arm swings out from his lap tow | tepe -29 dBFS
+02:54.417,174.417,efekt,,govde-pat,govde-pat.wav,kare: k4186: Barnaby's left hoof presses against the bark of the hollow's inner wall t | tepe -24 dBFS
+02:54.458,174.458,efekt,,adim2,adim2.wav,kare: k4187: Barnaby's right hoof comes down onto the leaf-littered ground beside his  | tepe -28 dBFS
+02:54.750,174.75,efekt,,adim1,adim1.wav,kare: Moonlit fog drifts through the whole outdoor stretch from Barnaby leaving the ho | tepe -37 dBFS
+02:54.750,174.75,efekt,,ruzgar,ruzgar.wav,kare: Moonlit fog drifts through the whole outdoor stretch from Barnaby leaving the ho | tepe -39 dBFS
+02:55.167,175.167,efekt,,adim2,adim2.wav,kare: k4204: first step out of the hollow: Barnaby's screen-right hoof (lifted at k420 | tepe -29 dBFS
 02:55.310,175.31,diyalog,Barnaby,"Nose, I know you love pie. But today, please... find Mama.",S6-5_B1.wav,
-02:57.600,177.6,efekt,,koku,koku.wav,tepe -27 dBFS (ham)
+02:55.500,175.5,efekt,,yun,yun.wav,"kare: Standing, Barnaby raises a hand and grabs/pinches his own nose, eyes closed, tal | tepe -33 dBFS"
+02:55.500,175.5,efekt,,kaz-yakin,kaz-yakin.wav,"kare: Standing, Barnaby raises a hand and grabs/pinches his own nose, eyes closed, tal | tepe -29 dBFS"
+02:56.375,176.375,efekt,,yun,yun.wav,kare: k4233-k4235: the extended arm comes back in to his chest | tepe -34 dBFS
+02:57.600,177.6,efekt,,koku,koku.wav, | tepe -27 dBFS
+02:58.333,178.333,efekt,,burun-cekme,burun-cekme.wav,kare: k4280-k4294: Barnaby's eyes are closed and he raises and tilts his nose toward t | tepe -32 dBFS
+02:58.958,178.958,efekt,,ping,ping.wav,"kare: k4295: the tip of the scent ribbon reaches and enters Barnaby's nostril, glowing | tepe -30 dBFS"
+02:59.000,179.0,efekt,,uzun-koklama,uzun-koklama.wav,"kare: k4296-k4325: long slow inhale: eyes closed, head tilting up, the golden ribbon s | tepe -27 dBFS"
+03:00.292,180.292,efekt,,ping,ping.wav,kare: k4327: Barnaby's eyes pop wide open and his mouth drops open as he recognizes th | tepe -30 dBFS
 03:00.350,180.35,diyalog,Barnaby,Warm wool. Mama's shawl! This way!,S6-5_B2.wav,
+03:01.083,181.083,efekt,,whoosh,whoosh.wav,kare: k4346-k4348: Barnaby's arm whips out from his chest to point sharply to the righ | tepe -26 dBFS
 03:02.590,182.59,diyalog,Hazel,Not pie?,S6-5_H1.wav,
 03:03.470,183.47,diyalog,Barnaby,Not pie. Mama.,S6-5_B3.wav,
-03:03.550,183.55,efekt,,kosu,kosu.wav,tepe -27 dBFS (ham)
+03:03.542,183.542,efekt,,yun,yun.wav,"kare: k4405-k4407: push-off into the run: right heel lifts, pointing arm drops down in | tepe -34 dBFS"
+03:03.550,183.55,efekt,,kosu,kosu.wav, | tepe -27 dBFS
+03:03.625,183.625,efekt,,adim1,adim1.wav,kare: k4407: first running step: screen-right hoof lands on the leaf-littered ground t | tepe -29 dBFS
+03:03.750,183.75,efekt,,ziplama,ziplama.wav,kare: Barnaby lifts his left leg and pushes off to start running right (existing kosu  | tepe -24 dBFS
+03:03.833,183.833,efekt,,adim2,adim2.wav,kare: k4412: second running step: screen-left hoof (swung high at k4408-k4410) lands o | tepe -29 dBFS
+03:04.000,184.0,efekt,,dortnala,dortnala.wav,kare: kosu | tepe -27 dBFS
+03:04.250,184.25,efekt,,yaprak-ucusmasi,yaprak-ucusmasi.wav,kare: Leaves kicked up from the hollow doorstep as Barnaby launches into the run. | tepe -30 dBFS
 03:04.850,184.85,diyalog,Hazel,Go.,S6-5_H2.wav,
-03:06.300,186.3,efekt,,koku-ters,koku-ters.wav,tepe -28 dBFS (ham)
+03:05.625,185.625,efekt,,adim1,adim1.wav,kare: Forest walk: next hoof plant by cadence (k4455) while Barnaby is mostly out of f | tepe -29 dBFS
+03:05.958,185.958,efekt,,adim2,adim2.wav,kare: CUT at k4459 to field wide shot: Barnaby small in frame walking toward the strin | tepe -33 dBFS
+03:06.208,186.208,efekt,,adim1,adim1.wav,"kare: Field walk: hoof plant (k4469), body at low point of bounce | tepe -33 dBFS"
+03:06.300,186.3,efekt,,koku-ters,koku-ters.wav, | tepe -28 dBFS
+03:06.458,186.458,efekt,,adim2,adim2.wav,kare: Field walk: hoof plant (k4475) after a high knee lift at k4473 | tepe -33 dBFS
+03:06.708,186.708,efekt,,adim1,adim1.wav,kare: Field walk: hoof plant (k4481) | tepe -33 dBFS
+03:06.750,186.75,efekt,,fren,fren.wav,"kare: The scent ribbon dissolves (koku-ters at 186.3) and Barnaby stops dead mid-run,  | tepe -15 dBFS"
+03:06.958,186.958,efekt,,adim2,adim2.wav,kare: Field walk: last striding hoof plant (k4487) just before Barnaby halts | tepe -33 dBFS
+03:07.167,187.167,efekt,,uzun-koklama,uzun-koklama.wav,"kare: Field wide: Barnaby's head tilts back, nose raised, sniffing the air while the s | tepe -32 dBFS"
+03:07.170,187.17,efekt,,doink,doink.wav, | tepe -18 dBFS
+03:07.792,187.792,efekt,,burun-cekme,burun-cekme.wav,"kare: CUT at k4507 to low-angle close-up: Barnaby's nose up, eyes closed, sniffing har | tepe -28 dBFS"
 03:07.992,187.992,diyalog,Barnaby,The fog ate Mama's smell. I can't smell anything!,S7-1_B1.wav,
+03:09.625,189.625,efekt,,ping,ping.wav,kare: Geese flock enters top-left corner of sky (k4551) and crosses the frame left-to- | tepe -34 dBFS
+03:10.000,190.0,efekt,,kaz-yakin,kaz-yakin.wav,"kare: Geese V enters top-left at 189.75-190.0, crosses in front of the moon 190.5-192. | tepe -25 dBFS"
 03:10.392,190.392,diyalog,Hazel,Then don't smell. Look. The geese.,S7-1_H1.wav,
-03:11.500,191.5,efekt,,kaz-surusu,kaz-surusu.wav,tepe -21 dBFS (ham)
+03:11.500,191.5,efekt,,kaz-surusu,kaz-surusu.wav, | tepe -21 dBFS
+03:12.667,192.667,efekt,,yun,yun.wav,"kare: Hazel scrambles up Barnaby's shoulder/collar to hug his neck, grinning at the ge | tepe -34 dBFS"
 03:12.832,192.832,diyalog,Hazel,They eat Mama's corn at the lights. They know the way.,S7-1_H2.wav,
+03:15.250,195.25,efekt,,whoosh,whoosh.wav,kare: Barnaby's head snaps down and forward in a single frame (k4685->k4686) from wide | tepe -23 dBFS
+03:15.333,195.333,efekt,,doink,doink.wav,"kare: Head stops abruptly facing camera, brow furrowed, angry glare locked in (k4688); | tepe -21 dBFS"
 03:15.552,195.552,diyalog,Barnaby,Dinner before me?!,S7-1_B2.wav,
 03:16.833,196.833,muzik,,M2_S8-S9_58s.mp3,M2_S8-S9_58s.mp3,"0-54.584 sn, diyalog altinda -8 dB"
 03:16.852,196.852,diyalog,Hazel,Geese are punctual.,S7-1_H3.wav,
+03:18.000,198.0,efekt,,adim1,adim1.wav,"kare: Wide shot: Mama (yellow shawl, left) and Papa (green sweater, right) walk slowly | tepe -32 dBFS"
 03:18.253,198.253,diyalog,Anne,"Papa, the sun went down a long time ago.",S8-1_A1.wav,
-03:20.100,200.1,efekt,,toynak,toynak.wav,tepe -25 dBFS (ham)
+03:20.100,200.1,efekt,,toynak,toynak.wav, | tepe -25 dBFS
+03:20.500,200.5,efekt,,adim2,adim2.wav,kare: Table scene: Papa walks toward camera over the leaf carpet from 199.75 to 201.75 | tepe -29 dBFS
 03:21.133,201.133,diyalog,Baba,The table isn't full yet.,S8-1_P1.wav,
-03:23.100,203.1,efekt,,cift-can,cift-can.wav,tepe -21 dBFS (ham)
+03:23.100,203.1,efekt,,cift-can,cift-can.wav, | tepe -21 dBFS
 03:23.313,203.313,diyalog,Anne,No. It isn't.,S8-1_A2.wav,
-03:25.467,205.467,efekt,,v2_two-soft-slow-hoof-steps-on-dry-autumn-l_1byJJW,v2_two-soft-slow-hoof-steps-on-dry-autumn-l_1byJJW.mp3,tepe -7 dBFS (ham)
-03:26.117,206.117,efekt,,one-single-crisp-dry-leaf-crunching-unde_v1_mb30Fo,one-single-crisp-dry-leaf-crunching-unde_v1_mb30Fo.mp3,tepe -4 dBFS (ham)
+03:25.467,205.467,efekt,,v2_two-soft-slow-hoof-steps-on-dry-autumn-l_1byJJW,v2_two-soft-slow-hoof-steps-on-dry-autumn-l_1byJJW.mp3, | tepe -7 dBFS
+03:26.117,206.117,efekt,,one-single-crisp-dry-leaf-crunching-unde_v1_mb30Fo,one-single-crisp-dry-leaf-crunching-unde_v1_mb30Fo.mp3, | tepe -4 dBFS
+03:26.250,206.25,efekt,,yun,yun.wav,"kare: At the table (shot from k4924): Mama, back to camera in yellow shawl, turns arou | tepe -29 dBFS"
+03:26.333,206.333,efekt,,uzun-koklama,uzun-koklama.wav,"kare: Barnaby closes his eyes and tilts his head toward his parents (k4952-4955), open | tepe -36 dBFS"
 03:27.187,207.187,diyalog,Anne,Who's there?,S8-2_A68.wav,
 03:27.997,207.997,diyalog,Hazel,They kept the bell for you.,S8-2_H69.wav,
 03:29.677,209.677,diyalog,Barnaby,They waited.,S8-2_B70.wav,
-03:34.508,214.508,efekt,,two-quick-deep-sniffs-through-a-big-soft_v1_9F8l2L,two-quick-deep-sniffs-through-a-big-soft_v1_9F8l2L.mp3,tepe -23 dBFS (ham)
+03:29.750,209.75,efekt,,yun,yun.wav,kare: Barnaby closes his eyes and lowers his head; Hazel presses her face to his cheek | tepe -34 dBFS
+03:31.708,211.708,efekt,,yun,yun.wav,"kare: Mama walks into frame from the right and approaches Barnaby, shawl swaying, unti | tepe -34 dBFS"
+03:31.750,211.75,efekt,,adim1,adim1.wav,kare: Mama's first walking step as she enters frame right (feet off-frame; timing esti | tepe -33 dBFS
+03:32.083,212.083,efekt,,adim2,adim2.wav,"kare: Mama's second walking step toward Barnaby (feet off-frame, k5090) | tepe -37 dBFS"
+03:32.417,212.417,efekt,,adim1,adim1.wav,"kare: Mama's last step as she settles to a stop in front of Barnaby (feet off-frame, k | tepe -37 dBFS"
+03:34.508,214.508,efekt,,two-quick-deep-sniffs-through-a-big-soft_v1_9F8l2L,two-quick-deep-sniffs-through-a-big-soft_v1_9F8l2L.mp3, | tepe -23 dBFS
 03:35.248,215.248,diyalog,Anne,Barnaby?,S8-3_A71.wav,
+03:35.500,215.5,efekt,,burun-cekme,burun-cekme.wav,kare: Barnaby closes his eyes and lifts his muzzle toward Mama again after her 'Barnab | tepe -36 dBFS
 03:37.058,217.058,diyalog,Barnaby,Mama.,S8-3_B72.wav,
-03:37.758,217.758,efekt,,a-tiny-soft-touch-of-two-furry-noses-a-v_v1_7QywER,a-tiny-soft-touch-of-two-furry-noses-a-v_v1_7QywER.mp3,tepe 10 dBFS (ham)
+03:37.333,217.333,efekt,,yun,yun.wav,"kare: Barnaby and Mama both lean in, eyes closing, heads coming together before the no | tepe -34 dBFS"
+03:37.758,217.758,efekt,,a-tiny-soft-touch-of-two-furry-noses-a-v_v1_7QywER,a-tiny-soft-touch-of-two-furry-noses-a-v_v1_7QywER.mp3, | tepe 10 dBFS
+03:38.250,218.25,efekt,,yun,yun.wav,kare: Nose-to-nose nuzzle continues; Mama's nose slides against Barnaby's as the camer | tepe -34 dBFS
+03:39.333,219.333,efekt,,yun,yun.wav,kare: (after the cut at k5262/219.25 to a shot from behind Barnaby) Mama wraps both fo | tepe -29 dBFS
+03:39.500,219.5,efekt,,ping,ping.wav,"kare: Hazel is squished between Mama's chest and Barnaby in the hug, eyes shut and mou | tepe -28 dBFS"
 03:39.644,219.644,diyalog,Anne,Look how big you are.,S8-4_A73.wav,
-03:42.150,222.15,efekt,,a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI,a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI.mp3,tepe -2 dBFS (ham)
+03:42.150,222.15,efekt,,a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI,a-tiny-sticky-tap-a-hoof-tip-touching-st_v1_eczWyI.mp3, | tepe -2 dBFS
+03:42.750,222.75,efekt,,yun,yun.wav,kare: (after the cut at k5338/222.417 to the close side-view hug) Mama pulls her head  | tepe -34 dBFS
 03:43.486,223.486,diyalog,Barnaby,I followed Papa's pie.,S8-4_B74a.wav,
 03:45.055,225.055,diyalog,Anne,Papa's pie has a tree in it.,S8-4_A75.wav,
+03:45.792,225.792,efekt,,yun,yun.wav,"kare: Mama, laughing, leans in and presses her nose to Barnaby's cheek; Barnaby squint | tepe -34 dBFS"
+03:46.000,226.0,efekt,,adim2,adim2.wav,"kare: Mama's raised hoof cups Barnaby's cheek beside Hazel, then lowers again (k5424-k | tepe -33 dBFS"
+03:46.583,226.583,efekt,,yun,yun.wav,"kare: Mama leans in again, nose against Barnaby's cheek (k5438-k5441) | tepe -34 dBFS"
+03:47.417,227.417,efekt,,whoosh,whoosh.wav,kare: Camera whip-pans right from Mama across the blurred lanterns to Papa at the tabl | tepe -26 dBFS
 03:47.680,227.68,diyalog,Barnaby,It was a tree.,S8-4_B74b.wav,
 03:48.660,228.66,diyalog,Baba,"Hmm, maple.",S8-4_P76.wav,
 03:50.532,230.532,diyalog,Anne,"Now we can ring it, Papa.",S9-1_A77.wav,
 03:52.622,232.622,diyalog,Baba,Hmm.,S9-1_P78.wav,
-03:53.442,233.442,efekt,,v2_a-hand-pulled-small-brass-bell-on-a-wood_LcY6IM,v2_a-hand-pulled-small-brass-bell-on-a-wood_LcY6IM.mp3,tepe -14 dBFS (ham)
-03:54.682,234.682,efekt,,tepik_v1_Hq3Izf,tepik_v1_Hq3Izf.mp3,tepe -3 dBFS (ham)
-03:55.322,235.322,efekt,,tepik_v1_Hq3Izf,tepik_v1_Hq3Izf.mp3,tepe -3 dBFS (ham)
-03:56.212,236.212,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav,tepe 1 dBFS (ham)
-03:56.622,236.622,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav,tepe 0 dBFS (ham)
-03:56.962,236.962,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav,tepe 1 dBFS (ham)
-03:57.212,237.212,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav,tepe 0 dBFS (ham)
-03:57.332,237.332,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav,tepe -3 dBFS (ham)
-03:57.502,237.502,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav,tepe 0 dBFS (ham)
-03:57.792,237.792,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav,tepe 1 dBFS (ham)
-03:59.933,239.933,efekt,,v2_a-small-hazelnut-set-down-gently-on-a-wo_sYd1oY,v2_a-small-hazelnut-set-down-gently-on-a-wo_sYd1oY.mp3,tepe -9 dBFS (ham)
+03:53.442,233.442,efekt,,v2_a-hand-pulled-small-brass-bell-on-a-wood_LcY6IM,v2_a-hand-pulled-small-brass-bell-on-a-wood_LcY6IM.mp3, | tepe -14 dBFS
+03:54.250,234.25,efekt,,adim1,adim1.wav,kare: Papa releases the bell cord and both his hooves settle onto the wooden tabletop  | tepe -33 dBFS
+03:54.682,234.682,efekt,,tepik_v1_Hq3Izf,tepik_v1_Hq3Izf.mp3, | tepe -3 dBFS
+03:55.322,235.322,efekt,,tepik_v1_Hq3Izf,tepik_v1_Hq3Izf.mp3, | tepe -3 dBFS
+03:55.833,235.833,efekt,,adim2,adim2.wav,"kare: Barnaby lifts a hind hoof out of the leaf litter, start of his bashful shuffle ( | tepe -32 dBFS"
+03:56.212,236.212,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav, | tepe 1 dBFS
+03:56.622,236.622,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav, | tepe 0 dBFS
+03:56.962,236.962,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav, | tepe 1 dBFS
+03:57.212,237.212,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav, | tepe 0 dBFS
+03:57.332,237.332,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav, | tepe -3 dBFS
+03:57.502,237.502,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav, | tepe 0 dBFS
+03:57.792,237.792,efekt,,tepik_v1_hafif,tepik_v1_hafif.wav, | tepe 1 dBFS
+03:58.500,238.5,efekt,,yun,yun.wav,kare: Hazel scampers down Barnaby's red sweater sleeve/arm toward the table (medium sh | tepe -33 dBFS
+03:58.750,238.75,efekt,,doink,doink.wav,kare: Table close shot: Hazel scurries down from Barnaby's shoulder along his arm (238 | tepe -25 dBFS
+03:59.000,239.0,efekt,,yapiskan,yapiskan.wav,kare: Hazel's front paws land on the pie-crust rim (k5736) | tepe -32 dBFS
+03:59.125,239.125,efekt,,adim1,adim1.wav,kare: Hazel hops off the pie onto the wooden tabletop (k5739) | tepe -32 dBFS
+03:59.125,239.125,efekt,,inis,inis.wav,kare: Hazel hops off the pie onto the wooden tabletop (k5739) | tepe -24 dBFS
+03:59.933,239.933,efekt,,v2_a-small-hazelnut-set-down-gently-on-a-wo_sYd1oY,v2_a-small-hazelnut-set-down-gently-on-a-wo_sYd1oY.mp3, | tepe -9 dBFS
 04:00.000,240.0,diyalog,Anne,"Thank you, Hazel.",S9-2a_A79.wav,
+04:00.125,240.125,efekt,,yun,yun.wav,"kare: Hazel turns around and sits up to face Mama as Mama says 'Thank you, Hazel' (k57 | tepe -34 dBFS"
 04:03.705,243.705,diyalog,Barnaby,"So, ten?",S9-2b_B81.wav,
 04:06.775,246.775,diyalog,Hazel,Ten out of ten.,S9-2b_H82.wav,
-04:07.825,247.825,efekt,,v2_three-gentle-soft-thumps-of-large-furry-_v3Vd38,v2_three-gentle-soft-thumps-of-large-furry-_v3Vd38.mp3,tepe 2 dBFS (ham)
+04:07.825,247.825,efekt,,v2_three-gentle-soft-thumps-of-large-furry-_v3Vd38,v2_three-gentle-soft-thumps-of-large-furry-_v3Vd38.mp3, | tepe 2 dBFS
